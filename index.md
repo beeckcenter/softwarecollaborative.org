@@ -8,4 +8,9 @@ Government hasn’t kept pace with advances in technology. Only 13% of major gov
 
 We are knitting together collections of state agencies based on common needs to help them collaboratively procure, develop, and maintain the software that they all depend on. This will prevent 50 states from buying 50 versions of near-identical, overpriced software, and instead allows them to procure high-quality, fair-priced software just once, and share it amongst themselves.
 
+## Staff
+
+- [Robin Carnahan](https://beeckcenter.georgetown.edu/person/robin-carnahan/)
+- [Waldo Jaquith](https://beeckcenter.georgetown.edu/person/waldo-jaquith/)
+
 Housed at <a href="https://beeckcenter.georgetown.edu/">the Beeck Center at Georgetown University</a>. Supported by <a href="https://www.rockefellerfoundation.org/">the Rockefeller Foundation</a>.
