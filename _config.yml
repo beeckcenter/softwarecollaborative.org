@@ -1,0 +1,6 @@
+name: State Software Collaborative
+url:  https://www.softwarecollaborative.org/
+theme: minima
+minima:
+  social_links:
+    twitter: statesoftware
