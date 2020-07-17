@@ -8,7 +8,7 @@ We are knitting together collections of state agencies based on common needs to 
 
 ## Staff
 
-- [Robin Carnahan](https://beeckcenter.georgetown.edu/person/robin-carnahan/)
-- [Waldo Jaquith](https://beeckcenter.georgetown.edu/person/waldo-jaquith/)
+- [Robin Carnahan](https://beeckcenter.georgetown.edu/person/robin-carnahan/) &lt;robin.carnahan@georgetown.edu&gt;
+- [Waldo Jaquith](https://beeckcenter.georgetown.edu/person/waldo-jaquith/) &lt;waldo.jaquith@georgetown.edu&gt;
 
 Housed at <a href="https://beeckcenter.georgetown.edu/">the Beeck Center at Georgetown University</a>. Supported by <a href="https://www.rockefellerfoundation.org/">the Rockefeller Foundation</a>.
