@@ -1,13 +1,14 @@
+---
+title: Local Gov. Drupal Club
+---
 
-- name: Local Gov Drupal Club
 model: Collaborative Organizational Development (COD)
-service_type: 
+service type: 
 country: 
 states: 
-government_type: 
-license: Open
-covid: No
-url: https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/
-url2: https://github.com/localgovdrupal
-description: 
-notes: 
+government type: 
+license: open
+URL: https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/
+URL 2: https://github.com/localgovdrupal
+
+## Description

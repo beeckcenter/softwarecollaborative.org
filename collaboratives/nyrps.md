@@ -1,13 +1,13 @@
+---
+title: New York Real Property System
+---
 
-- name: New York Real Property System
-model: Collaborative Organizational Development (COD)
-service_type: Other
+model: Collaborative Organizational Development
+service type: Other
 country: United States
 states: New York
-government_type: Mixed
-license: Open
-covid: No
-url: https://www.tax.ny.gov/research/property/assess/rps/index.htm
-url2: 
-description: 
-notes: 
+government type: Mixed
+license: open
+URL: https://www.tax.ny.gov/research/property/assess/rps/index.htm
+
+## Description

@@ -2,13 +2,11 @@
 title: Internet Unemployment System
 ---
 
-# Internet Unemployment System
-
 - model: 
-- service_type: Social Services
+- service type: Social Services
 - country: United States
 - states: Idaho, Vermont, North Dakota, Iowa
-- government_type: State
+- government type: state
 - license: 
 - URL: https://vermontdailychronicle.com/2020/04/22/scott-pulled-plug-on-troubled-ui-upgrade-then-this-pandemic-hit/
 

@@ -2,8 +2,6 @@
 title: CalWIN Consortium
 ---
 
-# CalWIN Consortium
-
 - model: Collaborative Organizational Development
 - service type: Social Services
 - country: United States

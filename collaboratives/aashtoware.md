@@ -2,13 +2,11 @@
 title: AASHTOWare
 ---
 
-# AASHTOWare
-
 - model: Collaborative Organizational Development (COD)
-- service_type: Transportation
+- service type: Transportation
 - country: United States
 - states: All
-- government_type: state
+- government type: state
 - license: closed
 - URL: https://www.aashtoware.org/
 - URL 2: https://www.aashtoware.org/products/project/project-overview/

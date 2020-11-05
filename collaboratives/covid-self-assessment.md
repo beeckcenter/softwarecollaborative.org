@@ -2,8 +2,6 @@
 title: COVID-19 Self-Assessment Tool
 ---
 
-# COVID-19 Self-Assessment Tool
-
 - model: Built Here, Others Use
 - service type: Public Health
 - country: Canada

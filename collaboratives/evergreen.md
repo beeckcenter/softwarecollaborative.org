@@ -2,8 +2,6 @@
 title: Evergreen
 ---
 
-# Evergreen
-
 - model: Collaborative, Independent Development
 - service type: Public Services
 - country: United States

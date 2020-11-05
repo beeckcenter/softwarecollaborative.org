@@ -2,8 +2,6 @@
 title: OpenTripPlanner
 ---
 
-# OpenTripPlanner
-
 - model: "Built Here, Others Use (BHOU)"
 - service type: Transportation
 - country: United States

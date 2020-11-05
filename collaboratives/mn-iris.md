@@ -1,8 +1,6 @@
 ---
-title: MNDOT’S IRIS
+title: Intelligent Roadway Information System
 ---
-
-# MNDOT’S Intelligent Roadway Information System
 
 - model: Built Here, Others Use
 - service type: Transportation

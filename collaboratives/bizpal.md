@@ -2,8 +2,6 @@
 title: BizPal
 ---
 
-# BizPal
-
 - model: Collaborative Organizational Development (COD)
 - service type: Other
 - country: Canada

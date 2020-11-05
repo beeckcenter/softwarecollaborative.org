@@ -1,8 +1,6 @@
 ---
-title: WinGAP CAMA
+title: WinGAP Computer Assisted Mass Appraisal
 ---
-
-# WinGAP Computer Assisted Mass Appraisal
 
 - model: Built Here, Others Use
 - service type: Other

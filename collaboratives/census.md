@@ -2,14 +2,12 @@
 title: Census and Survey Processing System
 ---
 
-# Census and Survey Processing System
-
-model: Built Here, Others Use
-service type: Other
-country: United States
-government type: Federal
-license: open
-URL: https://www.census.gov/data/software/cspro.html
+- model: Built Here, Others Use
+- service type: Other
+- country: United States
+- government type: Federal
+- license: open
+- URL: https://www.census.gov/data/software/cspro.html
 
 ## Description
 

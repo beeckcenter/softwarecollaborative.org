@@ -2,10 +2,8 @@
 title: Electronic Registration Information Center (ERIC)
 ---
 
-# Electronic Registration Information Center (ERIC)
-
 - model: 
-- service_type: 
+- service type: 
 - country: United States 
 - states: 
 - government type: state

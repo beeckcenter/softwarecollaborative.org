@@ -2,9 +2,7 @@
 title: Multiphysics Object Oriented Simulation Environment (MOOSE)
 ---
 
-# Multiphysics Object Oriented Simulation Environment (MOOSE)
-
-- model: "Built Here, Others Contribute (BHOC)"
+- model: Built Here, Others Contribute
 - service type: Education
 - country: Australia
 - states: 
