@@ -4,3 +4,7 @@ theme: minima
 minima:
   social_links:
     twitter: statesoftware
+
+menu:
+  home: /
+  collaboratives: /collaboratives/
