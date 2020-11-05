@@ -4,6 +4,7 @@ theme: minima
 minima:
   social_links:
     twitter: statesoftware
+    github: State-Software-Collaborative
 
 links:
   home: /
