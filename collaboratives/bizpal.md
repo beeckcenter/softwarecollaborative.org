@@ -7,7 +7,7 @@ title: BizPal
 - country: Canada
 - government type: mixed
 - license: unknown
-- URL: https://bizpal.ca/
+- URL: [https://bizpal.ca/](https://bizpal.ca/)
 
 ## Description
 

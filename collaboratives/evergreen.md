@@ -8,7 +8,7 @@ title: Evergreen
 - government type: state
 - states: Georgia
 - license: open
-- URL: https://evergreen-ils.org/
+- URL: [https://evergreen-ils.org/](https://evergreen-ils.org/)
 
 ## Description
 

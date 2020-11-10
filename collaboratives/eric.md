@@ -8,6 +8,6 @@ title: Electronic Registration Information Center (ERIC)
 - states: 
 - government type: state
 - license: 
-- URL: https://ericstates.org/
+- URL: [https://ericstates.org/](https://ericstates.org/)
 
 ## Description

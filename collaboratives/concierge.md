@@ -7,7 +7,7 @@ title: Concierge
 - country: Netherlands and Canada
 - government type: 
 - license: open
-- URL: https://github.com/gctools-outilsgc/concierge
+- URL: [https://github.com/gctools-outilsgc/concierge](https://github.com/gctools-outilsgc/concierge)
 
 ## Description
 

@@ -8,7 +8,7 @@ title: New York Community Officials Data Exchange
 - states: New York
 - government type: federal
 - license: unknown
-- URL: https://www.codedata.us/
+- URL: [https://www.codedata.us/](https://www.codedata.us/)
 
 ## Description
 “The C.O.D.E is a data sharing resource for local governments so that they can better inform their blight prevention, mitigation, and resolution strategies.” Schenectady, Amsterdam, and Gloversville partnered, with funding from the New York Department of State. It is a centrally hosted website.

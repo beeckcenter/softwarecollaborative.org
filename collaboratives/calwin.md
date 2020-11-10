@@ -8,7 +8,7 @@ title: CalWIN Consortium
 - states: California
 - government type: state
 - license: unknown
-- URL: http://www.calwin.org/
+- URL: [http://www.calwin.org/](http://www.calwin.org/)
 
 # Description
 

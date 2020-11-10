@@ -8,6 +8,6 @@ country: United States
 states: New York
 government type: Mixed
 license: open
-URL: https://www.tax.ny.gov/research/property/assess/rps/index.htm
+URL: [https://www.tax.ny.gov/research/property/assess/rps/index.htm](https://www.tax.ny.gov/research/property/assess/rps/index.htm)
 
 ## Description

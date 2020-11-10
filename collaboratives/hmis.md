@@ -8,6 +8,6 @@ country: United States
 states: 
 government type: federal
 license: unknown
-URL: https://www.hudexchange.info/programs/hmis/
+URL: [https://www.hudexchange.info/programs/hmis/](https://www.hudexchange.info/programs/hmis/)
 
 ## Description

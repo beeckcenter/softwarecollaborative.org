@@ -8,7 +8,7 @@ title: Zephyr Foundation
 - states: Oregon, California, Ohio, and others
 - government type: state
 - license: open
-- URL: https://zephyrtransport.org/
+- URL: [https://zephyrtransport.org/](https://zephyrtransport.org/)
 
 ## Description
 This foundation works to “advance rigorous transportation and land use decision-making for the public good by advocating for and supporting improved travel analysis, and facilitating its implementation,” and they have created a couple of open source software tools to that end. Members include Oregon DOT, San Francisco County Transportation Authority, Ohio DOT, and others.

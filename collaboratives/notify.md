@@ -7,8 +7,8 @@ title: Notify
 - country: United Kingdom
 - government type: federal
 - license: open
-- URL: https://www.notifications.service.gov.uk/
-- URL 2: https://github.com/alphagov/notifications-api
+- URL: [https://www.notifications.service.gov.uk/](https://www.notifications.service.gov.uk/)
+- URL 2: [https://github.com/alphagov/notifications-api](https://github.com/alphagov/notifications-api)
 
 ## Description
 

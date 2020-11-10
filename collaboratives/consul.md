@@ -8,8 +8,8 @@ title: CONSUL
 - states: Use by the governments of Buenos Aires, Porto Alegre, and New York
 - government type: 
 - license: open
-- URL: http://consulproject.org/en/
-- URL 2: https://consulfoundation.org/
+- URL: [http://consulproject.org/en/](http://consulproject.org/en/)
+- URL 2: [https://consulfoundation.org/](https://consulfoundation.org/)
 
 ## Description
 
