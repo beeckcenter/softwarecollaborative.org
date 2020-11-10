@@ -1,5 +1,6 @@
 ---
 title: Minnesota Educational Computing Consortium
+parent: Software Collaboratives
 ---
 
 - model: Collaborative Organizational Licensing

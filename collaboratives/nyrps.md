@@ -1,5 +1,6 @@
 ---
 title: New York Real Property System
+parent: Software Collaboratives
 ---
 
 model: Collaborative Organizational Development

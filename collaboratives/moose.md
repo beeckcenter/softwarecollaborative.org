@@ -1,5 +1,6 @@
 ---
 title: Multiphysics Object Oriented Simulation Environment (MOOSE)
+parent: Software Collaboratives
 ---
 
 - model: Built Here, Others Contribute

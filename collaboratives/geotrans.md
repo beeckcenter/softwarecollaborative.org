@@ -1,5 +1,6 @@
 ---
 title: GeoTrans
+parent: Software Collaboratives
 ---
 
 - model: Unknown

@@ -1,5 +1,6 @@
 ---
 title: X-Road
+parent: Software Collaboratives
 ---
 
 - model: Collaborative Organizational Development

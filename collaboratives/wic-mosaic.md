@@ -1,5 +1,6 @@
 ---
 title: WIC Mosaic
+parent: Software Collaboratives
 ---
 
 model: Unknown

@@ -1,5 +1,6 @@
 ---
 title: Census and Survey Processing System
+parent: Software Collaboratives
 ---
 
 - model: Built Here, Others Use

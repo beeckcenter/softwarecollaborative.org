@@ -1,5 +1,6 @@
 ---
 title: Rhode Island E-Permitting
+parent: Software Collaboratives
 ---
 
 - model: Top-Down

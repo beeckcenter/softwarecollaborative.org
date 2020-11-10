@@ -1,5 +1,6 @@
 ---
 title: Local Gov. Drupal Club
+parent: Software Collaboratives
 ---
 
 model: Collaborative Organizational Development (COD)

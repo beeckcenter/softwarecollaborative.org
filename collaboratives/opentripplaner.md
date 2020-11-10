@@ -1,5 +1,6 @@
 ---
 title: OpenTripPlanner
+parent: Software Collaboratives
 ---
 
 - model: "Built Here, Others Use (BHOU)"

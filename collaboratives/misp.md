@@ -1,5 +1,6 @@
 ---
 title: Malware Information Sharing Platform
+parent: Software Collaboratives
 ---
 
 - model: Collaborative, Independent Development

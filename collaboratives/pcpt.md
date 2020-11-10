@@ -1,5 +1,6 @@
 ---
 title: Pennsylvania Capital Planning Tool
+parent: Software Collaboratives
 ---
 
 - model: Built Here, Others Use

@@ -1,5 +1,6 @@
 ---
 title: GovCMS
+parent: Software Collaboratives
 ---
 
 model: Top-Down (TD)

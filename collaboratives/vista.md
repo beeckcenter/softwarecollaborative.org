@@ -1,5 +1,6 @@
 ---
 title: Veterans Health Information Systems and Technology Architecture
+parent: Software Collaboratives
 ---
 
 model: Built Here, Others Use

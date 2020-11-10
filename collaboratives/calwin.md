@@ -1,5 +1,6 @@
 ---
 title: CalWIN Consortium
+parent: Software Collaboratives
 ---
 
 - model: Collaborative Organizational Development

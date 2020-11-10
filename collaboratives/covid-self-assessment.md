@@ -1,5 +1,6 @@
 ---
 title: COVID-19 Self-Assessment Tool
+parent: Software Collaboratives
 ---
 
 - model: Built Here, Others Use

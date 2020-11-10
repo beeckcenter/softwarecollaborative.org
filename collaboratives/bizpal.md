@@ -1,5 +1,6 @@
 ---
 title: BizPal
+parent: Software Collaboratives
 ---
 
 - model: Collaborative Organizational Development (COD)

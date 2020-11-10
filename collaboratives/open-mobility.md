@@ -1,5 +1,6 @@
 ---
 title: Open Mobility Foundation
+parent: Software Collaboratives
 ---
 
 model: Collaborative Organizational Development

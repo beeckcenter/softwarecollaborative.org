@@ -1,5 +1,6 @@
 ---
 title: QGIS
+parent: Software Collaboratives
 ---
 
 - model: Built Externally, Agencies Contribute

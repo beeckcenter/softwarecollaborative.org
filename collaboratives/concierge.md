@@ -1,5 +1,6 @@
 ---
 title: Concierge
+parent: Software Collaboratives
 ---
 
 - model: Collaborative, Independent Development

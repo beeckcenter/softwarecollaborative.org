@@ -1,5 +1,6 @@
 ---
 title: Allegheny County, PA Police Records Management System 
+parent: Software Collaboratives
 ---
 
 - model: Licensed Here, Others Use

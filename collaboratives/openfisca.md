@@ -1,5 +1,6 @@
 ---
 title: OpenFisca
+parent: Software Collaboratives
 ---
 
 - model: Built Here, Others Use

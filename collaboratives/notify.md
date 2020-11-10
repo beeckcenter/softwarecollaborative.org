@@ -1,5 +1,6 @@
 ---
 title: Notify
+parent: Software Collaboratives
 ---
 
 - model: Built Here, Others Use

@@ -1,5 +1,6 @@
 ---
 title: CONSUL
+parent: Software Collaboratives
 ---
 
 - model: Built Commercialized

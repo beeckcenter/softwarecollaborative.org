@@ -1,5 +1,6 @@
 ---
 title: MI/IL MMIS
+parent: Software Collaboratives
 ---
 
 model: Unknown

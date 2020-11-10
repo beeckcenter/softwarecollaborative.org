@@ -1,5 +1,6 @@
 ---
 title: Electronic Registration Information Center (ERIC)
+parent: Software Collaboratives
 ---
 
 - model: 

@@ -1,5 +1,6 @@
 ---
 title: WinGAP Computer Assisted Mass Appraisal
+parent: Software Collaboratives
 ---
 
 - model: Built Here, Others Use

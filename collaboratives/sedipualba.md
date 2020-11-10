@@ -1,5 +1,6 @@
 ---
 title: Sedipualba @
+parent: Software Collaboratives
 ---
 
 - model: Collaborative Organizational Development

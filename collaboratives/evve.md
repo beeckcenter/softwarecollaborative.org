@@ -1,5 +1,6 @@
 ---
 title: Electronic Verification of Vital Events (EVVE)
+parent: Software Collaboratives
 ---
 
 - model: 

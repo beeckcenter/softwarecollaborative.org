@@ -1,5 +1,6 @@
 ---
 title: Evergreen
+parent: Software Collaboratives
 ---
 
 - model: Collaborative, Independent Development

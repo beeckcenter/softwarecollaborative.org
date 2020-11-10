@@ -1,5 +1,6 @@
 ---
 title: Association of Oregon Counties’ Integrated Road Information System
+parent: Software Collaboratives
 ---
 
 - model: Collaborative Organizational Development

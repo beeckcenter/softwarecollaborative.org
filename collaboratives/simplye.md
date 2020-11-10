@@ -1,5 +1,6 @@
 ---
 title: New York Public Library’s SimplyE
+parent: Software Collaboratives
 ---
 
 - model: "Built Here, Others Use (BHOU)"

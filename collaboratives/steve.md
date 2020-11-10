@@ -1,5 +1,6 @@
 ---
 title: State and Terrorial Exchange of Vital Events (STEVE)
+parent: Software Collaboratives
 ---
 
 - model: 
