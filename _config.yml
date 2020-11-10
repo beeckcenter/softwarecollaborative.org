@@ -1,6 +1,7 @@
 name: State Software Collaborative
 URL:  https://www.softwarecollaborative.org/
-theme: minima
+remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 minima:
   social_links:
     twitter: statesoftware
