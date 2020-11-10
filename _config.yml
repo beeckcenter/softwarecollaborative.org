@@ -1,7 +1,10 @@
-name: State Software Collaborative
-URL:  https://www.softwarecollaborative.org/
+title: State Software Collaborative
+description: Helping states build and share software to solve their common problems.
+url:  https://www.softwarecollaborative.org/
 remote_theme: pmarsceill/just-the-docs
 
 links:
   home: /
   collaboratives: /collaboratives/
+
+  footer_content: "All contents published under a <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY 4.0 license</a>."
