@@ -1,6 +1,9 @@
 ---
 title: The State Software Collaborative
+nav_order: 1
 ---
+
+# The State Software Collaborative
 
 Government hasn’t kept pace with advances in technology. Only 13% of major government software projects succeed, and the successful and failed ones alike cost 5–10 times more than they should. When these projects fail, so too do the public policy initiatives that depend on them — unemployment insurance, DMVs, healthcare exchanges, paid family &amp; medical leave, etc. — leaving behind the millions of Americans who rely on those programs.
 

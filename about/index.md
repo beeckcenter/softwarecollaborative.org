@@ -1,6 +1,9 @@
 ---
-title: About the State Software Collaborative
+title: About
+nav_order: 2
 ---
+
+# About the State Software Collaborative
 
 ## Problem
 

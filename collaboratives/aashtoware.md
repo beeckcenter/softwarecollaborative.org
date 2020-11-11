@@ -1,7 +1,6 @@
 ---
 title: AASHTOWare
 parent: Software Collaboratives
-parent: Software Collaboratives
 ---
 
 - model: Collaborative Organizational Development (COD)
