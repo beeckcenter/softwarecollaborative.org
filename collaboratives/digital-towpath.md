@@ -1,6 +1,6 @@
 ---
 title: Digital Towpath
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Digital Towpath

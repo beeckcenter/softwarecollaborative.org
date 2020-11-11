@@ -1,6 +1,6 @@
 ---
 title: Drupal WXT
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Drupal WXT

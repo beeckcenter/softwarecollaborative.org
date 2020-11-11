@@ -1,6 +1,6 @@
 ---
 title: Mississippi PACER Fork
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Mississippi PACER Fork

@@ -1,6 +1,6 @@
 ---
 title: HMIS Homeless Case Management Software
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # HMIS Homeless Case Management Software

@@ -1,6 +1,6 @@
 ---
 title: CONSUL
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # CONSUL

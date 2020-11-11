@@ -1,6 +1,6 @@
 ---
 title: BizPal
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # BizPal

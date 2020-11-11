@@ -1,6 +1,6 @@
 ---
 title: Rhode Island E-Permitting
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Rhode Island E-Permitting

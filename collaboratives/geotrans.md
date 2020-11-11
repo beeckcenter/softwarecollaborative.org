@@ -1,6 +1,6 @@
 ---
 title: GeoTrans
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # GeoTrans

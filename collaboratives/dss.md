@@ -1,6 +1,6 @@
 ---
 title: Diplomatic Security Service
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Diplomatic Security Service

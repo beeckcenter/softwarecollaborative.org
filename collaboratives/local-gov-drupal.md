@@ -1,6 +1,6 @@
 ---
 title: Local Gov. Drupal Club
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Local Gov. Drupal Club

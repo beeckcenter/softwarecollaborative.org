@@ -1,6 +1,6 @@
 ---
 title: CalWIN Consortium
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # CalWIN Consortium

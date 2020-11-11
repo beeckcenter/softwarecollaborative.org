@@ -1,6 +1,6 @@
 ---
 title: MI/IL MMIS
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # MI/IL MMIS

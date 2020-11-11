@@ -1,6 +1,6 @@
 ---
 title: ReEmployUSA
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # ReEmployUSA

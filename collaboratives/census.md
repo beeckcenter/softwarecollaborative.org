@@ -1,6 +1,6 @@
 ---
 title: Census and Survey Processing System
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Census and Survey Processing System

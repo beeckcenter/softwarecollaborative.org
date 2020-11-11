@@ -1,6 +1,6 @@
 ---
 title: Evergreen
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Evergreen

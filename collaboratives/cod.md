@@ -1,6 +1,6 @@
 ---
 title: Code for Development
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Code for Development

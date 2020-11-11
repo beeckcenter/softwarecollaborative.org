@@ -1,6 +1,6 @@
 ---
 title: New York Real Property System
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # New York Real Property System

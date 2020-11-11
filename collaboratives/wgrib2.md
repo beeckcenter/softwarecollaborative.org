@@ -1,6 +1,6 @@
 ---
 title: wgrib2
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # wgrib2

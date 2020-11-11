@@ -1,6 +1,6 @@
 ---
 title: MW
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # MW

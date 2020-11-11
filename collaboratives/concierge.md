@@ -1,6 +1,6 @@
 ---
 title: Concierge
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Concierge

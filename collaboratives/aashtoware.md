@@ -1,6 +1,6 @@
 ---
 title: AASHTOWare
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # AASHTOWare

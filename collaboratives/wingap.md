@@ -1,6 +1,6 @@
 ---
 title: WinGAP CAMA
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # WinGAP Computer Assisted Mass Appraisal

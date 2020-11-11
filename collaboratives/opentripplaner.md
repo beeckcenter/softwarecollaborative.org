@@ -1,6 +1,6 @@
 ---
 title: OpenTripPlanner
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # OpenTripPlanner

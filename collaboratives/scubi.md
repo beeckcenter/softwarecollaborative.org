@@ -1,6 +1,6 @@
 ---
 title: Southeast Consortium Unemployment Benefits Integration
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Southeast Consortium Unemployment Benefits Integration

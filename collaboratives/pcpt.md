@@ -1,6 +1,6 @@
 ---
 title: Pennsylvania Capital Planning Tool
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Pennsylvania Capital Planning Tool

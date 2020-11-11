@@ -1,6 +1,6 @@
 ---
 title: Multiphysics Object Oriented Simulation Environment
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Multiphysics Object Oriented Simulation Environment (MOOSE)

@@ -1,6 +1,6 @@
 ---
 title: OpenFisca
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # OpenFisca

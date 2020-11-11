@@ -1,6 +1,6 @@
 ---
 title: Malware Information Sharing Platform
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Malware Information Sharing Platform

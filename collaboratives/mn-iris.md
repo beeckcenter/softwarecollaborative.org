@@ -1,6 +1,6 @@
 ---
 title: Intelligent Roadway Information System
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Intelligent Roadway Information System

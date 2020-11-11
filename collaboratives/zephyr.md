@@ -1,6 +1,6 @@
 ---
 title: Zephyr Foundation
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Zephyr Foundation

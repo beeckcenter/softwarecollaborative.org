@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Self-Assessment Tool
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # COVID-19 Self-Assessment Tool

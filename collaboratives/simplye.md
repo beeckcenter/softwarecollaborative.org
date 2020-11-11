@@ -1,6 +1,6 @@
 ---
 title: SimplyE
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # New York Public Library’s SimplyE

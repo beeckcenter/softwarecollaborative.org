@@ -1,6 +1,6 @@
 ---
 title: Internet Unemployment System
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Internet Unemployment System

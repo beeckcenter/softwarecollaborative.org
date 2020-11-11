@@ -1,6 +1,6 @@
 ---
 title: Oregon’s Integrated Road Information System
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Association of Oregon Counties’ Integrated Road Information System

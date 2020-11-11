@@ -1,6 +1,6 @@
 ---
 title: Known Traveller Digital Identity
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Known Traveller Digital Identity (KTDI)

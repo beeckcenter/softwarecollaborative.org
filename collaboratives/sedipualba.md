@@ -1,6 +1,6 @@
 ---
 title: Sedipualba @
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Sedipualba @

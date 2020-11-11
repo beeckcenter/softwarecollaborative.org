@@ -1,6 +1,6 @@
 ---
 title: WIC Mosaic
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # WIC Mosaic

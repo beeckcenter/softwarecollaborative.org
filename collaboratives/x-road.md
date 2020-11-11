@@ -1,6 +1,6 @@
 ---
 title: X-Road
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # X-Road

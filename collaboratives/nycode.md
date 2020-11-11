@@ -1,6 +1,6 @@
 ---
 title: New York Community Officials Data Exchange
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # New York Community Officials Data Exchange

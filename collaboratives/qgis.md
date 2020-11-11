@@ -1,6 +1,6 @@
 ---
 title: QGIS
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # QGIS

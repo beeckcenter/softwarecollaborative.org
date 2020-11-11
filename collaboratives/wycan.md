@@ -1,6 +1,6 @@
 ---
 title: WyCAN
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # WyCAN

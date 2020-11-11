@@ -1,6 +1,6 @@
 ---
 title: GovCMS
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # GovCMS

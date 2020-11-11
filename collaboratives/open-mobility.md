@@ -1,6 +1,6 @@
 ---
 title: Open Mobility Foundation
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Open Mobility Foundation

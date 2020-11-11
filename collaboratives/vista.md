@@ -1,6 +1,6 @@
 ---
 title: Veterans Health Information Systems and Technology Architecture
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Veterans Health Information Systems and Technology Architecture

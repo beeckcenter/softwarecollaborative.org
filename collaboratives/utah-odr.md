@@ -1,6 +1,6 @@
 ---
 title: Utah Courts’ Online Dispute Resolution
-parent: Software Collaboratives
+parent: Collaboratives
 ---
 
 # Utah Courts’ Online Dispute Resolution
