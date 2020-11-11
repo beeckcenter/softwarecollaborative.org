@@ -14,3 +14,5 @@ license: unknown
 URL: [https://www.hudexchange.info/programs/hmis/](https://www.hudexchange.info/programs/hmis/)
 
 ## Description
+
+It is said that there is a HUD-funded HCMS that’s shared between states. We have not yet identified it.

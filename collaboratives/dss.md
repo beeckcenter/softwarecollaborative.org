@@ -13,4 +13,7 @@ government type: federal
 license: unknown
 
 ## Description
-Diplomatic security service shared software and expertise with Pentagon security, Secret Service, and Federal Law Enforcement Training Centers.
+Diplomatic Security Service shares software and expertise with Pentagon security, Secret Service, and Federal Law Enforcement Training Centers.
+
+## Notes
+Further research to come.
