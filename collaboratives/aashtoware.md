@@ -5,27 +5,16 @@ parent: Collaboratives
 
 # AASHTOWare
 
-<table>
-<tbody>
-<tr><th>model</th><td>Collaborative Organizational Development</td></tr>
-<tr><th>service type</th><td>Transportation</td></tr>
-<tr><th>country</th><td>United States</td></tr>
-<tr><th>states</th><td>All</td></tr>
-<tr><th>government type</th><td>state</td></tr>
-<tr><th>license</th><td>closed</td></tr>
-<tr><th>URL</th><td>[https://www.aashtoware.org/](https://www.aashtoware.org/)</td></tr>
-<tr><th>URL 2</th><td>[https://www.aashtoware.org/products/project/project-overview/](https://www.aashtoware.org/products/project/project-overview/)</td></tr>
-</tbody>
-</table>
-
-- model: Collaborative Organizational Development
-- service type: Transportation
-- country: United States
-- states: All
-- government type: state
-- license: closed
-- URL: [https://www.aashtoware.org/](https://www.aashtoware.org/)
-- URL 2: [https://www.aashtoware.org/products/project/project-overview/](https://www.aashtoware.org/products/project/project-overview/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Collaborative Organizational Development
+| service type      | Transportation
+| country           | United States
+| states            | All
+| government type   | state
+| license           | closed
+| URL     	       | [https://www.aashtoware.org/](https://www.aashtoware.org/)
+| URL 2	          | [https://www.aashtoware.org/products/project/project-overview/](https://www.aashtoware.org/products/project/project-overview/)
 
 ## Description
 “AASHTOWare is a unique and powerful enterprise software suite designed by transportation professionals for transportation professionals. No other software matches its effectiveness for transportation project design and management. Why? Because no other software is cooperatively developed and continually updated by experts from state transportation agencies across the nation.”
