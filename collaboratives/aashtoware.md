@@ -7,14 +7,14 @@ parent: Collaboratives
 
 <table>
 <tbody>
-<tr><th>model</th><td>Collaborative Organizational Development</td>
-<tr><th>service type</th><td>Transportation</td>
-<tr><th>country</th><td>United States</td>
-<tr><th>states</th><td>All</td>
-<tr><th>government type</th><td>state</td>
-<tr><th>license</th><td>closed</td>
-<tr><th>URL</th><td>[https://www.aashtoware.org/](https://www.aashtoware.org/)</td>
-<tr><th>URL 2</th><td>[https://www.aashtoware.org/products/project/project-overview/](https://www.aashtoware.org/products/project/project-overview/)</td>
+<tr><th>model</th><td>Collaborative Organizational Development</td></tr>
+<tr><th>service type</th><td>Transportation</td></tr>
+<tr><th>country</th><td>United States</td></tr>
+<tr><th>states</th><td>All</td></tr>
+<tr><th>government type</th><td>state</td></tr>
+<tr><th>license</th><td>closed</td></tr>
+<tr><th>URL</th><td>[https://www.aashtoware.org/](https://www.aashtoware.org/)</td></tr>
+<tr><th>URL 2</th><td>[https://www.aashtoware.org/products/project/project-overview/](https://www.aashtoware.org/products/project/project-overview/)</td></tr>
 </tbody>
 </table>
 
