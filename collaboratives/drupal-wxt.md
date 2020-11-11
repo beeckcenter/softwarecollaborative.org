@@ -8,7 +8,6 @@ parent: Software Collaboratives
 - model: Built Here, Others Use
 - service type: Information Technology
 - country: Canada
-- states: 
 - government type: federal
 - license: open
 - URL: [https://www.drupal.org/project/wxt](https://www.drupal.org/project/wxt)
