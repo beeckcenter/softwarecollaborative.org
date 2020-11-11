@@ -1,7 +1,9 @@
 ---
-title: Electronic Verification of Vital Events (EVVE)
+title: Electronic Verification of Vital Events
 parent: Software Collaboratives
 ---
+
+# Electronic Verification of Vital Events (EVVE)
 
 - model: 
 - service type: Public Health

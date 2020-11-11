@@ -3,7 +3,9 @@ title: OpenTripPlanner
 parent: Software Collaboratives
 ---
 
-- model: "Built Here, Others Use (BHOU)"
+# OpenTripPlanner
+
+- model: Built Here, Others Use
 - service type: Transportation
 - country: United States
 - states: Oregon

@@ -3,6 +3,8 @@ title: BizPal
 parent: Software Collaboratives
 ---
 
+# BizPal
+
 - model: Collaborative Organizational Development (COD)
 - service type: Other
 - country: Canada

@@ -3,6 +3,8 @@ title: Minnesota Educational Computing Consortium
 parent: Software Collaboratives
 ---
 
+# Minnesota Educational Computing Consortium (MECC)
+
 - model: Collaborative Organizational Licensing
 - service type: Education
 - country: United States

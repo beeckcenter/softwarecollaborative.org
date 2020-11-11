@@ -1,7 +1,9 @@
 ---
-title: Multiphysics Object Oriented Simulation Environment (MOOSE)
+title: Multiphysics Object Oriented Simulation Environment
 parent: Software Collaboratives
 ---
+
+# Multiphysics Object Oriented Simulation Environment (MOOSE)
 
 - model: Built Here, Others Contribute
 - service type: Education

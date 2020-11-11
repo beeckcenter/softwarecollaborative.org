@@ -3,6 +3,8 @@ title: Rhode Island E-Permitting
 parent: Software Collaboratives
 ---
 
+# Rhode Island E-Permitting
+
 - model: Top-Down
 - service type: Other
 - country: United States

@@ -3,6 +3,8 @@ title: Utah Courts’ Online Dispute Resolution
 parent: Software Collaboratives
 ---
 
+# Utah Courts’ Online Dispute Resolution
+
 model: Unknown
 service type: Justice
 country: United States

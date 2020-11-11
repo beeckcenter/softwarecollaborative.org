@@ -3,6 +3,8 @@ title: Local Gov. Drupal Club
 parent: Software Collaboratives
 ---
 
+# Local Gov. Drupal Club
+
 model: Collaborative Organizational Development (COD)
 service type: 
 country: 

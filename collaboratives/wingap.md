@@ -1,7 +1,9 @@
 ---
-title: WinGAP Computer Assisted Mass Appraisal
+title: WinGAP CAMA
 parent: Software Collaboratives
 ---
+
+# WinGAP Computer Assisted Mass Appraisal
 
 - model: Built Here, Others Use
 - service type: Other

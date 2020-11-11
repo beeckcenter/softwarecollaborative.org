@@ -1,12 +1,13 @@
 ---
-title: GDS’s E-Petitions
+title: E-Petitions
 parent: Software Collaboratives
 ---
+
+# GDS’s E-Petitions
 
 model: Built Here, Others Use
 service type: Public Services
 country: United Kingdom
-states: 
 government type: federal
 license: open
 URL: [https://github.com/alphagov/e-petitions](https://github.com/alphagov/e-petitions)

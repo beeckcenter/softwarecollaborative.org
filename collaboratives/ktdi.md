@@ -1,7 +1,9 @@
 ---
-title: Known Traveller Digital Identity (KTDI)
+title: Known Traveller Digital Identity
 parent: Software Collaboratives
 ---
+
+# Known Traveller Digital Identity (KTDI)
 
 model: Collaborative Organizational Development
 service type: Transportation

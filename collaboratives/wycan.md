@@ -3,6 +3,8 @@ title: WyCAN
 parent: Software Collaboratives
 ---
 
+# WyCAN
+
 - model: 
 - service type: Social Services
 - country: United States

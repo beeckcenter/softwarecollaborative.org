@@ -3,6 +3,8 @@ title: WIC Mosaic
 parent: Software Collaboratives
 ---
 
+# WIC Mosaic
+
 model: Unknown
 service type: Information Technology
 country: United States

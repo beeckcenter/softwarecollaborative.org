@@ -3,6 +3,8 @@ title: Malware Information Sharing Platform
 parent: Software Collaboratives
 ---
 
+# Malware Information Sharing Platform
+
 - model: Collaborative, Independent Development
 - service type: Information Security
 - country: Luxembourg

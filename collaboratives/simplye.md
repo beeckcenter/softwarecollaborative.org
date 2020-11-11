@@ -1,7 +1,9 @@
 ---
-title: New York Public Library’s SimplyE
+title: SimplyE
 parent: Software Collaboratives
 ---
+
+# New York Public Library’s SimplyE
 
 - model: "Built Here, Others Use (BHOU)"
 - service type: Public Services

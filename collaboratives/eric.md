@@ -1,7 +1,9 @@
 ---
-title: Electronic Registration Information Center (ERIC)
+title: Electronic Registration Information Center
 parent: Software Collaboratives
 ---
+
+# Electronic Registration Information Center (ERIC)
 
 - model: 
 - service type: 
