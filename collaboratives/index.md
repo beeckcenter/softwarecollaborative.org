@@ -7,7 +7,6 @@ nav_order: 3
 # Intergovernmental Software Collaboratives
 
 - [AASHTOWare](aashtoware.html)
-- [Allegheny Police](allegheny-police.html)
 - [Bizpal](bizpal.html)
 - [CalWIN Consortium](calwin.html)
 - [Census and Survey Processing System](census.html)
