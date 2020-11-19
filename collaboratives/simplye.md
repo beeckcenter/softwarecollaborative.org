@@ -5,7 +5,7 @@ parent: Collaboratives
 
 # New York Public Library’s SimplyE
 
-- model: "Built Here, Others Use (BHOU)"
+- model: Built Here, Others Use
 - service type: Public Services
 - country: United States
 - states: New York
