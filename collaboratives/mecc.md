@@ -13,6 +13,8 @@ parent: Collaboratives
 - license: unknown
 - URL: [https://en.m.wikipedia.org/wiki/MECC](https://en.m.wikipedia.org/wiki/MECC)
 
+![Oregon Trail screenshot](images/mecc.png)
+
 ## Description
 MECC was established by the Minnesota legislature in 1973, and remained a going interest until 1999. They grew out of a mainframe time-sharing collaborative comprised of 20 school districts, which started in 1968. They coordinated and wrote software for schools throughout Minnesota, producing such educational games as Oregon Trail, Number Munchers, ad Word Munchers.
 
