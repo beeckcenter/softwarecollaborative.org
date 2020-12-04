@@ -1,0 +1,4 @@
+/* Hide theads, since our Markdown renderer shows empty theads. */
+thead { 
+    display: none;    
+}
