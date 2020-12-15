@@ -56,7 +56,7 @@ Examples: [Rhode Island E-Permitting](rispi.html), [WinGAP Computer Assisted Mas
 ### Built Open, Then Privatized
 An agency builds software that is in the public domain, a private organization takes it over and redistributes it, other agencies then purchase/reuse it via that private organization.
 
-Example: SQLite, [CONSUL](consul.html)
+Example: [SQLite](sqlite.html), [CONSUL](consul.html)
 
 ### Built Commercialized
 An agency hires a vendor to build custom software for them, but the vendor retains copyright. The vendor then resells the software to other agencies, who may not be aware that the software was built for another state.
