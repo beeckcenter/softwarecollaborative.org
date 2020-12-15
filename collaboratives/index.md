@@ -53,7 +53,7 @@ A parent government builds software and shares it with child governments (e.g., 
 
 Examples: [Rhode Island E-Permitting](rispi.html), [WinGAP Computer Assisted Mass Appraisal](wingap.html)
 
-### Built Open, Commercialized
+### Built Open, Then Privatized
 An agency builds software that is in the public domain, a private organization takes it over and redistributes it, other agencies then purchase/reuse it via that private organization.
 
 Example: SQLite, [CONSUL](consul.html)
