@@ -5,7 +5,7 @@ parent: Collaboratives
 
 # CONSUL
 
-- model: Built Commercialized
+- model: Built Open, Then Privatized
 - service type: Public Services
 - country: Spain
 - states: Use by the governments of Buenos Aires, Porto Alegre, and New York
