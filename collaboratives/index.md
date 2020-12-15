@@ -15,7 +15,7 @@ This inventory is largely U.S.-centric, and limited to those with information av
 
 ## Software Sharing Models
 
-_The modalities of intergovernmental software sharing._
+_These are the different ways that software can be shared between governments._
 
 ### Collaborative, Independent Development
 Multiple stakeholder agencies work together (either informally or with an MOU) on development from the start, with each agency contributing in the form of staff/contractor time. This may be reused as SaaS or as executables/source code.
