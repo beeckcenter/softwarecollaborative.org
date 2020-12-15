@@ -30,7 +30,6 @@ Example: [Digital Towpath](collaboratives/digital-towpath.html), [Association of
 ### Collaborative Organizational Licensing
 Multiple agencies are members of an organization, and that organization licenses software for all members to use. Those agencies may contribute financially or there may be external funding (e.g., from a higher level of government or from a foundation). The organization may have been created expressly for the purpose of this software collaboration, or it may be an existing organization. 
 
-
 Example: [CalWIN Consortium](calwin.html)
 
 ### Built Here, Others Use
