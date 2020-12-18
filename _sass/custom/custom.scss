@@ -2,3 +2,8 @@
 thead { 
     display: none;    
 }
+
+/* Wrap linked text normally. */
+.main-content a {
+    white-space: normal;
+}
