@@ -5,10 +5,10 @@ parent: Collaboratives
 
 # Southeast Consortium Unemployment Benefits Integration
 
-- model: 
+- model: unknown
 - service type: Social Services
 - country: United States
-- states: North Carolina, South Carolina, Georgia
+- states: North Carolina and South Carolina
 - government type: state
 - license: unknown
 
