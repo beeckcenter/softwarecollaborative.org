@@ -5,13 +5,15 @@ parent: Collaboratives
 
 # WinGAP Computer Assisted Mass Appraisal
 
-- model: Built Here, Others Use
-- service type: Other
-- country: United States
-- states: Georgia
-- government type: State
-- license: unknown
-- URL: [http://wingap.com/](http://wingap.com/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Here, Others Use
+| service type      | Other
+| country           | United States
+| states            | Georgia
+| government type   | state
+| license           | unknown
+| website           | [http://wingap.com/](http://wingap.com/)
 
 ![WinGAP screenshot](images/wingap.png)
 
