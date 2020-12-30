@@ -5,13 +5,16 @@ parent: Collaboratives
 
 # Evergreen
 
-- model: Collaborative, Independent Development
-- service type: Public Services
-- country: United States
-- government type: state
-- states: Georgia
-- license: open
-- URL: [https://evergreen-ils.org/](https://evergreen-ils.org/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Collaborative, Independent Development
+| service type      | Public Services
+| country           | United States
+| states            | many
+| government type   | state
+| license           | open
+| website           | [https://evergreen-ils.org/](https://evergreen-ils.org/)
+| repository        | [https://git.evergreen-ils.org/](https://git.evergreen-ils.org/)
 
 ![Evergreen screenshot](images/evergreen.png)
 
