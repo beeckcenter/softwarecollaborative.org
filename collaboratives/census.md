@@ -5,12 +5,23 @@ parent: Collaboratives
 
 # Census and Survey Processing System
 
-- model: Built Here, Others Use
-- service type: Other
+- model: 
+- service type: 
 - country: United States
 - government type: Federal
 - license: open
 - URL: [https://www.census.gov/data/software/cspro.html](https://www.census.gov/data/software/cspro.html)
+
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Here, Others Use
+| service type      | Other
+| country           | United States
+| government type   | United States
+| license           | open
+| website           | [https://www.census.gov/data/software/cspro.html](https://www.census.gov/data/software/cspro.html)
+
+![CSPro screenshot](images/cspro.jpg)
 
 ## Description
 
