@@ -16,7 +16,7 @@ parent: Collaboratives
 
 ## Description
 
-LocalGov Drupal is a collection of modifications to Drupal 8 to address needs that are common to UK council websites.
+LocalGov Drupal is a collection of modifications to Drupal 8 to address needs that are common to council websites in the United Kingdom.
 
 In October of 2019, [the UK’s Ministry of Housing, Communities and Local Government announced](https://mhclgdigital.blog.gov.uk/2019/10/31/weve-funded-more-collaborative-projects-through-the-local-digital-fund/):
 
