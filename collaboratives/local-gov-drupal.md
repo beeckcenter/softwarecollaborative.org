@@ -1,5 +1,5 @@
 ---
-title: Local Gov. Drupal Club
+title: LocalGov Drupal Club
 parent: Collaboratives
 ---
 
