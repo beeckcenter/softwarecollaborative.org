@@ -7,7 +7,7 @@ parent: Collaboratives
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
-| model             | Collaborative, Independent Development
+| model             | Collaborative Organizational Development
 | service type      | Public Services
 | country           | United States
 | states            | all
