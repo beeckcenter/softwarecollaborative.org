@@ -1,9 +1,9 @@
 ---
-title: State and Terrorial Exchange of Vital Events (STEVE)
+title: State and Territorial Exchange of Vital Events (STEVE)
 parent: Collaboratives
 ---
 
-# State and Terrorial Exchange of Vital Events
+# State and Territorial Exchange of Vital Events
 
 - model: 
 - service type: Public Health
