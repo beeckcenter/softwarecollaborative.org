@@ -5,12 +5,14 @@ parent: Collaboratives
 
 # wgrib2
 
-- model: Built Here, Others Contribute
-- service type: Other
-- country: United States
-- government type: federal
-- license: open
-- URL: [https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/](https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Here, Others Contribute
+| service type      | Other
+| country           | United States
+| government type   | federal
+| license           | open
+| website           | [https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/](https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/)
 
 ![wgrib2 screenshot](images/wgrib2.png)
 
