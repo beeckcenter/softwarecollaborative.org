@@ -11,7 +11,7 @@ parent: Collaboratives
 | service type      | Information Technology
 | country           | Netherlands and Canada
 | government type   | 
-| license           | open
+| license           | open 
 | website           | [https://github.com/gctools-outilsgc/concierge](https://github.com/gctools-outilsgc/concierge)
 
 ## Description
