@@ -5,13 +5,15 @@ parent: Collaboratives
 
 # Internet Unemployment System
 
-- model: Built Here, Others Use 
-- service type: Social Services
-- country: United States
-- states: Idaho, Vermont, North Dakota, Iowa
-- government type: state
-- license: unknown
-- website: [https://www.labor.idaho.gov/dnn/iUS](https://www.labor.idaho.gov/dnn/iUS)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Here, Others Use 
+| service type      | Social Services
+| country           | United States
+| states            | Idaho, Vermont, North Dakota, Iowa
+| government type   | state
+| license           | unknown
+| website           | [https://www.labor.idaho.gov/dnn/iUS](https://www.labor.idaho.gov/dnn/iUS)
 
 ## Description
 An unemployment insurance software consortium that included Idaho, Vermont, Iowa, and North Dakota. The states began their collaboration in 2017, with Idaho leading the work developing the .NET-based software. Soon after work began, Iowa left the consortium due to conflicting technical requirements (they wanted something Java-based), and North Dakota later joined.

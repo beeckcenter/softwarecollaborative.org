@@ -5,12 +5,14 @@ parent: Collaboratives
 
 # Concierge
 
-- model: Collaborative, Independent Development
-- service type: Information Technology
-- country: Netherlands and Canada
-- government type: 
-- license: open
-- URL: [https://github.com/gctools-outilsgc/concierge](https://github.com/gctools-outilsgc/concierge)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Collaborative, Independent Development
+| service type      | Information Technology
+| country           | Netherlands and Canada
+| government type   | 
+| license           | open 
+| website           | [https://github.com/gctools-outilsgc/concierge](https://github.com/gctools-outilsgc/concierge)
 
 ## Description
 

@@ -5,13 +5,15 @@ parent: Collaboratives
 
 # QGIS
 
-- model: Built Externally, Agencies Contribute
-- service type: Other
-- country: United States
-- states: 
-- government type: 
-- license: open
-- URL: [https://www.qgis.org/](https://www.qgis.org/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Externally, Agencies Contribute
+| service type      | Other
+| country           | United States
+| states            | 
+| government type   | 
+| license           | open
+| website           | [https://www.qgis.org/](https://www.qgis.org/)
 
 ![QGIS screenshot](images/qgis.png)
 

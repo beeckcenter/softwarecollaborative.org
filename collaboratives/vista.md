@@ -5,12 +5,14 @@ parent: Collaboratives
 
 # Veterans Health Information Systems and Technology Architecture
 
-- model: Built Here, Others Use
-- service type: Public Health
-- country: United States
-- government type: federal
-- license: open
-- URL: [https://en.wikipedia.org/wiki/VistA#Usage_in_non-governmental_hospitals](https://en.wikipedia.org/wiki/VistA#Usage_in_non-governmental_hospitals)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Here, Others Use
+| service type      | Public Health
+| country           | United States
+| government type   | federal
+| license           | open
+| website           | [https://en.wikipedia.org/wiki/VistA#Usage_in_non-governmental_hospitals](https://en.wikipedia.org/wiki/VistA#Usage_in_non-governmental_hospitals)
 
 ![VISTA screenshot](images/vista.png)
 

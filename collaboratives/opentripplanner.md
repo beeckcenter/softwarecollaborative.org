@@ -5,14 +5,16 @@ parent: Collaboratives
 
 # OpenTripPlanner
 
-- model: Built Here, Others Use
-- service type: Transportation
-- country: United States
-- states: Oregon
-- government type: state
-- license: open
-- URL: [http://www.opentripplanner.org/](http://www.opentripplanner.org/)
-- URL 2: [https://github.com/opentripplanner](https://github.com/opentripplanner)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Here, Others Use
+| service type      | Transportation
+| country           | United States
+| states            | Oregon
+| government type   | state
+| license           | open
+| website           | [http://www.opentripplanner.org/](http://www.opentripplanner.org/)
+| another website   | [https://github.com/opentripplanner](https://github.com/opentripplanner)
 
 ![OpenTripPlanner screenshot](images/opentripplanner.png)
 

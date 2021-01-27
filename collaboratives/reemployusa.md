@@ -5,13 +5,16 @@ parent: Collaboratives
 
 # ReEmployUSA
 
-- model: 
-- service type: Social Services
-- country: United States
-- states: Mississippi, Rhode Island, Oklahoma, Maine, and Connecticut
-- government type: state
-- license: unknown
-- URL: 
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | 
+| service type      | Social Services
+| country           | United States
+| states            | Mississippi, Rhode Island, Oklahoma, Maine, and Connecticut
+| government type   | state
+| license           | unknown
+| website           | [https://www.uwcstrategy.org/wp-content/uploads/bsk-pdf-manager/2019/06/Jen-Jones-UI-Automated-Systems-215-SalonF.pdf](https://www.uwcstrategy.org/wp-content/uploads/bsk-pdf-manager/2019/06/Jen-Jones-UI-Automated-Systems-215-SalonF.pdf)
+
 
 ## Description
 A five-state unemployment insurance software consortium, including Mississippi, Rhode Island, Oklahoma, Maine, and Connecticut. Only Maine and Mississippi have implemented the platform fully. The software was built and is maintained by Tata Consultancy Services. Each state hosts their own copy of the software.

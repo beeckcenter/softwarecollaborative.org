@@ -5,12 +5,14 @@ parent: Collaboratives
 
 # Electronic Registration Information Center (ERIC)
 
-- model: 
-- service type: 
-- country: United States 
-- states: 
-- government type: state
-- license: 
-- URL: [https://ericstates.org/](https://ericstates.org/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | 
+| service type      | 
+| country           | United States
+| states            | 
+| government type   | state
+| license           | 
+| website           | [https://ericstates.org/](https://ericstates.org/)
 
 ## Description
