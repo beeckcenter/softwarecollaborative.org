@@ -5,14 +5,16 @@ parent: Collaboratives
 
 # LocalGov Drupal Club
 
-- model: Collaborative Organizational Development (COD)
-- service type: 
-- country: United Kingdom
-- government type: municipal
-- license: open
-- announcement: [https://croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/](https://croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/)
-- report: [https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/](https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/)
-- GitHub: [https://github.com/localgovdrupal](https://github.com/localgovdrupal)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Collaborative Organizational Development
+| service type      | 
+| country           | United Kingdom
+| government type   | municipal
+| license           | open
+| announcement      | [https://croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/](https://croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/)
+| report            | [https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/](https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/)
+| GitHub            | [https://github.com/localgovdrupal](https://github.com/localgovdrupal)
 
 ## Description
 
