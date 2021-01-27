@@ -5,13 +5,15 @@ parent: Collaboratives
 
 # OpenFisca
 
-- model: Built Here, Others Use
-- service type: Social Services
-- country: France
-- states: 
-- government type: federal
-- license: open
-- URL: [https://openfisca.org/](https://openfisca.org/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Built Here, Others Use
+| service type      | Social Services
+| country           | France
+| states            | 
+| government type   | federal
+| license           | open
+| website           | [https://openfisca.org/](https://openfisca.org/)
 
 ## description
 
