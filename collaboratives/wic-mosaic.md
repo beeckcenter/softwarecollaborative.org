@@ -5,13 +5,6 @@ parent: Collaboratives
 
 # WIC Mosaic
 
-- model: Unknown
-- service type: Information Technology
-- country: United States
-- states: Texas, New Mexico, Louisiana
-- government type: state
-- license: unknown
-
 |                   |                                          |
 |:------------------|:-----------------------------------------|
 | model             | unknown
