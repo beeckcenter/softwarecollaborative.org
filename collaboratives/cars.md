@@ -5,13 +5,15 @@ parent: Collaboratives
 
 # Oregon’s CRAB Annual Reporting System
 
-- model: Top-Down
-- service type: Transportation
-- country: United States
-- states: Oregon
-- government type: state
-- license: unknown
-- URL: [https://www.crab.wa.gov/services/crab-information-services/crab-software](https://www.crab.wa.gov/services/crab-information-services/crab-software)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Top-Down
+| service type      | Transportation
+| country           | United States
+| states            | Oregon
+| government type   | state
+| license           | unknown
+| website           | [https://www.crab.wa.gov/services/crab-information-services/crab-software](https://www.crab.wa.gov/services/crab-information-services/crab-software)
 
 ## Description
 "The CRAB Annual Reporting System (C.A.R.S.) allows county staff to electronically fill in information on all of the required annual reports and submittals due to [the County Road Administration Board] throughout the year.”
