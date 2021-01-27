@@ -5,13 +5,15 @@ parent: Collaboratives
 
 # Minnesota Educational Computing Consortium (MECC)
 
-- model: Collaborative Organizational Licensing
-- service type: Education
-- country: United States
-- states: Minnesota
-- government type: local
-- license: unknown
-- URL: [https://en.m.wikipedia.org/wiki/MECC](https://en.m.wikipedia.org/wiki/MECC)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Collaborative Organizational Development
+| service type      | Education
+| country           | United States
+| states            | Minnesota
+| government type   | local
+| license           | unknown
+| website           | [https://en.m.wikipedia.org/wiki/MECC](https://en.m.wikipedia.org/wiki/MECC)
 
 ![Oregon Trail screenshot](images/mecc.png)
 
