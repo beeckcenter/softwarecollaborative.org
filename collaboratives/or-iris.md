@@ -5,13 +5,15 @@ parent: Collaboratives
 
 # Association of Oregon Counties’ Integrated Road Information System
 
-- model: Collaborative Organizational Development
-- service type: Transportation
-- country: United States
-- states: Oregon
-- government type: state
-- license: unknown
-- URL: [http://iris.oregoncounties.org/](http://iris.oregoncounties.org/)
+|                   |                                          |
+|:------------------|:-----------------------------------------|
+| model             | Collaborative Organizational Development
+| service type      | Transportation
+| country           | United States
+| states            | Oregon
+| government type   | state
+| license           | unknown
+| website           | [http://iris.oregoncounties.org/](http://iris.oregoncounties.org/)
 
 ## Description
 "IRIS provides Oregon’s County Public Works - Road departments with a comprehensive software suite of tools and reporting to help manage their road system and operations. [...] IRIS is a cost accounting based software system of 8 modules and reports covering and tracking resources used in the maintenance and operations of the County Road Department.”
