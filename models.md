@@ -1,5 +1,5 @@
 ---
-title: Collaboratives
+title: Sharing Models
 nav_order: 3
 ---
 
