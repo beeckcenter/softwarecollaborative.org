@@ -9,7 +9,7 @@ parent: Collaboratives
 |:------------------|:-----------------------------------------|
 | model             | Built Here, Others Use
 | service type      | Communication
-| countries         | United Kingdom, Canada, Australia
+| countries         | United Kingdom, Canada, Australia, U.S.
 | government type   | federal
 | license           | open
 | Website           | [https://www.notifications.service.gov.uk/](https://www.notifications.service.gov.uk/)
@@ -24,3 +24,5 @@ Notify was created by [the UK’s Government Digital Service](https://www.gov.uk
 As a result of this approach, Notify is a sort of collaborative of collaboratives, with each installation of the software serving all members of that particular collaborative.
 
 [Canada](https://notification.canada.ca/) and [Australia](https://notify.gov.au/) digital services host their own versions of Notify for the benefit of their governments. Australia limits the functionality to text messages and emails (not postal letters). [Canada reports](https://notification.canada.ca/activity) that 73 “services” are using Notify, and [Australia reports](https://notify.gov.au/) 238 federal customers, 118 state/territory customers, and 31 local government customers.
+
+[Notify was put into use by the U.S. Department of Veterans Affairs in February of 2021](https://www.thoughtworks.com/news/vanotify), branded as “VANotify.” [Their work is available on GitHub](https://github.com/department-of-veterans-affairs/notification-api).
