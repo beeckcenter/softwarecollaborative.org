@@ -16,6 +16,9 @@ parent: Collaboratives
 | website           | [activitysim.github.io](https://activitysim.github.io/)
 | repository			| [https://github.com/activitysim](https://github.com/activitysim)
 
+
+![ActivitySim screenshot](images/ActivitySim.png)
+
 ## Description
 
 They say:
