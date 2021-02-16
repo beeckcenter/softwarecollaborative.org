@@ -15,6 +15,9 @@ parent: Collaboratives
 | license           | unknown
 | website           | [aphl.org/programs/informatics/Pages/aims_platform.aspx](https://www.aphl.org/programs/informatics/Pages/aims_platform.aspx)
 
+
+![AIMS screenshot](images/AIMS.png)
+
 ## Description
 
 [APHL describes AIMS as](https://www.aphl.org/programs/informatics/Pages/aims_platform.aspx):
