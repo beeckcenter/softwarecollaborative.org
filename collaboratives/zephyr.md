@@ -15,6 +15,8 @@ parent: Collaboratives
 | license           | open
 | website           | [https://zephyrtransport.org/](https://zephyrtransport.org/)
 
+![Zephyr screenshot](collaboratives/images/ZephyrFoundation.png) 
+
 ## Description
 This 501(c)3 non-profit works to “advance rigorous transportation and land use decision-making for the public good by advocating for and supporting improved travel analysis, and facilitating its implementation,” and they have created a couple of open source software tools to that end. Members include Oregon DOT, San Francisco County Transportation Authority, Ohio DOT, and others.
 
@@ -25,12 +27,3 @@ One channel in which the Zephyr Foundation looks to innovate the transporation s
 
 ## Count and Data Management Tool
 "Create an online transportation data management tool for travel analysis which tiers from several successful one-off projects that only appeared at single agencies."
-
-## Fast-Trips
-"An open-source person-based dynamic transit assignment tool."
-
-## GTFS-ride
-"A data standard for fixed-route ridership."
-
-## Notes
-https://zephyrtransport.org/#activities
