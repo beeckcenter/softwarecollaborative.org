@@ -14,6 +14,8 @@ parent: Collaboratives
 | license           | open 
 | website           | [https://github.com/gctools-outilsgc/concierge](https://github.com/gctools-outilsgc/concierge)
 
+![concierge screenshot](images/concierge.png)
+
 ## Description
 
 “OAuth2 and OpenID microservice used for handling user registration, login and SAML2 SSO.” Jointly built by Canada and the Netherlands.
