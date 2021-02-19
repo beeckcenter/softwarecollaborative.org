@@ -16,6 +16,8 @@ parent: Collaboratives
 | report            | [https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/](https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/)
 | GitHub            | [https://github.com/localgovdrupal](https://github.com/localgovdrupal)
 
+![LocalGov Drupal screenshot](images/localgovdrupal.png)
+
 ## Description
 
 LocalGov Drupal is a collection of modifications to Drupal 8 to address needs that are common to council websites in the United Kingdom.
