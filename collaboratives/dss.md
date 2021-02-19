@@ -15,6 +15,8 @@ parent: Collaboratives
 | license           | unknown
 | website           | [https://www.state.gov/working-for-dss/](https://www.state.gov/working-for-dss/)
 
+![dss screenshot](images/dss.svg)
+
 ## Description
 Diplomatic Security Service shares software and expertise with Pentagon security, Secret Service, and Federal Law Enforcement Training Centers.
 
