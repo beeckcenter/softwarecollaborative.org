@@ -14,5 +14,7 @@ parent: Collaboratives
 | license           | open
 | website           | [https://github.com/MISP/MISP/](https://github.com/MISP/MISP/)
 
+![MISP screenshot](images/misp.png)
+
 ## Description
 MISP is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis.” Government contributors include Belgian Defence, NATO, National Criminal Intelligence Resource Center, and Computer Incident Response Center Luxembourg. Funded by Computer Incident Response Center Luxembourg and a EU “Connecting Europe Facility” grant.
