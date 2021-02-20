@@ -15,6 +15,8 @@ parent: Collaboratives
 | license           | unknown
 | website           | [https://www.crab.wa.gov/services/crab-information-services/crab-software](https://www.crab.wa.gov/services/crab-information-services/crab-software)
 
+![crab screenshot](images/crab.png)
+
 ## Description
 "The CRAB Annual Reporting System (C.A.R.S.) allows county staff to electronically fill in information on all of the required annual reports and submittals due to [the County Road Administration Board] throughout the year.”
 
