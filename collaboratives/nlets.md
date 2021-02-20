@@ -15,6 +15,8 @@ parent: Collaboratives
 | license           | unknown
 | website           | [nlets.org](https://www.nlets.org/)
 
+![nlets screenshot](images/nlets.png)
+
 ## Description
 
 [Nlets describes themselves as such](https://www.nlets.org/about/who-we-are):
