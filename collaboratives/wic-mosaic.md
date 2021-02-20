@@ -13,7 +13,7 @@ parent: Collaboratives
 | states            | Texas, New Mexico, Louisiana
 | government type   | state
 | license           | unknown
-| website           | [https://uatitsm.microsoftcrmportals.com/Account/Login/Register?returnUrl=%2F] (https://uatitsm.microsoftcrmportals.com/Account/Login/Register?returnUrl=%2F)
+| website           |[https://uatitsm.microsoftcrmportals.com/Account/Login/Register?returnUrl=%2F](https://uatitsm.microsoftcrmportals.com/Account/Login/Register?returnUrl=%2F)
 
 ![wic-mosaic screenshot](images/wic-mosaic.png)
 
