@@ -15,6 +15,8 @@ parent: Collaboratives
 | Website           | [https://www.notifications.service.gov.uk/](https://www.notifications.service.gov.uk/)
 | GitHub            | [https://github.com/alphagov/notifications-api](https://github.com/alphagov/notifications-api)
 
+![notify screenshot](images/notify.png)
+
 ## Description
 
 Notify is a Software-as-a-Service tool, hosted by a central authority, that participating agencies can use to send emails, text messages, and postal letters. Agencies can make an API call to Notify, specifying a message and a recipient, and Notify handles rendering it as an email, text message, or printed letter, and then sending it.
