@@ -13,7 +13,9 @@ parent: Collaboratives
 | states            | North Carolina and South Carolina
 | government type   | state
 | license           | unknown
-| website           | 
+| website           | [https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi] (https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi)
+
+![scubi screenshot](images/scubi.png)
 
 ## Description
 This unemployment insurance software consortium originally included North Carolina, South Carolina, and Georgia, but Georgia pulled out in 2019.
