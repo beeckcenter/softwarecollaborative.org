@@ -13,7 +13,7 @@ parent: Collaboratives
 | states            | New York
 | government type   | local
 | license           | unknown
-| website           | [https://dtp.digitaltowpath.org/](https://dtp.digitaltowpath.org/)
+| website           | [https://digitaltowpath.org/](https://digitaltowpath.org/)
 
 ![dtp screenshot](images/dtp.jpg)
 
