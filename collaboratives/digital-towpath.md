@@ -14,6 +14,7 @@ parent: Collaboratives
 | government type   | local
 | license           | unknown
 | website           | [https://digitaltowpath.org/](https://digitaltowpath.org/)
+| governance docs   | [https://dtp.digitaltowpath.org:10041/content/Laws/View/5:field=documents;/content/Documents/File/208.pdf](https://dtp.digitaltowpath.org:10041/content/Laws/View/5:field=documents;/content/Documents/File/208.pdf)
 
 ![dtp screenshot](images/dtp.jpg)
 

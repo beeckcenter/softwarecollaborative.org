@@ -14,6 +14,7 @@ parent: Collaboratives
 | government type   | state
 | license           | closed
 | website           | [naswa.org](https://www.naswa.org/)
+| governance docs   | [https://www.naswa.org/about/bylaws](https://www.naswa.org/about/bylaws)
 
 ![naswa screenshot](images/naswa.png)
 

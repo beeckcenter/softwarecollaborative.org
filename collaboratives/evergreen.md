@@ -15,6 +15,7 @@ parent: Collaboratives
 | license           | open
 | website           | [https://evergreen-ils.org/](https://evergreen-ils.org/)
 | repository        | [https://git.evergreen-ils.org/](https://git.evergreen-ils.org/)
+| governance docs   | [https://evergreen-ils.org/governance/](https://evergreen-ils.org/governance/)
 
 ![Evergreen screenshot](images/evergreen.png)
 

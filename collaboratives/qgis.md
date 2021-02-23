@@ -14,6 +14,7 @@ parent: Collaboratives
 | government type   | 
 | license           | open
 | website           | [https://www.qgis.org/](https://www.qgis.org/)
+| governance docs	| [https://www.qgis.org/en/site/getinvolved/governance/](https://www.qgis.org/en/site/getinvolved/governance/)
 
 ![QGIS screenshot](images/qgis.png)
 
