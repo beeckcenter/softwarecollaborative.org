@@ -12,9 +12,9 @@ parent: Collaboratives
 | country           | United Kingdom
 | government type   | municipal
 | license           | open
-| announcement      | [https://croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/](https://croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/)
-| report            | [https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/](https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/)
-| GitHub            | [https://github.com/localgovdrupal](https://github.com/localgovdrupal)
+| announcement      | [croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/](https://croydon.digital/2020/01/22/council-code-sharing-project-is-up-and-running/)
+| report            | [croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/](https://croydon.digital/2020/04/01/what-4-councils-learned-about-sharing-drupal-code/)
+| GitHub            | [github.com/localgovdrupal](https://github.com/localgovdrupal)
 
 ![LocalGov Drupal screenshot](images/localgovdrupal.png)
 
