@@ -15,7 +15,7 @@ parent: Collaboratives
 | website           | [https://github.com/alphagov/e-petitions](https://github.com/alphagov/e-petitions)
 | additional website| [https://petition.parliament.uk](https://petition.parliament.uk)
 
-![e-petition screenshot](images/epetition.png)
+![e-petitions screenshot](images/e-petitions.png)
 
 ## Description
 The UK’s Government Digital Service created an electronic petitions system, and it has been reused in Wales. (It’s not clear whether there are other reusers, or whether the petitions system was built with the intent of reuse.)
