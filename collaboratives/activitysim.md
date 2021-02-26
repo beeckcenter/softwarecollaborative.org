@@ -15,6 +15,7 @@ parent: Collaboratives
 | license           | open
 | website           | [activitysim.github.io](https://activitysim.github.io/)
 | repository			| [https://github.com/activitysim](https://github.com/activitysim)
+| governance			| [https://github.com/ActivitySim/activitysim/wiki/Administration](https://github.com/ActivitySim/activitysim/wiki/Administration)
 
 ## Description
 
