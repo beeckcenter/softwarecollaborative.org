@@ -7,7 +7,7 @@ parent: Collaboratives
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
-| model             | 
+| model             | Collaborative Agency Development
 | service type      | Social Services
 | country           | United States
 | states            | Wyoming, Colorado, Arizona, North Dakota
@@ -16,6 +16,4 @@ parent: Collaboratives
 | website           | 
 
 # Description
-The planning for this Wyoming, Colorado, Arizona, North Dakota unemployment insurance software consortium started in 2009, and it was established via a Cooperative Purchasing Governance Agreement. The other states pulled out, and today this "consortium" includes only Wyoming.
-
-Colorado withdrew after mediation with the vendor. It looks like there was talk of moving WyCAN members over to the ReEmployUSA platform.
+The planning for this Wyoming, Colorado, Arizona, and North Dakota unemployment insurance software consortium started in 2009, [funded via a $62.2 million U.S. Department of Labor grant](https://www.greeleytribune.com/2021/01/10/colorado-unemployment-benefits-new-claims-system/). The states teamed up via a cooperative purchasing governance agreement (which appears to be a sort of an agreement unique to this project). They tried to build a monolithic system that would serve all of their needs, but it wasn't designed to manage the states’ different unemployment benefits processes. The states’ labor secretaries gave up after spending $15.4 million in federal funding, returning the unspending funding to the U.S. Department of Labor.
