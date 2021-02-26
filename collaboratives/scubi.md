@@ -13,7 +13,7 @@ parent: Collaboratives
 | states            | North Carolina and South Carolina
 | government type   | state
 | license           | unknown
-| website           | [https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi] (https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi)
+| website           | [https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi](https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi)
 
 
 ## Description
