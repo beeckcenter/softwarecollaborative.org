@@ -15,8 +15,6 @@ parent: Collaboratives
 | license           | unknown
 | website           | [www.aamva.org/tech-services/](https://www.aamva.org/tech-services/)
 
-![AAMVA screenshot](images/AAMVA.png)
-
 ## Description
 The American Association of Motor Vehicle Administrators (AAMVA) has provided a 18 different shared technology services for state motor vehicle agencies, including on-premises software and SaaS, for over twenty years. The bulk of the software facilitates exchanging driver, vehicle, and identity information between state agencies.
 

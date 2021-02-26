@@ -16,8 +16,6 @@ parent: Collaboratives
 | website           | [naswa.org](https://www.naswa.org/)
 | governance docs   | [https://www.naswa.org/about/bylaws](https://www.naswa.org/about/bylaws)
 
-![naswa screenshot](images/naswa.png)
-
 ## Description
 
 The National Association of State Workforce Agencies (NASWA) is a non-profit organization composed of representatives from 54 states and territories’ workforce agencies. The organization started in 1937, to help states coordinate with the federal government on the administration of state unemployment compensation laws. It received support from the federal government until 1973, when it became a standalone, member-funded non-profit organization (although it still receives federal funding via the Center for Employment Security Education and Research, its sister organization). Long known as the Interstate Conference of Employment Security Agencies, it arrived at its present name in 2000.

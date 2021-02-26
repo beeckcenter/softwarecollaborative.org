@@ -15,8 +15,6 @@ parent: Collaboratives
 | license           | closed
 | website           | [nasba.org/cpeaudit](https://nasba.org/cpeaudit/)
 
-![NASBA screenshot](images/NASBA.png)
-
 ## Description
 
 NASBA describes themselves as such:

@@ -14,7 +14,5 @@ parent: Collaboratives
 | license           | unknown
 | website           | [https://ktdi.org/](https://ktdi.org/)
 
-![KDTI screenshot](images/kdti.png)
-
 ## Description
 “KTDI enables consortium partners to access verifiable claims of a traveller’s identity data so they can assess their credibility, optimise passenger processing and reduce risk.” A joint project of the World Economic Forum, France, and the Netherlands, the project has not yet reached pilot phase, and will initially be limited to flights between two Canadian airports and one Dutch airport.

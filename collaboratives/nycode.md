@@ -15,7 +15,6 @@ parent: Collaboratives
 | license           | unknown
 | website           | [https://www.codedata.us/](https://www.codedata.us/)
 
-![code screenshot](images/code.png)
 
 ## Description
 “The C.O.D.E is a data sharing resource for local governments so that they can better inform their blight prevention, mitigation, and resolution strategies.” Schenectady, Amsterdam, and Gloversville partnered, with funding from the New York Department of State. It is a centrally hosted website.

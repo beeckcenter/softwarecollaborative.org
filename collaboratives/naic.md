@@ -17,8 +17,6 @@ parent: Collaboratives
 | applications      | [eapps.naic.org](https://eapps.naic.org/lhub/products.html#/home)
 | service catalog   | [https://www.naic.org/prod_serv/prod_serv_home_naic_tech_serv_catalog.pdf](https://www.naic.org/prod_serv/prod_serv_home_naic_tech_serv_catalog.pdf)
 
-![naic screenshot](images/naic.png)
-
 ## Description
 
 NAIC says about themselves:

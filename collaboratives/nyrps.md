@@ -15,6 +15,4 @@ parent: Collaboratives
 | license           | open
 | website           | [https://www.tax.ny.gov/research/property/assess/rps/index.htm](https://www.tax.ny.gov/research/property/assess/rps/index.htm)
 
-![rps screenshot](images/rps.png)
-
 ## Description

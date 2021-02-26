@@ -15,7 +15,6 @@ parent: Collaboratives
 | license           | open
 | website           | [https://www.openmobilityfoundation.org/](https://www.openmobilityfoundation.org/)
 
-![omf screenshot](images/omf.png)
 
 ## Description
 This Rockefeller-funded non-profit develops “open-sourced software that provides scalable mobility solutions for cities.” The governance board includes cities from around the Americas (i.e., not just the US). Their GitHub repo shows no software of note, but it does include their Mobility Data Specification.

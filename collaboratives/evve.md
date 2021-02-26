@@ -15,7 +15,5 @@ parent: Collaboratives
 | license           | unknown
 | website           | [https://www.naphsis.org/evve](https://www.naphsis.org/evve)
 
-![evve screenshot](images/evve.png)
-
 ## Description
 The EVVE system verifies identity quickly and powerfully by matching against United States birth certificate databases, and allows for immediate confirmation of birth certificates’ legitimacy. Records are cross-referenced with death records. Operated by the National Association for Public Health Statistics and Vital Information.

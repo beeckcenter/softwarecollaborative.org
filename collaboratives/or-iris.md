@@ -15,7 +15,7 @@ parent: Collaboratives
 | license           | unknown
 | website           | [http://iris.oregoncounties.org/](http://iris.oregoncounties.org/)
 
-![iris screenshot](images/iris.png)
+![IRIS screenshot](images/or-iris.png)
 
 ## Description
 "IRIS provides Oregon’s County Public Works - Road departments with a comprehensive software suite of tools and reporting to help manage their road system and operations. [...] IRIS is a cost accounting based software system of 8 modules and reports covering and tracking resources used in the maintenance and operations of the County Road Department.”
