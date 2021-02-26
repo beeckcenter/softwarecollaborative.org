@@ -13,8 +13,9 @@ parent: Collaboratives
 | states            | Oregon
 | government type   | state
 | license           | open
-| website           | [http://www.opentripplanner.org/](http://www.opentripplanner.org/)
-| another website   | [https://github.com/opentripplanner](https://github.com/opentripplanner)
+| website           | [opentripplanner.org](http://www.opentripplanner.org/)
+| repository		   | [github.com/opentripplanner](https://github.com/opentripplanner)
+| governance			| [docs.opentripplanner.org/en/latest/Governance](http://docs.opentripplanner.org/en/latest/Governance/)
 
 ![OpenTripPlanner screenshot](images/opentripplanner.png)
 
