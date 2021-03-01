@@ -1,0 +1,616 @@
+aamva:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+    - DC
+    - VI
+aashtoware:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+    - DC
+    - PR
+activitysim:
+    - CA
+    - WA
+    - OR
+    - MN
+    - GA
+    - MI
+aims:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+bizpal:
+calwin:
+    CA
+cars:
+    OR
+census:
+cod:
+concierge:
+consul:
+covid-self-assessment:
+digital-towpath:
+    NY
+drupal-wxt:
+dss:
+e-petitions:
+evergreen:
+    - MO
+    - NC
+    - IN
+    - PA
+    - OR
+    - MN
+    - MA
+    - WA
+    - ME
+    - OH
+    - LA
+    - VA
+    - TX
+    - NY
+    - SC
+    - MI
+evve:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+    - DC
+    - VI
+    - PR
+geotrans:
+govcms:
+hmis:
+hurrevac:
+    - PR
+    - VI
+    - TX
+    - LA
+    - MS
+    - AL
+    - FL
+    - GA
+    - SC
+    - NC
+    - VA
+    - MD
+    - DC
+    - DE
+    - NJ
+    - PA
+    - NY
+    - CT
+    - NY
+    - MA
+    - NH
+    - VT
+    - ME
+irp:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+    - DC
+ius:
+    - ID
+    - VT
+    - IO
+    - ND
+ktdi:
+local-gov-drupal:
+mecc:
+    MI
+mi-mmis:
+    - MI
+    - IL
+misp:
+mn-iris:
+    - MN
+    - CA
+    - NE
+    - WY
+moose:
+mw:
+    - MD
+    - WV
+naic:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+    - DC
+    - PR
+    - VI
+    - GU
+nasba:
+    - DC 
+    - FL 
+    - GU 
+    - KY 
+    - MD 
+    - MO 
+    - MT 
+    - NC 
+    - OH 
+    - TN VA
+naswa:
+nlets:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+    - GU
+    - DC
+notify:
+nycode:
+    NY
+nyrps:
+    NY
+open-mobility:
+    - GA
+    - TX
+    - MA
+    - IL
+    - OH
+    - CO
+    - MI
+    - CA
+    - KY
+    - FL
+    - MN
+    - NY
+    - PA
+    - OR
+    - WA
+    - DC
+openfisca:
+opentripplanner:
+    - OR
+    - FL
+    - GA
+    - VA
+    - WA
+    - CA
+    - VT
+or-iris:
+    OR
+pacer:
+    MS
+pcpt:
+    PA
+qgis:
+reemployusa:
+    - MS
+    - RI
+    - OK
+    - ME
+    - CT
+rispi:
+    RI
+scubi:
+    - NC
+    - SC
+    - GA
+sedipualba:
+silvah:
+    - OH
+    - PA
+    - WV
+    - NY
+    - KY
+simplye:
+    NY
+sqlite:
+steve:
+    - AK
+    - AL
+    - AR
+    - AZ
+    - CA
+    - CO
+    - CT
+    - DE
+    - FL
+    - GA
+    - HI
+    - IA
+    - ID
+    - IL
+    - IN
+    - KS
+    - KY
+    - LA
+    - MA
+    - MD
+    - ME
+    - MI
+    - MN
+    - MO
+    - MS
+    - MT
+    - NC
+    - ND
+    - NE
+    - NH
+    - NJ
+    - NM
+    - NV
+    - NY
+    - OH
+    - OK
+    - OR
+    - PA
+    - RI
+    - SC
+    - SD
+    - TN
+    - TX
+    - UT
+    - VA
+    - VT
+    - WA
+    - WI
+    - WV
+    - WY
+    - DC
+    - VI
+    - PR
+utah-odr:
+    UT
+vista:
+    - TX
+    - AZ
+    - FL
+    - HI
+    - NJ
+    - OK
+    - WV
+    - CA
+    - NY
+    - DC
+wgrib2:
+wic-mosaic:
+    - TX
+    - NM
+    - LA
+wingap:
+    GA
+wycan:
+    - WY
+    - CO
+    - AZ
+    - ND
+x-road:
+zephyr:
+    - OR
+    - CA
+    - OH
+    - MN
