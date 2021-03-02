@@ -164,16 +164,16 @@ aims:
     - WY
 bizpal:
 calwin:
-    CA
+    - CA
 cars:
-    OR
+    - OR
 census:
 cod:
 concierge:
 consul:
 covid-self-assessment:
 digital-towpath:
-    NY
+    - NY
 drupal-wxt:
 dss:
 e-petitions:
@@ -335,7 +335,7 @@ ius:
 ktdi:
 local-gov-drupal:
 mecc:
-    MI
+    - MI
 mi-mmis:
     - MI
     - IL
@@ -414,7 +414,8 @@ nasba:
     - MT 
     - NC 
     - OH 
-    - TN VA
+    - TN
+    - VA
 naswa:
 nlets:
     - AK
@@ -471,9 +472,9 @@ nlets:
     - DC
 notify:
 nycode:
-    NY
+    - NY
 nyrps:
-    NY
+    - NY
 open-mobility:
     - GA
     - TX
@@ -501,11 +502,11 @@ opentripplanner:
     - CA
     - VT
 or-iris:
-    OR
+    - OR
 pacer:
-    MS
+    - MS
 pcpt:
-    PA
+    - PA
 qgis:
 reemployusa:
     - MS
@@ -514,7 +515,7 @@ reemployusa:
     - ME
     - CT
 rispi:
-    RI
+    - RI
 scubi:
     - NC
     - SC
@@ -527,7 +528,7 @@ silvah:
     - NY
     - KY
 simplye:
-    NY
+    - NY
 sqlite:
 steve:
     - AK
@@ -584,7 +585,7 @@ steve:
     - VI
     - PR
 utah-odr:
-    UT
+    - UT
 vista:
     - TX
     - AZ
@@ -602,7 +603,7 @@ wic-mosaic:
     - NM
     - LA
 wingap:
-    GA
+    - GA
 wycan:
     - WY
     - CO
