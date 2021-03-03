@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Built Here, Others Use 
 | service type      | Social Services
 | country           | United States
-| states            | Idaho, Vermont, North Dakota, Iowa
+| states            | ID, VT, IA, ND
 | government type   | state
 | license           | unknown
 | website           | [https://www.labor.idaho.gov/dnn/iUS](https://www.labor.idaho.gov/dnn/iUS)

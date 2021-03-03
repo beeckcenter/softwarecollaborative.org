@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Top-Down
 | service type      | Transportation
 | country           | United States
-| states            | Oregon
+| states            | OR
 | government type   | state
 | license           | unknown
 | website           | [https://www.crab.wa.gov/services/crab-information-services/crab-software](https://www.crab.wa.gov/services/crab-information-services/crab-software)

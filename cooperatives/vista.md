@@ -10,7 +10,8 @@ Parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Public Health
 | country           | United States
-| government type   | federal
+| states				| TX, AZ, FL, HI, NJ, OK, WV, CA, NY, DC
+| government type   | state, federal
 | license           | open
 | website           | [https://en.wikipedia.org/wiki/VistA#Usage_in_non-governmental_hospitals](https://en.wikipedia.org/wiki/VistA#Usage_in_non-governmental_hospitals)
 

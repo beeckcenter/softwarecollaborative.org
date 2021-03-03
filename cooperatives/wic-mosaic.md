@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | unknown
 | service type      | Information Technology
 | country           | United States
-| states            | Texas, New Mexico, Louisiana
+| states            | LA, NM, TX
 | government type   | state
 | license           | unknown
 | website           |[https://uatitsm.microsoftcrmportals.com/Account/Login/Register?returnUrl=%2F](https://uatitsm.microsoftcrmportals.com/Account/Login/Register?returnUrl=%2F)

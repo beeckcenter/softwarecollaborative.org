@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Transportation
 | country           | United States
-| states            | Oregon
+| states            | OR
 | government type   | state
 | license           | unknown
 | website           | [http://iris.oregoncounties.org/](http://iris.oregoncounties.org/)

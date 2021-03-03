@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | unknown
 | service type      | Social Services
 | country           | United States
-| states            | North Carolina and South Carolina
+| states            | NC, SC, GA
 | government type   | state
 | license           | unknown
 | website           | [https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi](https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi)

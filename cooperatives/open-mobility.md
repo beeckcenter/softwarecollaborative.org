@@ -10,8 +10,8 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Transportation
 | country           | United States
-| states            | 
-| government type   | federal
+| states            | GA, TX, MA, IL, OH, CO, MI, CA, KY, FL, MN, NY, PA, OR, WA, DC
+| government type   | municipal
 | license           | open
 | website           | [https://www.openmobilityfoundation.org/](https://www.openmobilityfoundation.org/)
 

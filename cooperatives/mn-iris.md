@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Transportation
 | country           | United States
-| states            | Minnesota, California, Nebraska, Wyoming
+| states            | CA, MN, NE, WY
 | government type   | state
 | license           | closed
 | Website           | [http://iris.dot.state.mn.us/](http://iris.dot.state.mn.us/)

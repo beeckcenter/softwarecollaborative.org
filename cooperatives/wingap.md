@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Other
 | country           | United States
-| states            | Georgia
+| states            | GA
 | government type   | state
 | license           | unknown
 | website           | [http://wingap.com/](http://wingap.com/)

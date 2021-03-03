@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | 
 | service type      | Communication
 | country           | United States
-| states            | New York
+| states            | NY
 | government type   | local
 | license           | unknown
 | website           | [https://digitaltowpath.org/](https://digitaltowpath.org/)

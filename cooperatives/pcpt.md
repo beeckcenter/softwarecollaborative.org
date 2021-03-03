@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Transportation
 | country           | United States
-| states            | Pennsylvania
+| states            | PA
 | government type   | state
 | license           | unknown
 | website           | [https://pa-cpt.camsys-apps.com/users/sign_in](https://pa-cpt.camsys-apps.com/users/sign_in)

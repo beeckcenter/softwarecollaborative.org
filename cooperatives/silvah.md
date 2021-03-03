@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | 
 | service type      | 
 | country           | United States
-| states            | 
+| states            | OH, PA, WV, NY, KY
 | government type   | state
 | license           | public domain
 | website           | [nrs.fs.fed.us/tools/silvah](https://www.nrs.fs.fed.us/tools/silvah/)

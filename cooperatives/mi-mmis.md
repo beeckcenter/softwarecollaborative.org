@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | unknown
 | service type      | Public Health
 | country           | United States
-| states            | Michigan, Illinois
+| states            | MI, IL
 | government type   | state
 | license           | unknown
 | website           | [https://www.michigan.gov/mdhhs/0,5885,7-339--367688--,00.html](https://www.michigan.gov/mdhhs/0,5885,7-339--367688--,00.html)

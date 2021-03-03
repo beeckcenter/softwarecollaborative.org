@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Top-Down
 | service type      | 
 | country           | United States
-| states            | unknown
+| states            | PR, VI, TX, LA, MS, AL, FL, GA, SC, NC, VA, MD, DC, DE, NJ, PA, NY, CT, NY, MA, NH, VT, ME
 | government type   | state
 | license           | unknown
 | website           | [hurrevac.com](https://www.hurrevac.com/)

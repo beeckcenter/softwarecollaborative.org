@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Law Enforcement
 | country           | United States
-| states            | all
+| states            | AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY, GU, DC
 | government type   | state
 | license           | unknown
 | website           | [nlets.org](https://www.nlets.org/)

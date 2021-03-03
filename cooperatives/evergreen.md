@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative, Independent Development
 | service type      | Public Services
 | country           | United States
-| states            | many
+| states            | MO, NC, IN, PA, OR, MN, MA, WA, ME, OH, LA, VA, TX, NY, SC, MI
 | government type   | state
 | license           | open
 | website           | [https://evergreen-ils.org/](https://evergreen-ils.org/)

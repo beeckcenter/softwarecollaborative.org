@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Top-Down
 | service type      | Other
 | country           | United States
-| states            | Rhode Island
+| states            | RI
 | government type   | state
 | license           | unknown
 | website           | [http://permits.ri.gov/](http://permits.ri.gov/)

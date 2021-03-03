@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative, Independent Development
 | service type      | Other
 | country           | United States
-| states            | New York
+| states            | NY
 | government type   | federal
 | license           | unknown
 | website           | [https://www.codedata.us/](https://www.codedata.us/)

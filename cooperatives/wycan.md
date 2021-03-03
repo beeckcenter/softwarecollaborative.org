@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Agency Development
 | service type      | Social Services
 | country           | United States
-| states            | Wyoming, Colorado, Arizona, North Dakota
+| states            | AZ, CO, ND, WY
 | government type   | state
 | license           | unknown
 | website           | 

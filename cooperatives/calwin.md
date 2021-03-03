@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Social Services
 | country           | United States
-| states            | California
+| states            | CA
 | government type   | state
 | license           | unknown
 | website           | [http://www.calwin.org/](http://www.calwin.org/)

@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Transportation
 | country           | United States
-| states            | Oregon, California, Ohio, and others
+| states            | CA, NM, OH, OR
 | government type   | state
 | license           | open
 | website           | [https://zephyrtransport.org/](https://zephyrtransport.org/)

@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | unknown
 | service type      | Justice
 | country           | United States
-| states            | Utah
+| states            | UT
 | government type   | state
 | license           | unknown
 | website           | [https://www.utcourts.gov/smallclaimsodr/](https://www.utcourts.gov/smallclaimsodr/)

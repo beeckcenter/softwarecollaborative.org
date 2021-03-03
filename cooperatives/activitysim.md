@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development 
 | service type      | Transportation
 | country           | United States
-| states            | all
+| states            | CA, WA, OR, MN, GA, MI
 | government type   | state
 | license           | open
 | website           | [activitysim.github.io](https://activitysim.github.io/)

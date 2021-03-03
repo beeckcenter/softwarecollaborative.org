@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | 
 | service type      | Social Services
 | country           | United States
-| states            | Mississippi, Rhode Island, Oklahoma, Maine, and Connecticut
+| states            | MS, RI, OK, ME, CT
 | government type   | state
 | license           | unknown
 | website           | [https://www.uwcstrategy.org/wp-content/uploads/bsk-pdf-manager/2019/06/Jen-Jones-UI-Automated-Systems-215-SalonF.pdf](https://www.uwcstrategy.org/wp-content/uploads/bsk-pdf-manager/2019/06/Jen-Jones-UI-Automated-Systems-215-SalonF.pdf)

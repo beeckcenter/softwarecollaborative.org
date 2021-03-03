@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Education
 | country           | United States
-| states            | Minnesota
+| states            | MI
 | government type   | local
 | license           | unknown
 | website           | [https://en.m.wikipedia.org/wiki/MECC](https://en.m.wikipedia.org/wiki/MECC)

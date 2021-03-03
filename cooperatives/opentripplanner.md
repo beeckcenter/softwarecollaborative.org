@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Transportation
 | country           | United States
-| states            | Oregon
+| states            | OR, FL, GA, VA, WA, CA, VT
 | government type   | state
 | license           | open
 | website           | [opentripplanner.org](http://www.opentripplanner.org/)
