@@ -18,5 +18,5 @@ Parent: Cooperatives
 
 ![QGIS screenshot](images/qgis.png)
 
-# Description
+## Description
 Although QGIS is not a government-created or -maintained tool, the changelog to this popular open source GIS tool shows new features that were developed by or funded by local governments that required that functionality (e.g., manually created fixed tables).
