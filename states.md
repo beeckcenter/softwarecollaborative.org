@@ -1,5 +1,5 @@
 ---
-title: Software Cooperatives in U.S. States
+title: By State
 nav_order: 3
 ---
 
