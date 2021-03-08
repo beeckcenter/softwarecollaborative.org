@@ -435,7 +435,7 @@ nav_order: 3
 - [evergreen](cooperatives/evergreen.html)
 - [evve](cooperatives/evve.html)
 - [hurrevac](cooperatives/hurrevac.html)
-- [NY](cooperatives/NY.html)  nyrps
+- [NYRPS](cooperatives/nyrps.html) 
 - [irp](cooperatives/irp.html)
 - [naic](cooperatives/naic.html)
 - [nlets](cooperatives/nlets.html)

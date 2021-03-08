@@ -10,7 +10,7 @@ Parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Other
 | country           | United States
-| states            | New York
+| states            | NY
 | government type   | Mixed
 | license           | open
 | website           | [https://www.tax.ny.gov/research/property/assess/rps/index.htm](https://www.tax.ny.gov/research/property/assess/rps/index.htm)
