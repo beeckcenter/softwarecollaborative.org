@@ -11,3 +11,6 @@ echo -e "URL\tstates" | tee /tmp/states.csv >/dev/null
 grep -E "\| states" ./*.md |sed 's/\.md:|[[:blank:]]*states[[:blank:]]*\|[[:blank:]]*/\t/' >> /tmp/states.csv
 
 cd ..
+
+cat /tmp/states.csv
+cat /tmp/projects.csv
