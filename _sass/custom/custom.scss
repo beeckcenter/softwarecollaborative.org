@@ -1,0 +1,9 @@
+/* Hide theads, since our Markdown renderer shows empty theads. */
+thead { 
+    display: none;    
+}
+
+/* Wrap linked text normally. */
+.main-content a {
+    white-space: normal;
+}
