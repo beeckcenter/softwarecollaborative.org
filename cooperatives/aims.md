@@ -30,11 +30,11 @@ APHL represents state and local governmental health laboratories in the United S
 ### Enabling Data Exchange
 
 "AIMS Platform securely transports millions of messages on a monthly basis. Examples of data currently exchanged through AIMS include: 
--Aggregated Influenza test result data from public health laboratories to CDC
--Vaccine-preventable disease reports from testing centers of excellence to CDC
--Biological threat data from laboratories within the Laboratory Response Network to CDC
--Immunization data exchange among several public health jurisdictions
--Electronic laboratory reporting (ELR) between eligible hospitals and their respective jurisdictions
--National Quest ELR data to all jurisdictions
--Next Generation Sequencing (NGS) through the Advanced Molecular Detection (AMD) program
--Electronic Case Reporting (eCR) between providers and jurisdictions across the US"
+- Aggregated Influenza test result data from public health laboratories to CDC
+- Vaccine-preventable disease reports from testing centers of excellence to CDC
+- Biological threat data from laboratories within the Laboratory Response Network to CDC
+- Immunization data exchange among several public health jurisdictions
+- Electronic laboratory reporting (ELR) between eligible hospitals and their respective jurisdictions
+- National Quest ELR data to all jurisdictions
+- Next Generation Sequencing (NGS) through the Advanced Molecular Detection (AMD) program
+- Electronic Case Reporting (eCR) between providers and jurisdictions across the US"
