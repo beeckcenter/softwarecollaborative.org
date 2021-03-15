@@ -20,4 +20,4 @@ The American Association of Motor Vehicle Administrators (AAMVA) has provided a 
 
 AAMVA is a non-profit organization that dates to 1933, when it was established to standardize driver’s licenses between states. Their members include all 50 states, Washington DC, and the U.S. Virgin Islands (plus Canadian territories and provinces).
 
-They report that 70 IT staff members perform software development and support, indicating a high level of in-house software deveopment (as opposed to outsourcing).
+They report that 70 IT staff members perform software development and support, indicating a high level of in-house software deveopment (as opposed to outsourcing). Their services include Application Services, Network Services, Software Products, and Technology Standards. 
