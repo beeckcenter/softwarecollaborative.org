@@ -9,8 +9,7 @@ Parent: Cooperatives
 |:------------------|:-----------------------------------------|
 | model             | Built Here, Others Contribute
 | service type      | Education
-| country           | Australia
-| states            | 
+| country           | United States, Australia
 | government type   | 
 | license           | open
 | website           | [https://mooseframework.org/](https://mooseframework.org/)
