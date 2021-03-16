@@ -17,7 +17,7 @@ Parent: Cooperatives
 
 ![openfisca screenshot](images/openfisca.png)
 
-## description
+## Description
 
 OpenFisca is an open source project that allows you to turn legislation into code. Describe your tax & benefit system, provide a situation as input (i.e income), ask for a calculation as output (i.e. income tax), and get your results.
 
