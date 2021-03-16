@@ -11,7 +11,7 @@ Parent: Cooperatives
 | service type      | Other
 | country           | United States
 | states            | NY
-| government type   | federal
+| government type   | municipal
 | license           | unknown
 | website           | [https://www.codedata.us/](https://www.codedata.us/)
 

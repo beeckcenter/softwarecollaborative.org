@@ -1,16 +1,16 @@
 ---
-title: Oregon’s CRAB Annual Reporting System
+title: Washington CRAB
 Parent: Cooperatives
 ---
 
-# Oregon’s CRAB Annual Reporting System
+# Washington CRAB Annual Reporting System
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
 | model             | Top-Down
 | service type      | Transportation
 | country           | United States
-| states            | OR
+| states            | WA
 | government type   | state
 | license           | unknown
 | website           | [https://www.crab.wa.gov/services/crab-information-services/crab-software](https://www.crab.wa.gov/services/crab-information-services/crab-software)
