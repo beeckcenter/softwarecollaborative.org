@@ -14,7 +14,6 @@ Parent: Cooperatives
 | government type   | state
 | license           | unknown
 | website           | [https://www.utcourts.gov/smallclaimsodr/](https://www.utcourts.gov/smallclaimsodr/)
-| another website   | [https://cdm16501.contentdm.oclc.org/digital/collectiodr/id/63](https://cdm16501.contentdm.oclc.org/digital/collectiodr/id/63)
 
 
 ## Description
