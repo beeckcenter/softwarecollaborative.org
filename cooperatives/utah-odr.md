@@ -17,4 +17,4 @@ Parent: Cooperatives
 
 
 ## Description
-The State of Utah is piloting the use of online dispute resolution (ODR) in small claims cases at select courts throughout the state. The courts currently participating in this pilot are West Valley City Justice Court, Orem City Justice Court, and Carbon County Justice Court.” It is unclear whether this is custom software
+The State of Utah is piloting the use of online dispute resolution (ODR) in small claims cases at select courts throughout the state. The courts currently participating in this pilot are West Valley City Justice Court, Orem City Justice Court, and Carbon County Justice Court. It is unclear whether this is custom software.
