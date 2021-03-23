@@ -1,6 +1,6 @@
 ---
 title: LocalGov Drupal Club
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # LocalGov Drupal Club

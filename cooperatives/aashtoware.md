@@ -1,6 +1,6 @@
 ---
 title: AASHTOWare
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # AASHTOWare

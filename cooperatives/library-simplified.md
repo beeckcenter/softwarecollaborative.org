@@ -1,6 +1,6 @@
 ---
 title: Library Simplified
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Library Simplified

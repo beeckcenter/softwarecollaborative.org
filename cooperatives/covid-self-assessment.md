@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Self-Assessment Tool
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # COVID-19 Self-Assessment Tool

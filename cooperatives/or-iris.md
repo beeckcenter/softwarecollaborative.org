@@ -1,6 +1,6 @@
 ---
 title: Oregon’s Integrated Road Information System
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Association of Oregon Counties’ Integrated Road Information System

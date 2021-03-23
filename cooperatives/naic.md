@@ -1,6 +1,6 @@
 ---
 title: NAIC
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # National Association of Insurance Commissioners

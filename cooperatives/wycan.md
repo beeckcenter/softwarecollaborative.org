@@ -1,6 +1,6 @@
 ---
 title: WyCAN
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # WyCAN

@@ -1,6 +1,6 @@
 ---
 title: OpenFisca
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # OpenFisca

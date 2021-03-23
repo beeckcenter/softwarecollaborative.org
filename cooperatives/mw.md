@@ -1,6 +1,6 @@
 ---
 title: MW
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # MW

@@ -1,6 +1,6 @@
 ---
 title: GovCMS
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # GovCMS

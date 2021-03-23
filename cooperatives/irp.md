@@ -1,6 +1,6 @@
 ---
 title: International Registration Plan
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # IRP Data Repository

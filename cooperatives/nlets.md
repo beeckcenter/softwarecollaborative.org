@@ -1,6 +1,6 @@
 ---
 title: Nlets
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Nlets

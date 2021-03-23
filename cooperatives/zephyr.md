@@ -1,6 +1,6 @@
 ---
 title: Zephyr Foundation
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Zephyr Foundation

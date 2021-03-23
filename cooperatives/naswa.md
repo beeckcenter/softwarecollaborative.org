@@ -1,6 +1,6 @@
 ---
 title: NASWA
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # National Association of State Workforce Agencies

@@ -1,6 +1,6 @@
 ---
 title: Census and Survey Processing System
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Census and Survey Processing System

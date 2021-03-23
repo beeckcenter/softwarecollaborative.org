@@ -1,6 +1,6 @@
 ---
 title: American Association of Motor Vehicle Administrators
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # American Association of Motor Vehicle Administrators (AAMVA)

@@ -1,6 +1,6 @@
 ---
 title: APHL Informatics Messaging Services
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # APHL Informatics Messaging Services (AIMS)

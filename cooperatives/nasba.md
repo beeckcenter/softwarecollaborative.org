@@ -1,6 +1,6 @@
 ---
 title: CPE Audit Service
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # National Association of State Boards of Accountancy’s CPE Audit Service

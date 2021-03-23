@@ -1,6 +1,6 @@
 ---
 title: New York Real Property System
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # New York Real Property System

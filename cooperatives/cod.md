@@ -1,6 +1,6 @@
 ---
 title: Code for Development
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Code for Development

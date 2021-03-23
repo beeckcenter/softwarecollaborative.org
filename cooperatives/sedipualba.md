@@ -1,6 +1,6 @@
 ---
 title: Sedipualba @
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Sedipualba @

@@ -1,6 +1,6 @@
 ---
 title: Evergreen
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Evergreen

@@ -1,6 +1,6 @@
 ---
 title: State and Territorial Exchange of Vital Events (STEVE)
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # State and Territorial Exchange of Vital Events

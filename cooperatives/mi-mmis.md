@@ -1,6 +1,6 @@
 ---
 title: MI/IL MMIS
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # MI/IL MMIS

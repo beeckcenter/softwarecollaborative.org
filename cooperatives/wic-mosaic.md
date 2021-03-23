@@ -1,6 +1,6 @@
 ---
 title: WIC Mosaic
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # WIC Mosaic

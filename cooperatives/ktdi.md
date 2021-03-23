@@ -1,6 +1,6 @@
 ---
 title: Known Traveller Digital Identity
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Known Traveller Digital Identity (KTDI)

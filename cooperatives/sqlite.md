@@ -1,6 +1,6 @@
 ---
 title: SQLite
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # SQLite

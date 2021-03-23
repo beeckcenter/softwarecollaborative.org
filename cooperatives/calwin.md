@@ -1,6 +1,6 @@
 ---
 title: CalWIN Consortium
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # CalWIN Consortium

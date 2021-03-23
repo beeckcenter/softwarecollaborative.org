@@ -1,6 +1,6 @@
 ---
 title: VisRate
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # VisRate
