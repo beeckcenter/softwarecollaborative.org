@@ -1,6 +1,6 @@
 ---
 title: Southeast Consortium Unemployment Benefits Integration
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Southeast Consortium Unemployment Benefits Integration

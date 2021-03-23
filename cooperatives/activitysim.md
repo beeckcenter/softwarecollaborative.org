@@ -1,6 +1,6 @@
 ---
 title: ActivitySim
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # ActivitySim

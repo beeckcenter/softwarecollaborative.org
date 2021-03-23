@@ -1,6 +1,6 @@
 ---
 title: Intelligent Roadway Information System
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Intelligent Roadway Information System

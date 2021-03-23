@@ -1,6 +1,6 @@
 ---
 title: wgrib2
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # wgrib2

@@ -1,6 +1,6 @@
 ---
 title: Utah Courts’ Online Dispute Resolution
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Utah Courts’ Online Dispute Resolution

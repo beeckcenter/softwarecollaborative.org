@@ -1,6 +1,6 @@
 ---
 title: Electronic Verification of Vital Events
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Electronic Verification of Vital Events (EVVE)

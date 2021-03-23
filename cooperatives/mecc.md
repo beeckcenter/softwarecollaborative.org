@@ -1,6 +1,6 @@
 ---
 title: Minnesota Educational Computing Consortium
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Minnesota Educational Computing Consortium (MECC)

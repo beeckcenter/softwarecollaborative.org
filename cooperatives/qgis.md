@@ -1,6 +1,6 @@
 ---
 title: QGIS
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # QGIS

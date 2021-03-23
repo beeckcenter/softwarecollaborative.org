@@ -1,6 +1,6 @@
 ---
 title: GeoTrans
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # GeoTrans

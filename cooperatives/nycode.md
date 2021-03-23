@@ -1,6 +1,6 @@
 ---
 title: New York Community Officials Data Exchange
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # New York Community Officials Data Exchange

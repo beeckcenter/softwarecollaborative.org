@@ -1,6 +1,6 @@
 ---
 title: Digital Towpath
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Digital Towpath

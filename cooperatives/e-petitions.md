@@ -1,6 +1,6 @@
 ---
 title: E-Petitions
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # GDS’s E-Petitions

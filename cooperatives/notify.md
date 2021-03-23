@@ -1,6 +1,6 @@
 ---
 title: Notify
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Notify

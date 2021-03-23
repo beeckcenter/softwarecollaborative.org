@@ -1,6 +1,6 @@
 ---
 title: Drupal WXT
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Drupal WXT

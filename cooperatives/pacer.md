@@ -1,6 +1,6 @@
 ---
 title: Mississippi PACER Fork
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Mississippi PACER Fork

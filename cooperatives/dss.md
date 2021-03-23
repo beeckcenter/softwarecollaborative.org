@@ -1,6 +1,6 @@
 ---
 title: Diplomatic Security Service
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Diplomatic Security Service

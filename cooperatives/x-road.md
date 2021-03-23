@@ -1,6 +1,6 @@
 ---
 title: X-Road
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # X-Road

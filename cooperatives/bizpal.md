@@ -1,6 +1,6 @@
 ---
 title: BizPal
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # BizPal

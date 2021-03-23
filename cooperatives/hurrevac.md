@@ -1,6 +1,6 @@
 ---
 title: HURREVAC
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # HURREVAC

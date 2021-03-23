@@ -1,6 +1,6 @@
 ---
 title: Pennsylvania Capital Planning Tool
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Pennsylvania Capital Planning Tool

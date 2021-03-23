@@ -1,6 +1,6 @@
 ---
 title: Open Mobility Foundation
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Open Mobility Foundation

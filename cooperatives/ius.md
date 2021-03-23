@@ -1,6 +1,6 @@
 ---
 title: Internet Unemployment System
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Internet Unemployment System

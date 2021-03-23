@@ -1,6 +1,6 @@
 ---
 title: CONSUL
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # CONSUL

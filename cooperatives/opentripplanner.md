@@ -1,6 +1,6 @@
 ---
 title: OpenTripPlanner
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # OpenTripPlanner

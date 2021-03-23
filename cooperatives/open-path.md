@@ -1,6 +1,6 @@
 ---
 title: Open Path
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Open Path

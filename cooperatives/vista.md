@@ -1,6 +1,6 @@
 ---
 title: Veterans Health Information Systems and Technology Architecture
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Veterans Health Information Systems and Technology Architecture

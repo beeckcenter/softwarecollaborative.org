@@ -1,6 +1,6 @@
 ---
 title: Concierge
-Parent: Cooperatives
+parent: Cooperatives
 ---
 
 # Concierge
