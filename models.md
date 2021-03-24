@@ -15,11 +15,6 @@ Example: [ReEmployUSA](cooperatives/reemployusa.html)
 ## Collaborative Organizational Development
 Multiple agencies are members of an organization, and that organization performs development work via direct hires or contracting. Those agencies may contribute financially or there may be external funding (e.g., from a higher level of government or from a foundation). The organization may have been created expressly for the purpose of this software collaboration, or it may be an existing organization. In this scenario, software may be reused as SaaS or as executables/source code.
 
-
-## Collaborative Organizational Licensing
-Multiple agencies are members of an organization, and that organization licenses software for all members to use. Those agencies may contribute financially or there may be external funding (e.g., from a higher level of government or from a foundation). The organization may have been created expressly for the purpose of this software collaboration, or it may be an existing organization. 
-
-Example: [CalWIN Consortium](cooperatives/calwin.html)
 Example: [Digital Towpath](cooperatives/digital-towpath.html), [Association of Oregon Counties’ Integrated Road Information System](cooperatives/or-iris.html)
 
 ## Built Here, Others Use
