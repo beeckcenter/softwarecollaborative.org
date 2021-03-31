@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Top-Down
 | service type      | Justice
 | country           | United States
-| states            | MI
+| states            | MS
 | government type   | state
 | license           | unknown
 | website           | [https://courts.ms.gov/mec/mec.php](https://courts.ms.gov/mec/mec.php)
