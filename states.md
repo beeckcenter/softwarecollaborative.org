@@ -580,28 +580,21 @@ nav_order: 3
 - [International Registration Plan](cooperatives/irp.html)
 - [NAIC](cooperatives/naic.html)
 - [Nlets](cooperatives/nlets.html)
-- [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 - [Online Dispute Resolution](cooperatives/utah-odr.html)
+- [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 
 ## Virginia
 - [American Association of Motor Vehicle Administrators](cooperatives/aamva.html)
 - [AASHTOWare](cooperatives/aashtoware.html)
 - [APHL Informatics Messaging Services](cooperatives/aims.html)
+- [CPE Audit Service](cooperatives/nasba.html)
 - [Evergreen](cooperatives/evergreen.html)
 - [Electronic Verification of Vital Events](cooperatives/evve.html)
 - [Hurrevac](cooperatives/hurrevac.html)
 - [International Registration Plan](cooperatives/irp.html)
 - [NAIC](cooperatives/naic.html)
-- [CPE Audit Service](cooperatives/nasba.html)
 - [Nlets](cooperatives/nlets.html)
 - [OpenTripPlanner](cooperatives/opentripplanner.html)
-- [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
-
-## Virginia
-- [American Association of Motor Vehicle Administrators](cooperatives/aamva.html)
-- [Electronic Verification of Vital Events](cooperatives/evve.html)
-- [Hurrevac](cooperatives/hurrevac.html)
-- [NAIC](cooperatives/naic.html)
 - [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 
 ## Vermont
