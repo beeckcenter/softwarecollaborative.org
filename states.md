@@ -89,7 +89,7 @@ nav_order: 3
 - [ReEmployUSA](cooperatives/reemployusa.html)
 - [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 
-## Deleware
+# Delaware
 - [American Association of Motor Vehicle Administrators](cooperatives/aamva.html)
 - [AASHTOWare](cooperatives/aashtoware.html)
 - [APHL Informatics Messaging Services](cooperatives/aims.html)
