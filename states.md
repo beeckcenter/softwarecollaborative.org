@@ -89,18 +89,6 @@ nav_order: 3
 - [ReEmployUSA](cooperatives/reemployusa.html)
 - [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 
-## Washington DC
-- [American Association of Motor Vehicle Administrators](cooperatives/aamva.html)
-- [AASHTOWare](cooperatives/aashtoware.html)
-- [Electronic Verification of Vital Events](cooperatives/evve.html)
-- [Hurrevac](cooperatives/hurrevac.html)
-- [International Registration Plan](cooperatives/irp.html)
-- [NAIC](cooperatives/naic.html)
-- [CPE Audit Service](cooperatives/nasba.html)
-- [Nlets](cooperatives/nlets.html)
-- [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
-- [Veterans Health Information Systems and Technology Architecture ](cooperatives/vista.html)
-
 ## Deleware
 - [American Association of Motor Vehicle Administrators](cooperatives/aamva.html)
 - [AASHTOWare](cooperatives/aashtoware.html)
@@ -625,6 +613,18 @@ nav_order: 3
 - [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 
 ## Wisconsin
+# Washington DC
+- [American Association of Motor Vehicle Administrators](cooperatives/aamva.html)
+- [AASHTOWare](cooperatives/aashtoware.html)
+- [Electronic Verification of Vital Events](cooperatives/evve.html)
+- [Hurrevac](cooperatives/hurrevac.html)
+- [International Registration Plan](cooperatives/irp.html)
+- [NAIC](cooperatives/naic.html)
+- [CPE Audit Service](cooperatives/nasba.html)
+- [Nlets](cooperatives/nlets.html)
+- [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
+- [Veterans Health Information Systems and Technology Architecture ](cooperatives/vista.html)
+
 - [American Association of Motor Vehicle Administrators](cooperatives/aamva.html)
 - [AASHTOWare](cooperatives/aashtoware.html)
 - [APHL Informatics Messaging Services](cooperatives/aims.html)
