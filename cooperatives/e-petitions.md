@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Public Services
 | country           | United Kingdom
-| government type   | federal
+| government type   | central
 | license           | open
 | website           | [https://github.com/alphagov/e-petitions](https://github.com/alphagov/e-petitions)
 | additional website| [https://petition.parliament.uk](https://petition.parliament.uk)
