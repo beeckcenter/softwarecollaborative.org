@@ -18,7 +18,7 @@ parent: Cooperatives
 
 
 ## Description
-State and Territorial Exchange of Vital Events (STEVE) is a data-exchange system to allow states to exchange vital records (births and deaths) and to send statistical data to the [National Center for Health Statistics](https://www.cdc.gov/nchs/). It’s a product of the [National Association of Public Health Statistics and Information Systems](https://www.naphsis.org), which was formed in 1933, Fifty states, New York City, Washington D.C., and two territories participate (Guam and American Samoa lack electronic birth and death registration). STEVE is funded by member fees, which are set at a cost-recoverable level.
+State and Territorial Exchange of Vital Events (STEVE) is a data-exchange system to allow states to exchange vital records (births and deaths) and to send statistical data to the [National Center for Health Statistics](https://www.cdc.gov/nchs/). It’s a product of the [National Association of Public Health Statistics and Information Systems](https://www.naphsis.org) (NAPHSIS), which was formed in 1933. Fifty states, New York City, Washington D.C., and two territories participate in STEVE (Guam and American Samoa lack electronic birth and death registration). STEVE is funded by member fees, which are set at a cost-recoverable level.
 
 Historically, these records were synced manually — big boxes full of paper records, sent between states annually. STEVE was established to digitize this. Each state has different rules about when records become public and with whom they can be shared in the interim, which results in complicated permissions accompanying each record.
 
