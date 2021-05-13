@@ -3,7 +3,7 @@ title: LocalGov Drupal Club
 parent: Cooperatives
 ---
 
-# LocalGov Drupal Club
+# LocalGov Drupal
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
