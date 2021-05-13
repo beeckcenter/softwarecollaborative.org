@@ -1,5 +1,5 @@
 ---
-title: LocalGov Drupal Club
+title: LocalGov Drupal
 parent: Cooperatives
 ---
 
