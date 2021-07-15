@@ -61,6 +61,7 @@ nav_order: 3
 - [Nlets](cooperatives/nlets.html)
 - [Open Path](cooperatives/open-path.html)
 - [OpenTripPlanner](cooperatives/opentripplanner.html)
+- [ShakeAlert](cooperatives/shakealert.html)
 - [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 - [Veterans Health Information Systems and Technology Architecture ](cooperatives/vista.html)
 - [Zephyr Foundation](cooperatives/zephyr.html)
@@ -475,6 +476,7 @@ nav_order: 3
 - [NAIC](cooperatives/naic.html)
 - [Nlets](cooperatives/nlets.html)
 - [OpenTripPlanner](cooperatives/opentripplanner.html)
+- [ShakeAlert](cooperatives/shakealert.html)
 - [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 - [Zephyr Foundation](cooperatives/zephyr.html)
 
@@ -614,6 +616,7 @@ nav_order: 3
 - [NAIC](cooperatives/naic.html)
 - [Nlets](cooperatives/nlets.html)
 - [OpenTripPlanner](cooperatives/opentripplanner.html)
+- [ShakeAlert](cooperatives/shakealert.html)
 - [State and Territorial Exchange of Vital Events](cooperatives/steve.html)
 
 # Washington DC
