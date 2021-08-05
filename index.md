@@ -11,7 +11,7 @@ We are knitting together collections of state agencies based on common needs to 
 
 ## Team
 
-- [Robin Carnahan](https://beeckcenter.georgetown.edu/person/robin-carnahan/) &lt;robin.carnahan@georgetown.edu&gt;
+- <s>[Robin Carnahan](https://beeckcenter.georgetown.edu/person/robin-carnahan/) &lt;robin.carnahan@georgetown.edu&gt;</s> ([now at the U.S. General Services Administration](https://www.gsa.gov/about-us/organization/office-of-the-administrator/administrator))
 - [Waldo Jaquith](https://beeckcenter.georgetown.edu/person/waldo-jaquith/) &lt;waldo.jaquith@georgetown.edu&gt;
 
 Housed at [the Beeck Center at Georgetown University](https://beeckcenter.georgetown.edu/). Supported by [the Rockefeller Foundation](https://www.rockefellerfoundation.org/) and [Blue Meridian Partners](https://www.bluemeridian.org/)
