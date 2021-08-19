@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Information Security
 | country           | Estonia and Finland
-| government type   | federal
+| government type   | national
 | license           | open
 | website           | [https://x-road.global/](https://x-road.global/)
 

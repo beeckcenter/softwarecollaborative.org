@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Top-Down
 | service type      | Information Technology
 | country           | Australia
-| government type   | federal, state, and local
+| government type   | national, state, and local
 | license           | open
 | website           | [https://www.govcms.gov.au/](https://www.govcms.gov.au/)
 

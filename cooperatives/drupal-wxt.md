@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Information Technology
 | country           | Canada
-| government type   | federal
+| government type   | national
 | license           | open
 | website           | [https://www.drupal.org/project/wxt](https://www.drupal.org/project/wxt)
 

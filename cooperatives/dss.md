@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Unknown
 | service type      | Public Services
 | country           | United States
-| government type   | federal
+| government type   | national
 | license           | unknown
 | website           | [https://www.state.gov/working-for-dss/](https://www.state.gov/working-for-dss/)
 

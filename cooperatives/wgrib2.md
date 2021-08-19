@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Contribute
 | service type      | Other
 | country           | United States
-| government type   | federal
+| government type   | national
 | license           | open
 | website           | [https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/](https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/)
 

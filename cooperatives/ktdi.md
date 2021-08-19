@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Transportation
 | country           | A joint project between France, World Economic Forum, and the Netherlands
-| government type   | Federal
+| government type   | national
 | license           | unknown
 | website           | [https://ktdi.org/](https://ktdi.org/)
 

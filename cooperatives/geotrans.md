@@ -11,7 +11,7 @@ parent: Cooperatives
 | service type      | Information Technology
 | country           | United States
 | states            | 
-| government type   | federal
+| government type   | national
 | license           | closed
 | website           | [https://earth-info.nga.mil/GandG/geotrans/](https://earth-info.nga.mil/GandG/geotrans/)
 
