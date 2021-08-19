@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Communication
 | countries         | United Kingdom, Canada, Australia, U.S.
-| government type   | federal
+| government type   | national
 | license           | open
 | Website           | [https://www.notifications.service.gov.uk/](https://www.notifications.service.gov.uk/)
 | GitHub            | [https://github.com/alphagov/notifications-api](https://github.com/alphagov/notifications-api)

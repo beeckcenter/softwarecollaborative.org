@@ -11,7 +11,7 @@ parent: Cooperatives
 | service type      | Social Services
 | country           | France
 | states            | 
-| government type   | federal
+| government type   | national
 | license           | open
 | website           | [https://openfisca.org/](https://openfisca.org/)
 

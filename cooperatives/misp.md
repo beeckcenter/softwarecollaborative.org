@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Collaborative, Independent Development
 | service type      | Information Security
 | country           | Luxembourg
-| government type   | federal
+| government type   | national
 | license           | open
 | website           | [https://github.com/MISP/MISP/](https://github.com/MISP/MISP/)
 

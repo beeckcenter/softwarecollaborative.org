@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Contribute
 | service type      | Other
 | country           | United States
-| government type   | Federal
+| government type   | national
 | license           | Apache
 | website           | [https://accumulo.apache.org/](accumulo.apache.org)
 | Wikipedia entry  | [en.wikipedia.org/wiki/Apache_Accumulo](https://en.wikipedia.org/wiki/Apache_Accumulo)
