@@ -19,7 +19,7 @@ parent: Cooperatives
 
 ## Description
 
-WinGAP CAMA is the Windows-based appraisal software used in the State of Georgia property tax appraisal arena, employed by 145 of the 159 counties in Georgia. It is a cooperative effort of the Georgia Department of Revenue and GAP Group Inc., a non-profit organization. with a board comprised of representatives from member counties. Each member county pays $1,500/year to support the maintenance of the software, giving them an annual budget of under $250k. Each instance requires a Windows server running MSSQL and each workstation must run Windows.
+WinGAP CAMA is the Windows-based appraisal software used in the State of Georgia property tax appraisal arena, employed by 145 of the 159 counties in Georgia. It is a cooperative effort of the Georgia Department of Revenue and GAP Group Inc., a non-profit organization, with a board comprised of representatives from member counties. Each member county pays annual dues to support the maintenance of the software. In 2019, [dues were set to $2,000](http://wingap.com/news/default.html), giving them an annual budget of under $250k. Each instance requires a Windows server running MSSQL and each workstation must run Windows.
 
 There are a handful of counties that do not participate in WinGAP, all in the Atlanta metro area. Those counties use [Tyler Technologies’ CAMA product](https://www.tylertech.com/solutions/public-administration/appraisal-tax/computer-assisted-mass-appraisal), which is multiple orders of magnitude more expensive than WinGAP CAMA.
 
