@@ -27,4 +27,4 @@ They say:
 >
 >ActivitySim is administered by the Association of Metropolitan Planning Organizations Research Foundation, a Federal 501(c)(3) organization.
 
-They have two sotware projects: [ActivitySim](https://github.com/ActivitySim/activitysim) and [PopulationSim](https://github.com/ActivitySim/populationsim).
+They have two software projects: [ActivitySim](https://github.com/ActivitySim/activitysim) and [PopulationSim](https://github.com/ActivitySim/populationsim).
