@@ -7,3 +7,9 @@ thead {
 .main-content a {
     white-space: normal;
 }
+
+@media (min-width: 50rem) {
+    .side-bar {
+        padding-top: 30px;
+    }
+}

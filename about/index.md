@@ -3,7 +3,7 @@ title: About
 nav_order: 2
 ---
 
-# About the State Software Collaborative
+# About the Intergovernmental Software Collaborative
 
 ## Problem
 
