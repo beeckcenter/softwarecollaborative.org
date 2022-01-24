@@ -13,6 +13,15 @@ We are knitting together collections of state agencies based on common needs to 
 
 We hold monthly meetings of software cooperatives, both existing and aspirational. [Join our mailing list](https://groups.google.com/a/georgetown.edu/g/software-coops/) if you’d like to be invited to future meetings.
 
+{% assign latest = site.posts.last %}
+<h2>
+    <a href="{{ latest.url }}">The Latest: {{ latest.title }}</a>
+</h2>
+<p><i>Click <a href="/updates">here</a> to see all updates.</i></p>
+
+
+{{ latest.content }}
+
 ---
 
 Housed at [the Beeck Center at Georgetown University](https://beeckcenter.georgetown.edu/). Supported by [the Rockefeller Foundation](https://www.rockefellerfoundation.org/) and [Blue Meridian Partners](https://www.bluemeridian.org/)
