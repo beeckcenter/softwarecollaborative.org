@@ -1,6 +1,6 @@
 ---
 title: Sharing Models
-nav_order: 4
+nav_order: 5
 ---
 
 # Software Sharing Models
@@ -43,6 +43,6 @@ An agency builds software that is in the public domain, a private organization t
 Example: [SQLite](cooperatives/sqlite.html), [Open Path](cooperatives/open-path.html)
 
 ## Built Commercialized
-An agency hires a vendor to build custom software for them, but the vendor retains copyright. The vendor then resells the software to other agencies, who may not be aware that the software was built for another state. This isn’t strictly “cooperative” or “sharing,” but it does provide some of the same benefits as the other models, and is included here for completeness.
+An agency hires a vendor to build custom software for them, but the vendor retains copyright. The vendor then resells the software to other agencies, who may not be aware that the software was built for another state or territory. This isn’t strictly “cooperative” or “sharing,” but it does provide some of the same benefits as the other models, and is included here for completeness.
 
 Example: Deloitte’s [HealthInteractive](https://www2.deloitte.com/us/en/pages/public-sector/solutions/medicaid-management-information-system-modernization.html)
