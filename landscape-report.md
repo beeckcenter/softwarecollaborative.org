@@ -37,47 +37,46 @@ This report was released April 2021 under a [Creative Commons Attribution-ShareA
 
 ## Table of Contents
 
-- About the Beeck Center for Social Impact + Innovation
-- About the State Software Collaborative
-- About this Document
-- Table of Contents/ Outline Summary
-- Introduction
-- Overview of Cooperatives
-	- What They Are
-	- Why They Are Useful
-	- Where They Come From
-	- Why There Aren’t More
-- Case Studies
-	- In Practice: AASHTOWare
-	- In Practice: Evergreen
-	- In Practice: Intelligent Roadway Information System
-	- In Practice: WyCAN
-	- In Practice: Notify
-	- In Practice: WinGAP CAMA
-- How They Succeed (and Fail)
-	- Successful Co-ops
-	- Unsuccessful Co-ops
-- How to Start an Intergovernmental Software Cooperative
-	- Identify Shared Need
-	- Start Small
-	- Build Small
-	- Establish Governance
-	- Architect for Governance and Needs
-	- Insource or Outsource
-	- If Procuring, Use Agile Contracting
-	- Use Modern Software Development Practices
-	- Work in the Open
-- Appendix A: Cooperative Sharing Models
-	- Collaborative Agency Development
-	- Collaborative Organizational Development
-	- Built Here, Others Use
-	- Built Here, Others Contribute
-	- Built Externally, Agencies Contribute
-	- Top-Down
-	- Built Open, Then Privatized
-	- Built Commercialized
-- Appendix B: Inventory of cooperatively developed software projects
-
+- [About the Beeck Center for Social Impact + Innovation](#about-the-beeck-center-for-social-impact-+-innovation)
+- [About the State Software Collaborative](#about-the-state-software-collaborative)
+- [About this Document](#about-this-document)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Overview of Cooperatives](#overview-of-cooperatives)
+	- [What They Are](#what-they-are)
+	- [Why They Are Useful](#why-they-are-useful)
+	- [Where They Come From](#where-they-come-from)
+	- [Why There Aren’t More](#why-there-arent-more)
+- [Case Studies](#case-studies)
+	- [In Practice: AASHTOWare](#in-practice-aashtoware)
+	- [In Practice: Evergreen](#in-practice-evergreen)
+	- [In Practice: Intelligent Roadway Information System](#in-practice-intelligent-roadway-information-system)
+	- [In Practice: WyCAN](#in-practice-wycan)
+	- [In Practice: Notify](#in-practice-notify)
+	- [In Practice: WinGAP CAMA](#in-practice-wingap-cama)
+- [How They Succeed (and Fail)](#how-they-succeed-and-fail)
+	- [Successful Co-ops](#successful-co-ops)
+	- [Unsuccessful Co-ops](#unsuccessful-co-ops)
+- [How to Start an Intergovernmental Software Cooperative](#how-to-start-an-intergovernmental-software-cooperative)
+	- [Identify Shared Need](identify-shared-need)
+	- [Start Small](#start-small)
+	- [Build Small](#build-small)
+	- [Establish Governance](#establish-governance)
+	- [Architect for Governance and Needs](#architect-for-governance-and-needs)
+	- [Insource or Outsource](#insource-or-outsource)
+	- [If Procuring, Use Agile Contracting](#if-procuring-use-agile-contracting)
+	- [Use Modern Software Development Practices](#use-modern-software-development-practices)
+	- [Work in the Open](#work-in-the-open)
+- [Appendix A: Cooperative Sharing Models](#appendix-a-cooperative-sharing-models)
+	- [Collaborative Agency Development](#collaboriatve-agency-development)
+	- [Collaborative Organizational Development](#collaboriatve-organizationl-development)
+	- [Built Here, Others Use](#built-here-others-use)
+	- [Built Here, Others Contribute](#built-here-others-contribute)
+	- [Built Externally, Agencies Contribute](#built-externally-agencies-contribute)
+	- [Top-Down](#top-down)
+	- [Built Open, Then Privatized](#built-open-then-privatized)
+	- [Built Commercialized](#built-commercialized)
+- [Appendix B: Inventory of cooperatively developed software projects](#appendix-b-inventory-of-cooperatively-developed-software-projects)
 
 
 
