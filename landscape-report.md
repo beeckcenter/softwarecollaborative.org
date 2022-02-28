@@ -37,10 +37,11 @@ This report was released April 2021 under a [Creative Commons Attribution-ShareA
 
 ## Table of Contents
 
-- [About the Beeck Center for Social Impact + Innovation](#about-the-beeck-center-for-social-impact-+-innovation)
+- [About the Beeck Center for Social Impact + Innovation](#about-the-beeck-center-for-social-impact--innovation)
 - [About the State Software Collaborative](#about-the-state-software-collaborative)
 - [About this Document](#about-this-document)
 - [Table of Contents](#table-of-contents)
+- [Executive Summary](#executive-summary)
 - [Introduction](#introduction)
 - [Overview of Cooperatives](#overview-of-cooperatives)
 	- [What They Are](#what-they-are)
