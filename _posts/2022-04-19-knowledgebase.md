@@ -9,8 +9,7 @@ We regularly hear members of our [software collaborative network](https://groups
 
 For now, this is a simple Airtable containing some resources we've compiled. Each card has information such as the link, tags identifying relevant topics, format (e.g. book or report), and why we think the resource is useful. Anyone can submit to the knowledge base using the form linked in the first card titled "* Submit resource here!"
 
-
-
+![image](https://user-images.githubusercontent.com/3752314/164018345-5d0ba06a-8cac-42e8-bf5e-f59c684e7e5e.png)
 
 Please contribute any resources that you've found helpful in your work developing, funding, or governing shared software or services or open source projects. 
 
