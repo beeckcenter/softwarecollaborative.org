@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "ISC Community Membership Guidelines"
+---
+
 Our [hypothesis](https://softwarecollaborative.org/2022/01/24/hypothesis.html) is that building collaboratively across jurisdictions saves governments time and money while producing better outcomes for the public. As we've grown this project, we've discovered more and more cooperative organizations doing just that, but they're often unaware of each other. We're fostering a community of practice to create space for cooperatives to connect and learn from each other. 
 
 An intergovernmental software cooperative is made up of two or more government agencies jointly supporting the development of software for their collective use, operating under some kind of a governance structure. This can manifest in a variety of [sharing models](https://softwarecollaborative.org/models.html), and you can learn more in our landscape report, ["How Agencies Are Cooperatively Building Mission-Critical Software"](https://softwarecollaborative.org/landscape-report.html). 
