@@ -5,7 +5,7 @@ nav_order: 3
 
 # Updates
 
-{% site.posts.each do |post| %}
+{% for post in site.posts %}
 
     <h2>
         <a href="{{ post.url }}">{{ post.title }}</a>
@@ -13,4 +13,4 @@ nav_order: 3
 
     {{ post.exerpt }}
 
-{% end %}
+{% endfor %}
