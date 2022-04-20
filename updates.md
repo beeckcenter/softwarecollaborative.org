@@ -11,6 +11,6 @@ nav_order: 3
     <a href="{{ post.url }}">{{ post.title }}</a>
 </h2>
 
-{{ post.exerpt }}
+{{ post.content | markdownify | strip_html | truncatewords: 50}}
 
 {% endfor %}
