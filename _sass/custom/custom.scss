@@ -3,13 +3,97 @@ thead {
     display: none;    
 }
 
+/* 
+	Modify elements for Beeck Center visual identity:
+
+	color palette:  #041e42, #da291c, #6eaddc
+	fonts: 
+		sans for body text/paragraphs = Montserrat, fallback to Open Sans, bold/normal
+		serifs for document hierarchies = Libre Baskerville, fallback to Georgia, bold/normal
+	+ use the logo
+*/
+
+body {
+    font-family: Montserrat, "Open Sans", sans-serif;
+}
+
+.site-title, h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+body, a, .site-title, h1, h2, h3, h4, h5, h6 {
+    color: #041e42;
+}
+
+.icon, .main-content .anchor-heading svg, .nav-list .nav-list-item .nav-list-expander {
+    color: #041e42;
+}
+
+a:hover {
+    color: #da291c;
+}
+
+a:not([class]):hover {
+    background-image: none;
+}
+
+::selection {
+    color: #fff;
+    background: #6eaddc;
+}
+
+@media (min-width: 50rem) {
+    .site-header {
+        padding-top: 8px;
+        height: auto;
+        min-height: auto;
+        max-height: none;
+    }
+    .side-bar {
+        padding-top: inherit;
+    }
+}
+
+.site-footer__logo {
+    height: 60px;
+    line-height: 26px;
+    position: relative;
+    width: 247.5px;
+}
+
+.site-footer__logo a {
+    display: block;
+    position: absolute;
+    top: 0px; 
+    bottom: 0px; 
+    left: 0px; 
+    right: 0px; 
+    background: none;
+    overflow: hidden;
+    text-indent: -9999px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.site-footer__logo span {
+    background: 50%/contain no-repeat url(../images/beeck-center-logo-multi.svg);
+    background-origin: padding-box;
+    background-size: contain;
+    display: block;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    text-indent: -9999px;
+    white-space: nowrap;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
 /* Wrap linked text normally. */
 .main-content a {
     white-space: normal;
 }
 
-@media (min-width: 50rem) {
-    .side-bar {
-        padding-top: 30px;
-    }
-}

@@ -6,5 +6,3 @@ remote_theme: pmarsceill/just-the-docs
 links:
   home: /
   collaboratives: /collaboratives/
-
-footer_content: "All contents published under a <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY 4.0 license</a>. <a href=\"https://github.com/State-Software-Collaborative/softwarecollaborative.org\">Contributions welcome via GitHub</a>."
