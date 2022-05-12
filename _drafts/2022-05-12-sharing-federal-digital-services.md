@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Sharing Federal Digital Services with Other Layers of Government"
+---
+Bills are making their way through both the U.S. and Canadian legislatures to make it easier for sub-national governments to access their federal governments' existing digital services.
+
+The Government of Canada, in an omnibus budget bill, has included language enabling the [Canadian Digital Service](https://digital.canada.ca/) to provide its digital platform services like [GC Notify](https://notification.canada.ca/), [GC Articles](https://articles.alpha.canada.ca/), and [GC Forms](https://forms-formulaires.alpha.canada.ca/en/welcome-bienvenue) not just to other federal departments as they do now, but [to provincial, territorial, indigenous, and local governments throughout Canada](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-19/first-reading#ID0E0FK0DA), fulfilling [a commitment the current government made in its 2022 budget](https://budget.gc.ca/2022/report-rapport/chap9-en.html#m173). Likewise, [a bill in the U.S. Senate](https://www.congress.gov/bill/117th-congress/senate-bill/3890) with bipartisan support will, if passed, enable federal agencies — like GSA’s [Technology Transformation Service (TTS)](https://tts.gsa.gov), home of [login.gov](https://www.login.gov/), [cloud.gov](https://cloud.gov/), [search.gov](https://search.gov/), [Federalist](https://federalist.18f.gov/), and other valuable services —  to make their technology services available to state, local, tribal, and territorial (“SLTT”) governments.
+
+The U.S. bill's language explains the reason for the legislation: _“Congress must not allow agencies at various levels of government to operate in completely independent silos, especially when Federal benefits and programs are being administered at the State, local, territorial, and Tribal levels, which, in doing so, requires far greater taxpayer resources to be spent developing and maintaining systems, programs, projects, and other services that can be better delivered and managed cooperatively between jurisdictions.”_
+
+These bills are more important than they might sound. The Beeck Center's Aaron Snow explains [how we got here and why it matters](https://aaronsnow.net/2022/05/09/sharing-federal-digital-services-with-other-layers-of-government.html).
