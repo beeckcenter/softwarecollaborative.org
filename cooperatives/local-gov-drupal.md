@@ -30,3 +30,5 @@ In October of 2019, [the UK’s Ministry of Housing, Communities and Local Gover
 The work was performed by council employees, with support from procured agencies rather than by a single vendor. They worked in public, prodicing notes on the results of each sprint (e.g., [sprint 3](https://agile.coop/blog/local-gov-drupal-sprint-3-notes/)).
 
 In December 2020, [Croydon announced they had switched over to running LocalGov Drupal on the council’s new website](https://croydon.digital/2020/12/17/croydon-goes-live-with-localgov-drupal/), and that work was actively being done on the code base by Croydon, Bracknell Forest, Brighton, Lambeth, Waltham Forest, and Westminster.
+
+They receive funding from the Ministry of Housing, Communities and Local Government
