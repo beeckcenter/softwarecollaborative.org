@@ -27,4 +27,8 @@ They say:
 >
 >ActivitySim is administered by the Association of Metropolitan Planning Organizations Research Foundation, a Federal 501(c)(3) organization.
 
+Seven years ago, the consortium was started by 3 public agencies: San Diego Association of Governments, Puget Sound Regional Council (Seattle), and Atlanta Regional Commission through pooled funding from their Metropolitan Planning Organizations (MPOs).
+
+AMPO has the established contracts with the procurement process. Anybody can contribute, you don't need to be an AMPO member. Effectively anybody can join, it's not codified in their rules.
+
 They have two software projects: [ActivitySim](https://github.com/ActivitySim/activitysim) and [PopulationSim](https://github.com/ActivitySim/populationsim).
