@@ -1,9 +1,9 @@
 ---
-title: MW
+title: MW Consortium
 parent: Cooperatives
 ---
 
-# MW
+# MW Consortium
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
@@ -13,7 +13,7 @@ parent: Cooperatives
 | states            | MD, WV
 | government type   | state
 | license           | unknown
-| link.             | [http://csgdelivers.com/program-expertise/unemployment-insurance/multi-state-consortiums/](http://csgdelivers.com/program-expertise/unemployment-insurance/multi-state-consortiums/)
+| link             | [http://csgdelivers.com/program-expertise/unemployment-insurance/multi-state-consortiums/](http://csgdelivers.com/program-expertise/unemployment-insurance/multi-state-consortiums/)
 
 ## Description
 An unemployment insurance software consortium that includes Maryland and West Virginia.
