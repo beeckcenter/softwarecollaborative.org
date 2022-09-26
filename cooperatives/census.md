@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Other
 | country           | United States
-| government type   | United States
+| government type   | national
 | license           | open
 | website           | [https://www.census.gov/data/software/cspro.html](https://www.census.gov/data/software/cspro.html)
 
