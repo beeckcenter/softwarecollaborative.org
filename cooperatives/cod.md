@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Collaborative Organizational Development
 | service type      | Education
 | country           | United States
-| government type   | all
+| government type   | mixed
 | license           | open
 | website           | [https://code.iadb.org/en](https://code.iadb.org/en)
 
