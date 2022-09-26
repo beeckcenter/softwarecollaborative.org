@@ -8,8 +8,8 @@ parent: Cooperatives
 |                   |                                          |
 |:------------------|:-----------------------------------------|
 | model             | Collaborative Organizational Development
-| service type      | Unknown
-| country           | United States
+| service type      | Transportation
+| country           | United States, Canada
 | states            | AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY, DC
 | government type   | state
 | license           | unknown
@@ -19,7 +19,11 @@ parent: Cooperatives
 
 [About International Registration Plan, Inc.](https://www.irponline.org/page/Missionpage):
 
+>The International Registration Plan (IRP) is a US-based registration reciprocity agreement among states of the United States, the District of Columbia and provinces of Canada, including Ontario. 
+
 >Since its inception, the International Registration Plan has provided a sound platform to facilitate a registration reciprocity agreement that would be fair to the motor transportation industry and provides each member jurisdiction a fair share of revenue from vehicle registration fees based on distance traveled. Since the establishment of IRP, Inc., the association has evolved to meet the needs of the International Registration Plan and its members by providing essential programs and leadership to ensure the success of the IRP.
+
+>The plan distributes commercial vehicle registration fees based on the total distance travelled in each place. Motor carriers register with and pay to one jurisdiction. The fee is based on the percentage of distance traveled in each jurisdiction according to that jurisdiction's fee schedule; these fees are then distributed to the relevant jurisdictions. Registered motor carriers receive apportioned plates and are able to travel through all IRP member jurisdictions. Commercial motor vehicles either alone or used in combination weighing more than 26,000 pounds (11,794 kilograms), and traveling in two or more jurisdictions, are likely registered under IRP.
 
 [About the Data Repository](https://www.irponline.org/page/Dataoverview):
 
