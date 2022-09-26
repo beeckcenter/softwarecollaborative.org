@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Collaborative Organizational Development 
 | service type      | Employment
 | country           | United States
-| states				| AR, AL, AZ, DE, GA, IA, ID, IL, IN, KS, KY, MA, ME, MS, MO, MT, NE, NJ, NV, OK, PA, SC, TN, TX, UT, VT
+| states				| AL, AR, AZ, DE, GA, IA, ID, IL, IN, KS, KY, MA, ME, MO, MS, MT, NE, NJ, NV, OK, PA, SC, TN, TX, UT, VT
 | government type   | State
 | license           | Unknown
 | website           | [ajla.net](https://www.ajla.net/)
@@ -30,3 +30,5 @@ They provide [four products](https://www.ajla.net/products.html):
 AJLA also sells, as a service, [implementation, support, and hosting](https://www.ajla.net/services.html).
 
 They employ software developers and user researchers directly, instead of outsourcing the work. Ruby on Rails is their programming language of choice, and they base their software development work on user research.
+
+The governance structure of AJLA-TS is unique within state government. AJLA-TS is a component of the Kansas Department of Commerce, which provides administrative support and control. The National Association of State Workforce Agencies (NASWA) acts as the fiscal agent for AJLA-TS. Customers may contract with NASWA for AJLA-TS products or work directly with AJLA-TS for products and services. The AJLA Executive Committee provides overall guidance and direction. The AJLA Steering Committee provides technical and operational guidance. This arrangement provides the overall financial, policy, and technical governance structure necessary for AJLA-TS operations. Funding may also come from USDOL grants secured by the Alliance and from contracts with individual states and localities.
