@@ -1,9 +1,9 @@
 ---
-title: BizPal
+title: BizPaL
 parent: Cooperatives
 ---
 
-# BizPal
+# BizPaL
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
@@ -18,7 +18,7 @@ parent: Cooperatives
 
 ## Description
 
-“Launched in 2005, BizPal is jointly managed by a partnership involving governments at the federal, provincial, territorial and municipal levels. Provinces, territories and hundreds of municipalities have collaborated together to provide you with the permits and licences that may be required to start and grow your business.”
+“Launched in 2005, BizPaL is jointly managed by a partnership involving governments at the federal, provincial, territorial and municipal levels. Provinces, territories and hundreds of municipalities have collaborated together to provide you with the permits and licences that may be required to start and grow your business.”
 
 BizPaL is a free online service that helps Canadian businesses identify the permits and licenses they need, and how they can obtain them. After users select their expected business activities, BizPaL automatically generates a list of permits and licenses required by every level of government. This list includes basic information about the permits and licenses, in addition to links to the appropriate government websites.
 
