@@ -11,7 +11,7 @@ parent: Cooperatives
 | service type      | Public Services
 | country           | United Kingdom
 | government type   | national
-| license           | open
+| license           | MIT License
 | website           | [https://github.com/alphagov/e-petitions](https://github.com/alphagov/e-petitions)
 | additional website| [https://petition.parliament.uk](https://petition.parliament.uk)
 
