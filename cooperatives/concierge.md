@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Collaborative, Independent Development
 | service type      | Information Technology
 | country           | Netherlands and Canada
-| government type   | 
+| government type   | national
 | license           | open 
 | website           | [https://github.com/gctools-outilsgc/concierge](https://github.com/gctools-outilsgc/concierge)
 
