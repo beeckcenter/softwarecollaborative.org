@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Public Services
 | country           | United States
-| states            | NY, CA, TX, CT, AZ, KS, MN, IL, MO, GA, PA, MD, NJ, RI, CT, ON, MT, WA
+| states            | AZ, CA, CT, GA, IL, KS, MD, MN, MO, MT, NJ, NY, PA, RI, TX, WA
 | government type   | state
 | license           | open
 | website           | [librarysimplified.org](https://librarysimplified.org/)
