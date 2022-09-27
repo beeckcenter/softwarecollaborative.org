@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Use
 | service type      | Transportation
 | country           | United States
-| states            | PA
+| states            | PA, VA
 | government type   | state
 | license           | unknown
 | website           | [https://pa-cpt.camsys-apps.com/users/sign_in](https://pa-cpt.camsys-apps.com/users/sign_in)
@@ -18,3 +18,5 @@ parent: Cooperatives
 
 ## Description
 An open-source asset management platform developed by a private vendor for the Pennsylvania Bureau of Public Transportation. There’s cause to believe that Pennsylvania is looking to share this with other states.
+
+This software, the Pennsylvania Capital Planning Tool (CPT), was created under a collaborative agreement between PennDOT and the Virginia Division of Rail and Public Transit (DRPT) and was funded through an [FTA state-of-good-repair award] (https://www.transit.dot.gov/funding/grants/state-good-repair-grants-5337).
