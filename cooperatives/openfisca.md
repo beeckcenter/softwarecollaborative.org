@@ -12,7 +12,7 @@ parent: Cooperatives
 | country           | France
 | states            | 
 | government type   | national
-| license           | open
+| license           | GNU Public License
 | website           | [https://openfisca.org/](https://openfisca.org/)
 
 ![openfisca screenshot](images/openfisca.png)
