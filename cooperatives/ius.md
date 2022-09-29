@@ -13,6 +13,7 @@ parent: Cooperatives
 | states            | ID, VT, IA, ND
 | government type   | state
 | license           | unknown
+| status            | dissolved
 | website           | [https://www.labor.idaho.gov/dnn/iUS](https://www.labor.idaho.gov/dnn/iUS)
 
 ![ius screenshot](images/ius.jpg)
