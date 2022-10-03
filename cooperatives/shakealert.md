@@ -8,7 +8,7 @@ parent: Cooperatives
 |                   |                                          |
 |:------------------|:-----------------------------------------|
 | model             | Top-Down
-| service type      | Public Safety
+| service type      | Emergency Services
 | country           | United States
 | states				| CA, OR, WA
 | government type   | state
