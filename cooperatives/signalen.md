@@ -21,6 +21,8 @@ parent: Cooperatives
 
 Signalen is an open source process and task system for governments, which automatically categorizes and routes reports about public space for processing by the appropriate handler.
 
+Because Signalen has been developed with public funds, the municipality of Amsterdam considers it important to share its findings and results with other municipalities in the Netherlands.
+
 ### Classify notifications
 
 Residents, visitors and companies make their reports about the public space in a text field on a page on the municipality's website. This text field is in fact an interactive portal. The reporter doesn't have to choose a category for the report. Signalen automatically assigns them, based on hundreds of thousands of previously classified reports. Municipalities that are going to use Signalen train the algorithm with their own data in their own classifications.
