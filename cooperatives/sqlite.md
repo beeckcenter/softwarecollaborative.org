@@ -1,9 +1,9 @@
 ---
-title: SQLite
+title: SQLite Consortium
 parent: Cooperatives
 ---
 
-# SQLite
+# SQLite Consortium
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
