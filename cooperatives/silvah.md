@@ -8,9 +8,9 @@ parent: Cooperatives
 |                   |                                          |
 |:------------------|:-----------------------------------------|
 | model             | 
-| service type      | 
+| service type      | Environmental
 | country           | United States
-| states            | OH, PA, WV, NY, KY
+| states            | KY, NY, OH, PA, WV
 | government type   | state
 | license           | public domain
 | website           | [nrs.fs.fed.us/tools/silvah](https://www.nrs.fs.fed.us/tools/silvah/)
