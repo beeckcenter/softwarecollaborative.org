@@ -7,7 +7,7 @@ parent: Cooperatives
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
-| model             | Collaborative Agency Development
+| model             | Collaborative Organizational Development
 | service type      | Social Services
 | country           | United States
 | states            | AZ, CO, ND, WY
