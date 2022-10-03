@@ -31,4 +31,4 @@ The work was performed by council employees, with support from procured agencies
 
 In December 2020, [Croydon announced they had switched over to running LocalGov Drupal on the council’s new website](https://croydon.digital/2020/12/17/croydon-goes-live-with-localgov-drupal/), and that work was actively being done on the code base by Croydon, Bracknell Forest, Brighton, Lambeth, Waltham Forest, and Westminster.
 
-They receive funding from the Ministry of Housing, Communities and Local Government
+They receive funding from the Ministry of Housing, Communities and Local Government.
