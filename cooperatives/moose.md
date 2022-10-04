@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | Built Here, Others Contribute
 | service type      | Education
 | country           | United States, Australia
-| states            | Idaho
+| states            | ID
 | government type   | national
 | license           | open
 | website           | [https://mooseframework.org/](https://mooseframework.org/)
