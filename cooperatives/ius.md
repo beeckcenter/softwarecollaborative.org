@@ -15,11 +15,20 @@ parent: Cooperatives
 | license           | unknown
 | status            | dissolved
 | website           | [https://www.labor.idaho.gov/dnn/iUS](https://www.labor.idaho.gov/dnn/iUS)
+| another website   | [https://www.govtech.com/health/idaho-sells-home-grown-unemployment-system-to-iowa-and-vermont.html] (https://www.govtech.com/health/idaho-sells-home-grown-unemployment-system-to-iowa-and-vermont.html)
 
 ![ius screenshot](images/ius.jpg)
 
 ## Description
-An unemployment insurance software consortium that included Idaho, Vermont, Iowa, and North Dakota. The states began their collaboration in 2017, with Idaho leading the work developing the .NET-based software. Soon after work began, Iowa left the consortium due to conflicting technical requirements (they wanted something Java-based), and North Dakota later joined. [Hawaii planned to join](https://www.govtech.com/computing/Have-State-Unemployment-Insurance-Systems-Recovered-from-COVID-19.html), looking to pay Idaho to migrate Hawaii’s data to Idaho’s system.
+They say:
+
+>"With an antiquated, costly mainframe system built in the 1970s, the Idaho Department of Labor was pressed to find an alternate viable solution. As a result, the administration used 12 in-house employees and spent approximately $7 million to develop the iUS (Internet Unemployment System) to more efficiently manage unemployment processes."
+
+An unemployment insurance software consortium that included Idaho, Vermont, Iowa, and North Dakota. The states began their collaboration in 2017, with Idaho leading the work developing the .NET-based software. Vermont partnered with Idaho and, initially, Iowa in the iUS consortium to leverage and build upon Idaho's iUS. Idaho developed the first version of the iUS benefits system with state staff and added modules to meet their and partner states' needs. 
+
+Soon after work began, Iowa left the consortium due to conflicting technical requirements (they wanted something Java-based) and concerns over the state's ability to support the underlying .net technology (versus the Java platform they were using). North Dakota later joined as they realized this was the most cost-effective manner to update their own legacy systems. [Hawaii planned to join](https://www.govtech.com/computing/Have-State-Unemployment-Insurance-Systems-Recovered-from-COVID-19.html), looking to pay Idaho to migrate Hawaii’s data to Idaho’s system.
+
+The US Department of Labor (USDOL) had provided funding to states to form consortiums that modernized the unemployment insurance systems from decades-old mainframe systems to shared, modern technology.
 
 Nicknamed "iUS," it was dissolved in early 2020, after three years of work. In early 2020, Vermont Secretary of Digital Services John Quinn provided [an account of why the state pulled out of the consortium](https://vermontdailychronicle.com/2020/04/22/scott-pulled-plug-on-troubled-ui-upgrade-then-this-pandemic-hit/):
 
