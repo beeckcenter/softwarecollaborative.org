@@ -15,7 +15,7 @@ parent: Cooperatives
 | license           | unknown
 | website           | [https://basis.bayareametro.gov/#AboutBASIS] (https://basis.bayareametro.gov/#AboutBASIS)
 
-![BASIS screenshot](images/basis.jpg)
+![BASIS screenshot](images/basis.png)
 
 ## Description
 The Bay Area Spatial Information System (BASIS) is a new Data as a Service (DaaS) Initiative operated by the Association of Bay Area Governments (ABAG) and Metropolitan Transportation Commission (MTC). Managed by the Data and Visualization Team, a unit within the Regional Planning Program (RPP), this system will bring key regional datasets onto an industry standard DaaS platform where users internal and external to ABAG/MTC can download it, or access it via API for analysis and modeling purposes. BASIS represents an evolution of past efforts, such as the Local Policy Development Survey (2005), that sought to collect data from local jurisdictions for use in regional forecasts, and long range planning activities for the nine county San Francisco Bay Area region.
