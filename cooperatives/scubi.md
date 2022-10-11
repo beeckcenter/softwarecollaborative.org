@@ -7,10 +7,10 @@ parent: Cooperatives
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
-| model             | unknown
+| model             | Collaborative Organizational Development
 | service type      | Social Services
 | country           | United States
-| states            | NC, SC, GA
+| states            | NC, SC
 | government type   | state
 | license           | closed
 | website           | [https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi](https://it.nc.gov/resources/nc-it-roadmap/nc-it-roadmap-scubi)
