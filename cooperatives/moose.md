@@ -11,7 +11,7 @@ parent: Cooperatives
 | service type      | Education
 | country           | United States, Australia
 | states            | ID
-| government type   | national
+| government type   | mixed
 | license           | open
 | website           | [https://mooseframework.org/](https://mooseframework.org/)
 | another website   | [https://github.com/idaholab/moose](https://github.com/idaholab/moose)
