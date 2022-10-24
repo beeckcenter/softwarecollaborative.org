@@ -10,7 +10,7 @@ parent: Cooperatives
 | model             | 
 | service type      | Information Technology
 | country           | United States
-| states            | NH
+| states            | MA, NH
 | government type   | state
 | license           | 
 | website           | [https://www.nh-connections.org/providers/nh-connections-information-system/] (https://www.nh-connections.org/providers/nh-connections-information-system/)
