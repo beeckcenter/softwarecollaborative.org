@@ -13,6 +13,7 @@ parent: Cooperatives
 | government members | Oxfordshire County, Buckinghamshire County
 | government type   | municipal
 | license           | unknwon
+| status            | inactive
 | website           | [https://theodi.org/wp-content/uploads/2020/07/2020-06_BCIE-Bucks-Cycling-Infrastructur-Evaluation-FINAL.pdf](https://theodi.org/wp-content/uploads/2020/07/2020-06_BCIE-Bucks-Cycling-Infrastructur-Evaluation-FINAL.pdf)
 
 ![Collector App screenshot](images/collectorapp.jpg)
