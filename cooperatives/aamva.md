@@ -24,7 +24,7 @@ The "sweet spot" in AAMVA's work is not building front-end systems, but building
 
 They report that 70 IT staff members perform software development and support, indicating a high level of in-house software deveopment (as opposed to outsourcing). Their services include Application Services, Network Services, Software Products, and Technology Standards. 
 
-They moved from outsourcing to hiring people, creating AAMVANet as a separate entity (to protect AAMVA in case of failure). 
+They moved from outsourcing to hiring people, creating AAMVANet as a separate entity. 
 
 Each of their systems resulted from either demands from their members or new federal requirements. Each system has a governance body or a user group, and that makes decisions about their fee structure, both in terms of what they're going to pass through as end-user fees and what they're going to pay as member-customs.
 
