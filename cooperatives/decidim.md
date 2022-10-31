@@ -9,8 +9,8 @@ parent: Cooperatives
 |:------------------|:-----------------------------------------|
 | model             | Built Externally, Agencies Contribute
 | service type      | 
-| country           | Spain
-| states            | 
+| countries         | Spain, France, Belgium, Canada, Italy, Catalunya, European Commission
+| cities            | Barcelona, New York City, Helsinki, Mexico City, Milan, Zürich, Kakogawa City, Tampere, Luzern, Rosario, Mérida, Trondheim, Belém, Gdynia, Turku, Stavanger, Pamplona, Getxo, Lausanne, Calafell, Elogie-Siemp, Esparreguera, Esplugues, Waterloo, Roubaix, Nancy, Veracruz, Uccle, Tuusula, Terrassa, Sant Cugat, Sant Boi de Llobregat, Salt, Sabadell, Romainville, Reus, Nivelles, Nanterre, Malgrat de Mar, Loiret, Hospitalet
 | government type   | 
 | license           | AGPL
 | website           | [https://decidim.org/] (https://decidim.org/)
