@@ -3,7 +3,7 @@ title: "Sharing Government Software"
 ---
 
 # Sharing Government Software
-
+*Note: Earlier this year, we changed our name from the State Software Collaborative to the Intergovernmental Software Collaborative. Now, we're changing what we call the groups of governments working in this way from cooperatives to collaboratives. These changes are reflected here.
 
 ### How Agencies Are Collaboratively Building Mission-Critical Software
 
@@ -11,7 +11,7 @@ April 2021
 
 By Waldo Jaquith and Robin Carnahan
 
-State Software Collaborative
+Intergovernmental Software Collaborative
 
 Beeck Center for Social Impact + Innovation
 
@@ -23,9 +23,9 @@ Georgetown University
 The Beeck Center is an experiential hub at Georgetown University that trains students and incubates scalable, leading edge ideas for social change. We believe impact at scale requires the courage to think and behave differently. Our work centers on investing in outcomes for individuals and society. We equip future global leaders with the mindset to promote outcome-driven solutions, using the tools of design, data, technology, and innovation. We convene actors across the public, private, and civic sectors to advance new tools, frameworks, and approaches necessary to achieve these outcomes.
 
 
-## About the State Software Collaborative
+## About the Intergovernmental Software Collaborative
 
-The Beeck Center’s State Software Collaborative is bringing together U.S. software collaboratives to facilitate their development of shared software and services. Instead of 50 states buying 50 versions of near-identical, overpriced software, we’re facilitating the collaborative development of high-quality, fair-priced software to be shared among agencies.
+The Beeck Center’s Integovernmental Software Collaborative is bringing together U.S. software collaboratives to facilitate their development of shared software and services. Instead of 50 states buying 50 versions of near-identical, overpriced software, we’re facilitating the collaborative development of high-quality, fair-priced software to be shared among agencies.
 
 
 ## About this Document
