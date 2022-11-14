@@ -3,9 +3,9 @@ layout: post
 title:  "Buying and Selling Collaborative Software across Governments"
 ---
 
-It's impossible to escape the topic of procurement when discussing government technology. We hosted a [webinar](https://www.youtube.com/watch?v=0tysjpC5VaA) on challenges and opportunities in local and state procurement earlier this year, and last month we dove into the topic at a recent monthly ISC member meeting.
+It's impossible to escape the topic of procurement when discussing government technology. We hosted a [webinar](https://www.youtube.com/watch?v=0tysjpC5VaA) on challenges and opportunities in local and state procurement earlier this year, and in September we dove into the topic at a monthly ISC member meeting.
 
-During our meeting, we discussed how both existing software collaboratives and standalone governments aspiring to join a collaborative face unique procurement challenges. Our conversation explored some touchpoints where each of these groups experience frictions throughout the procurement pipeline.
+During our meeting, we discussed how both existing software collaboratives and stand-alone governments aspiring to join a collaborative or use a collaborative solution face unique procurement challenges. Our conversation explored some touchpoints where each of these groups experience frictions throughout the procurement pipeline.
 
 ## Procurement challenges for existing government software collaboratives
 
