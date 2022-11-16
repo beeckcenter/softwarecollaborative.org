@@ -3,15 +3,15 @@ title: "Sharing Government Software"
 ---
 
 # Sharing Government Software
+*Note: Earlier this year, we [changed our name](https://softwarecollaborative.org/2022/01/24/hypothesis.html) from the State Software Collaborative to the Intergovernmental Software Collaborative. Now, we're changing what we call the groups of governments working in this way from [cooperatives to collaboratives](https://softwarecollaborative.org/2022/10/03/language-update.html). These changes are reflected here.*
 
-
-### How Agencies Are Cooperatively Building Mission-Critical Software
+### How Agencies Are Collaboratively Building Mission-Critical Software
 
 April 2021
 
 By Waldo Jaquith and Robin Carnahan
 
-State Software Collaborative
+Intergovernmental Software Collaborative
 
 Beeck Center for Social Impact + Innovation
 
@@ -23,9 +23,9 @@ Georgetown University
 The Beeck Center is an experiential hub at Georgetown University that trains students and incubates scalable, leading edge ideas for social change. We believe impact at scale requires the courage to think and behave differently. Our work centers on investing in outcomes for individuals and society. We equip future global leaders with the mindset to promote outcome-driven solutions, using the tools of design, data, technology, and innovation. We convene actors across the public, private, and civic sectors to advance new tools, frameworks, and approaches necessary to achieve these outcomes.
 
 
-## About the State Software Collaborative
+## About the Intergovernmental Software Collaborative
 
-The Beeck Center’s State Software Collaborative is bringing together U.S. software cooperatives to facilitate their development of shared software and services. Instead of 50 states buying 50 versions of near-identical, overpriced software, we’re facilitating the cooperative development of high-quality, fair-priced software to be shared among agencies.
+The Beeck Center’s Integovernmental Software Collaborative is bringing together U.S. software collaboratives to facilitate their development of shared software and services. Instead of 50 states buying 50 versions of near-identical, overpriced software, we’re facilitating the collaborative development of high-quality, fair-priced software to be shared among agencies.
 
 
 ## About this Document
@@ -83,13 +83,13 @@ This report was released April 2021 under a [Creative Commons Attribution-ShareA
 
 ## Executive Summary
 
-Since the 1960s, intergovernmental software cooperatives have quietly underpinned and facilitated the operations of government throughout the United States. These organizations are made up of two or more agencies, jointly supporting the development of software for their collective use, operating under some kind of a governance structure. Today there are many dozens of intergovernmental software collaboratives providing the software that operate DMVs, highway departments, libraries, labor agencies, insurance commissions, and transit agencies, for example. These are often housed at long-standing non-profit organizations that coordinate the interests of these agencies. Co-ops are attractive to agencies because of their break-even low costs and their software’s low risk of failure, compared to custom software development.
+Since the 1960s, intergovernmental software collaboratives have quietly underpinned and facilitated the operations of government throughout the United States. These organizations are made up of two or more agencies, jointly supporting the development of software for their collective use, operating under some kind of a governance structure. Today there are many dozens of intergovernmental software collaboratives providing the software that operate DMVs, highway departments, libraries, labor agencies, insurance commissions, and transit agencies, for example. These are often housed at long-standing non-profit organizations that coordinate the interests of these agencies. Collaboratives are attractive to agencies because of their break-even low costs and their software’s low risk of failure, compared to custom software development.
 
-Collectively, co-ops’ budgets are hundreds of millions of dollars annually, but individually some of them operate successfully on shoestring budgets that are otherwise unheard of in government. Some of their services are so crucial that, were they to disappear today, state agencies across the nation would be brought to their knees. Paradoxically, co-ops are so little known that few state CIOs could name more than a couple of them.
+Collectively, collaboratives’ budgets are hundreds of millions of dollars annually, but individually some of them operate successfully on shoestring budgets that are otherwise unheard of in government. Some of their services are so crucial that, were they to disappear today, state agencies across the nation would be brought to their knees. Paradoxically, collaboratives are so little known that few state CIOs could name more than a couple of them.
 
-Successful co-ops tend to have a clear governance structure, deliver value to users incrementally, and focus relentlessly on user needs. New co-ops should start by identifying a shared need, seek to solve a small problem, operate under a clear governance structure, architect software to suit the needs of the members, and work in the open.
+Successful collaboratives tend to have a clear governance structure, deliver value to users incrementally, and focus relentlessly on user needs. New collaboratives should start by identifying a shared need, seek to solve a small problem, operate under a clear governance structure, architect software to suit the needs of the members, and work in the open.
 
-Software cooperatives have a track record of reliably building and maintaining essential technical infrastructure for government. Private-sector grant makers should consider funding these organizations to improve government service delivery. Before requesting funding for major software procurements, agencies should determine whether there are existing co-ops that could solve the problem. When funding major software procurements, appropriators should consider requiring agencies to develop and share that software with peer agencies.
+Software collaboratives have a track record of reliably building and maintaining essential technical infrastructure for government. Private-sector grant makers should consider funding these organizations to improve government service delivery. Before requesting funding for major software procurements, agencies should determine whether there are existing co-ops that could solve the problem. When funding major software procurements, appropriators should consider requiring agencies to develop and share that software with peer agencies.
 
 
 ## 
@@ -97,30 +97,30 @@ Software cooperatives have a track record of reliably building and maintaining e
 
 ## Introduction
 
-Since the 1960s, agencies at all levels of government have created software to fulfill their missions, and shared that software with other agencies. By working together, these intergovernmental software cooperatives have quietly created and maintained vital digital tools that agencies rely on to serve the public. States’ DMVs, highway departments, libraries, labor agencies, emergency managers, insurance commissioners, and transit agencies are all likely to rely on software created by an intergovernmental software cooperative.
+Since the 1960s, agencies at all levels of government have created software to fulfill their missions, and shared that software with other agencies. By working together, these intergovernmental software collaboratives have quietly created and maintained vital digital tools that agencies rely on to serve the public. States’ DMVs, highway departments, libraries, labor agencies, emergency managers, insurance commissioners, and transit agencies are all likely to rely on software created by an intergovernmental software collaborative.
 
-Within the United States, similar municipal and state agencies tend to have approximately an 80 percent overlap in their software needs. This is because much of the function of state and local governments is the same, and research confirms that software needs tend to map to those common functions. Sharing software is a logical way to reduce the time, risks, and costs associated with major technical procurements. There are several ways that software is shared across agencies: sometimes via vendors (who develop custom software for their first agency customer, and then resell it as commercial software to subsequent agency customers); sometimes informally, by publishing under an open source license; and sometimes explicitly, via an intergovernmental software cooperative model.
+Within the United States, similar municipal and state agencies tend to have approximately an 80 percent overlap in their software needs. This is because much of the function of state and local governments is the same, and research confirms that software needs tend to map to those common functions. Sharing software is a logical way to reduce the time, risks, and costs associated with major technical procurements. There are several ways that software is shared across agencies: sometimes via vendors (who develop custom software for their first agency customer, and then resell it as commercial software to subsequent agency customers); sometimes informally, by publishing under an open source license; and sometimes explicitly, via an intergovernmental software collaborative model.
 
-Today there are dozens of software cooperatives in the United States, and surely many more that we have not yet identified. Most of these cooperatives were created independently of each other, and yet have striking similarities, despite having no published best practices or industry norms to rely on. Although their governance structures vary enormously, they largely share commitments to the incremental delivery of upgrades and to solving user needs. “Software cooperatives” is a descriptor used for the purposes of this report; these organizations do not identify as such, but instead as participants in their governmental sector (transportation, unemployment insurance, taxation, etc.).
+Today there are dozens of software collaboratives in the United States, and surely many more that we have not yet identified. Most of these collaboratives were created independently of each other, and yet have striking similarities, despite having no published best practices or industry norms to rely on. Although their governance structures vary enormously, they largely share commitments to the incremental delivery of upgrades and to solving user needs. “Software collaboratives” is a descriptor used for the purposes of this report; these organizations do not identify as such, but instead as participants in their governmental sector (transportation, unemployment insurance, taxation, etc.).
 
-This report reviews the features of intergovernmental software cooperatives, examines several different examples, looks at different categories of cooperatives and their governance structures, and inventories known cooperatives both within and outside of the United States. Agencies rethinking how they obtain technical functionality, budget officials looking to control costs and outcomes, or private funders that want to improve public services may find this report particularly useful.
+This report reviews the features of intergovernmental software collaboratives, examines several different examples, looks at different categories of collaboratives and their governance structures, and inventories known collaboratives both within and outside of the United States. Agencies rethinking how they obtain technical functionality, budget officials looking to control costs and outcomes, or private funders that want to improve public services may find this report particularly useful.
 
 
-## Overview of Cooperatives
+## Overview of Collaboratives
 
 
 ### What They Are
 
-An intergovernmental software cooperative is made up of two or more government agencies jointly supporting the development of software for their collective use, operating under some kind of a governance structure.
+An intergovernmental software collaborative is made up of two or more government agencies jointly supporting the development of software for their collective use, operating under some kind of a governance structure.
 
-These agencies might be local, regional, state, or federal. The software might be shared between agencies within the same state or federal government, or they might be shared across states or countries. Agency staff might all directly contribute to the creation and maintenance of that software, or they might outsource the work to a vendor. The agencies might collaborate on the ongoing development of the software via an open source development model, or they might simply share compiled software. The software might be independently run by each agency, or they might collectively share a Software as a Service (SaaS) model. There are a handful of different types of cooperative sharing models (see Appendix A), but in the end, they all do roughly the same thing: develop software for the collective use of their members.
+These agencies might be local, regional, state, or federal. The software might be shared between agencies within the same state or federal government, or they might be shared across states or countries. Agency staff might all directly contribute to the creation and maintenance of that software, or they might outsource the work to a vendor. The agencies might collaborate on the ongoing development of the software via an open source development model, or they might simply share compiled software. The software might be independently run by each agency, or they might collectively share a Software as a Service (SaaS) model. There are a handful of different types of collaborative sharing models (see Appendix A), but in the end, they all do roughly the same thing: develop software for the collective use of their members.
 
-There are many cooperative-adjacent models that are outside of the scope of this report. For instance, when a central government (e.g., a state) purchases a license for commercial software that allows for reuse by its members (e.g., counties), that is simply bulk purchasing. Another example is when an agency builds custom software and publishes the source code for anybody else to reuse independently—that is simply sharing.
+There are many collaborative-adjacent models that are outside of the scope of this report. For instance, when a central government (e.g., a state) purchases a license for commercial software that allows for reuse by its members (e.g., counties), that is simply bulk purchasing. Another example is when an agency builds custom software and publishes the source code for anybody else to reuse independently—that is simply sharing.
 
 
 ### Why They Are Useful
 
-There are three ways in which software cooperatives are particularly valuable:
+There are three ways in which software collaboratives are particularly valuable:
 
 
 
@@ -131,31 +131,31 @@ There are three ways in which software cooperatives are particularly valuable:
 
 ### Where They Come From
 
-Nearly every co-op began with a common user need that existed at a small number of agencies. They had the same problem at the same time, and decided to work together to solve it.
+Nearly every collaborative began with a common user need that existed at a small number of agencies. They had the same problem at the same time, and decided to work together to solve it.
 
-Many co-ops were created from the top down, emerging from an existing interagency organization. The American Association of State Highway and Transportation Officials, for example, has been around for more than a century, but it wasn’t until 1985 that they addressed the common technical needs of their members by getting into the software business. These existing interagency non-profit organizations are fertile grounds for collaborative software development, thanks to their shared mission and existing governance structure. They often start by sharing standards, move onto sharing data, and then transition into sharing software.
+Many collaboratives were created from the top down, emerging from an existing interagency organization. The American Association of State Highway and Transportation Officials, for example, has been around for more than a century, but it wasn’t until 1985 that they addressed the common technical needs of their members by getting into the software business. These existing interagency non-profit organizations are fertile grounds for collaborative software development, thanks to their shared mission and existing governance structure. They often start by sharing standards, move onto sharing data, and then transition into sharing software.
 
-Other co-ops arose from less deliberate processes. For example, the state of Georgia created the Public Information Network for Electronic Services (PINES) to run the state’s libraries before deciding to open source it, which resulted in Evergreen, now run by a non-profit organization and used in more than 2,000 libraries. These sorts of co-ops don’t originate in conference working sessions, but in the hallway conversations between sessions. They start with the minimum viable product, and grow organically, often over many years, even decades. They start at the bottom and grow out and up.
+Other collaboratives arose from less deliberate processes. For example, the state of Georgia created the Public Information Network for Electronic Services (PINES) to run the state’s libraries before deciding to open source it, which resulted in Evergreen, now run by a non-profit organization and used in more than 2,000 libraries. These sorts of collaboratives don’t originate in conference working sessions, but in the hallway conversations between sessions. They start with the minimum viable product, and grow organically, often over many years, even decades. They start at the bottom and grow out and up.
 
 
 ### Why There Aren’t More
 
-Given the value and success of intergovernmental software cooperatives, why aren’t there more of them? There are a handful of factors that appear to contribute to their relative scarcity.
+Given the value and success of intergovernmental software collaboratives, why aren’t there more of them? There are a handful of factors that appear to contribute to their relative scarcity.
 
-Governments’ budgeting and procurement processes appear to be a significant limitation on the creation and expansion of cooperatives. When a new policy is being implemented or an agency requires new technical functionality, they often begin by publishing a Request for Information (RFI), to solicit feedback from the software industry about what options exist and an approximate cost for those products or services. Monitoring RFIs and replying to them is a significant amount of work, an investment that makes sense for a software vendor, but that does not make sense for cooperatives. Agencies generally use RFI responses to make a budget request to their legislature, for example, which results in an allocation of funding to the agency. The agency then publishes a request for proposals (RFP), which is met by detailed proposals from vendors in the software industry. RFPs can be hundreds of pages long, and require proposals that are equally lengthy; again, cooperatives have neither the capacity nor the interest to write such proposals. The entire process by which agencies request funding for and acquire new technical functionality is built for purchasing software and services from commercial vendors, not for sharing and reusing software from co-ops.
+Governments’ budgeting and procurement processes appear to be a significant limitation on the creation and expansion of collaboratives. When a new policy is being implemented or an agency requires new technical functionality, they often begin by publishing a Request for Information (RFI), to solicit feedback from the software industry about what options exist and an approximate cost for those products or services. Monitoring RFIs and replying to them is a significant amount of work, an investment that makes sense for a software vendor, but that does not make sense for collaboratives. Agencies generally use RFI responses to make a budget request to their legislature, for example, which results in an allocation of funding to the agency. The agency then publishes a request for proposals (RFP), which is met by detailed proposals from vendors in the software industry. RFPs can be hundreds of pages long, and require proposals that are equally lengthy; again, collaboratives have neither the capacity nor the interest to write such proposals. The entire process by which agencies request funding for and acquire new technical functionality is built for purchasing software and services from commercial vendors, not for sharing and reusing software from collaboratives.
 
-Agencies are not pushed by funders to seek out co-ops because budget staff—at agency, executive, and legislative levels—are seldom aware of the existence of co-ops. If they knew about co-ops, they could encourage or require agencies to explore that option prior to requesting funding.
+Agencies are not pushed by funders to seek out collaboratives because budget staff—at agency, executive, and legislative levels—are seldom aware of the existence of co-ops. If they knew about collaboratives, they could encourage or require agencies to explore that option prior to requesting funding.
 
-Even if an agency was aware of an existing co-op that they wanted to join, they might find it challenging to do. Governments have comfortable, familiar processes around budgeting and procurement; an agency wishing to join a multi-state compact or sign a memorandum of understanding with a non-profit organization would find itself far off that beaten path, faced with government attorneys who are incentivized to guide agencies away from anything new or different, in order to reduce risk.
+Even if an agency was aware of an existing collaborative that they wanted to join, they might find it challenging to do. Governments have comfortable, familiar processes around budgeting and procurement; an agency wishing to join a multi-state compact or sign a memorandum of understanding with a non-profit organization would find itself far off that beaten path, faced with government attorneys who are incentivized to guide agencies away from anything new or different, in order to reduce risk.
 
-Finally, cooperatives are simply not well known. They receive little attention, the software that they maintain tends not to be public-facing, and their low dollar values mean that they’re not on a budget staff’s radar. Agencies are unlikely to be aware of cooperatives as a concept, and so they are left relying on standard procurement processes.
+Finally, collaboratives are simply not well known. They receive little attention, the software that they maintain tends not to be public-facing, and their low dollar values mean that they’re not on a budget staff’s radar. Agencies are unlikely to be aware of collaboratives as a concept, and so they are left relying on standard procurement processes.
 
 
 
 
 ## Case Studies
 
-Of the many government software co-ops—young and old, successful and unsuccessful, formal and informal, local and international—we have selected a half-dozen that illustrate these ranges. Here are thumbnail sketches of each, linking to longer case studies.
+Of the many government software collaboratives—young and old, successful and unsuccessful, formal and informal, local and international—we have selected a half-dozen that illustrate these ranges. Here are thumbnail sketches of each, linking to longer case studies.
 
 
 ### In Practice: AASHTOWare
@@ -167,7 +167,7 @@ The American Association of State Highway and Transportation Officials (AASHTO) 
 
 ### In Practice: Evergreen
 
-Evergreen is an open source integrated library system created by the Georgia Library Service in 2005. Georgia released the software under an open source license, and its subsequent popularity has led to its use in managing the collections of more than 2,000 libraries around the world. A non-profit organization, the Evergreen Project, was created to house the software, and it has a board of representatives from organizations that rely on the software. Software development is largely done by library employees and software developers contracted by libraries, although the newly created Evergreen Community Development Initiative (ECDI) is pooling members’ funds to contract for software development for their collective benefit. Some of the members of ECDI are, themselves, cooperatives, making it a sort of a cooperative of cooperatives.
+Evergreen is an open source integrated library system created by the Georgia Library Service in 2005. Georgia released the software under an open source license, and its subsequent popularity has led to its use in managing the collections of more than 2,000 libraries around the world. A non-profit organization, the Evergreen Project, was created to house the software, and it has a board of representatives from organizations that rely on the software. Software development is largely done by library employees and software developers contracted by libraries, although the newly created Evergreen Community Development Initiative (ECDI) is pooling members’ funds to contract for software development for their collective benefit. Some of the members of ECDI are, themselves, collaboratives, making it a sort of a collaborative of collaboratives.
 
 [https://softwarecollaborative.org/cooperatives/evergreen](https://softwarecollaborative.org/cooperatives/evergreen)
 
@@ -181,7 +181,7 @@ IRIS is client/server software used by four states’ transportation agencies to
 
 ### In Practice: WyCAN
 
-WyCAN was a multi-state unemployment insurance software consortium that included Wyoming, Colorado, Arizona, and North Dakota. The effort began in 2009 with a $62 million grant from the U.S. Department of Labor, in addition to funding from the member states. They teamed up via a cooperative purchasing governance agreement to build a monolithic system that would serve all of their needs. The states’ benefits processes proved too different to be reconciled under a single system, and the work was abandoned, the unspent $47 million returned to the Department of Labor.
+WyCAN was a multi-state unemployment insurance software consortium that included Wyoming, Colorado, Arizona, and North Dakota. The effort began in 2009 with a $62 million grant from the U.S. Department of Labor, in addition to funding from the member states. They teamed up via a collaborative purchasing governance agreement to build a monolithic system that would serve all of their needs. The states’ benefits processes proved too different to be reconciled under a single system, and the work was abandoned, the unspent $47 million returned to the Department of Labor.
 
 [https://softwarecollaborative.org/cooperatives/wycan](https://softwarecollaborative.org/cooperatives/wycan.html)
 
@@ -195,7 +195,7 @@ Notify is an open source software-as-a-service tool, hosted by a central authori
 
 ### In Practice: WinGAP CAMA
 
-WinGAP Computer Assisted Mass Appraisal is a mass-appraisal tool used by county-level taxation authorities throughout Georgia. The collaborative effort began in 1987, with the first release of the then-DOS-based software coming two years later. A purpose-created non-profit organization houses and maintains the software, using $1,500/year membership dues from each of the 145 participating Georgia counties. This cooperative has thrived for decades, staying under the radar and operating on a shoestring budget.
+WinGAP Computer Assisted Mass Appraisal is a mass-appraisal tool used by county-level taxation authorities throughout Georgia. The collaborative effort began in 1987, with the first release of the then-DOS-based software coming two years later. A purpose-created non-profit organization houses and maintains the software, using $1,500/year membership dues from each of the 145 participating Georgia counties. This collaborative has thrived for decades, staying under the radar and operating on a shoestring budget.
 
 [https://softwarecollaborative.org/cooperatives/wingap](https://softwarecollaborative.org/cooperatives/wingap)
 
@@ -205,59 +205,59 @@ WinGAP Computer Assisted Mass Appraisal is a mass-appraisal tool used by county-
 
 ### Successful Co-ops
 
-Successful co-ops generally have three traits in common:
+Successful collaboratives generally have three traits in common:
 
 
 
 * **A clear governance structure.** This does not mean that they have a _formal_ governance structure, but instead that all participants know what they owe to each other: they know what they will provide to the effort, what benefit they will receive, and how much control they have over the work.
-* **Incremental delivery.** Instead of working for many years, waiting to release software when it’s “done,” these co-ops release updates to their software early and often.
-* **A relentless focus on user needs.** These co-ops base all software development on what the software’s users need, and primarily concern themselves with whether they have successfully addressed those needs.
+* **Incremental delivery.** Instead of working for many years, waiting to release software when it’s “done,” these collaboratives release updates to their software early and often.
+* **A relentless focus on user needs.** These collaboratives base all software development on what the software’s users need, and primarily concern themselves with whether they have successfully addressed those needs.
 
 The latter two—incremental delivery and focusing on user needs—form a mutually reinforcing pair that is known as “[Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).” Many co-ops have worked like this prior to the creation of Agile, while others working in this manner may be unaware that they are practicing Agile.
 
 
-### Unsuccessful Co-ops
+### Unsuccessful Collaboratives
 
-Unsuccessful co-ops are more difficult to study, by virtue of no longer existing. While unsuccessful co-ops generally lack the traits of successful co-ops, the strongest theme tied to failure is the lack of a clear governance structure.
+Unsuccessful collaboratives are more difficult to study, by virtue of no longer existing. While unsuccessful collaboratives generally lack the traits of successful collaboratives, the strongest theme tied to failure is the lack of a clear governance structure.
 
 Governance problems are well illustrated by the Internet Unemployment System (branded as “iUS”). This small consortium was started by the State of Idaho in 2012, building atop the successful work that Idaho had already done to modernize its unemployment software infrastructure, with Iowa and Vermont also participating. (Iowa later dropped out and was replaced with North Dakota.) The project continued clear through 2019, with Idaho performing the software development work. At the beginning of 2020, Vermont raised the alarm, complaining of governance problems: specifically, Idaho was willing to let other states borrow iUS, but was unwilling to let them make any modifications to it, and naturally prioritized the needs of Idaho over those of Vermont or North Dakota. The governors of the three states tried to resolve these conflicts and, unable to do so, agreed to dissolve the iUS consortium. (This story was recounted by Vermont’s Agency of Digital Services’ Secretary John Quinn, [in an April 2020 letter to the Vermont Daily Chronicle](https://vermontdailychronicle.com/2020/04/22/scott-pulled-plug-on-troubled-ui-upgrade-then-this-pandemic-hit/).)
 
 
-## How to Start an Intergovernmental Software Cooperative
+## How to Start an Intergovernmental Software Collaborative
 
-Cooperatives follow many paths, and there is no single path to success. But there are some patterns among successful cooperatives. Anybody starting a new cooperative would do well to hew to the following prerequisites and practices.
+Collaboratives follow many paths, and there is no single path to success. But there are some patterns among successful collaboratives. Anybody starting a new collaborative would do well to hew to the following prerequisites and practices.
 
 
 ### Identify Shared Need
 
-Software cooperatives start with two or more government agencies that have the same need at the same time. Maybe it’s a new federal mandate for states, maybe it’s a new state program requiring localities to adapt, maybe it’s a few states coincidentally implementing similar programs at the same time. Whatever the impetus, a simultaneous shared problem is the basis for any cooperative, and work has to begin with a clear, collective understanding of what that problem is.
+Software collaboratives start with two or more government agencies that have the same need at the same time. Maybe it’s a new federal mandate for states, maybe it’s a new state program requiring localities to adapt, maybe it’s a few states coincidentally implementing similar programs at the same time. Whatever the impetus, a simultaneous shared problem is the basis for any collaborative, and work has to begin with a clear, collective understanding of what that problem is.
 
 
 ### Start Small
 
-It’s important that co-ops start small; not 20 members, but 2. The biggest challenges of cooperatives co-vary with scale. More members means more problems. By starting small, those problems can be dealt with at a small scale, and new problems can be dealt with on a per-member basis as the co-op grows.
+It’s important that collaboratives start small; not 20 members, but 2. The biggest challenges of collaboratives co-vary with scale. More members means more problems. By starting small, those problems can be dealt with at a small scale, and new problems can be dealt with on a per-member basis as the collaborative grows.
 
 
 ### Build Small
 
-It’s also important that co-ops start by solving a small problem. They shouldn’t start by building an entire unemployment insurance claims system. They should start by building a common application form, a common fraud-detection interface, or a shared platform for submission of eligibility documentation. Co-ops should create something valuable that can be implemented rapidly, so that the co-op’s members can learn how to work in this way.
+It’s also important that collaboratives start by solving a small problem. They shouldn’t start by building an entire unemployment insurance claims system. They should start by building a common application form, a common fraud-detection interface, or a shared platform for submission of eligibility documentation. Collaboratives should create something valuable that can be implemented rapidly, so that the collaborative’s members can learn how to work in this way.
 
 
 ### Establish Governance
 
-The success of a cooperative hinges on its governance. Every member needs to understand what they are obliged to provide and what they can expect to receive. It is true that some types of cooperatives get by without such a document, but anybody looking to deliberately establish an intergovernmental software cooperative should formalize governance in a document that all members agree to. A governance document should specify member responsibilities, the process for agreeing what functionality will be produced, how expenses will be funded, and by what legal mechanism the software will be shared between members. The needs of members will sometimes be in tension, and the process of resolving that should be established at the outset. This process is simplified when an existing intergovernmental organization is expanding to include software sharing, because they’ll already have much of this structure in place. The governance documentation for [ActivitySim](https://github.com/ActivitySim/activitysim/wiki/Governance) is a particularly good example of the ideals described here.
+The success of a collaborative hinges on its governance. Every member needs to understand what they are obliged to provide and what they can expect to receive. It is true that some types of collaborative get by without such a document, but anybody looking to deliberately establish an intergovernmental software collaborative should formalize governance in a document that all members agree to. A governance document should specify member responsibilities, the process for agreeing what functionality will be produced, how expenses will be funded, and by what legal mechanism the software will be shared between members. The needs of members will sometimes be in tension, and the process of resolving that should be established at the outset. This process is simplified when an existing intergovernmental organization is expanding to include software sharing, because they’ll already have much of this structure in place. The governance documentation for [ActivitySim](https://github.com/ActivitySim/activitysim/wiki/Governance) is a particularly good example of the ideals described here.
 
 
 ### Architect for Governance and Needs
 
-The architecture of a cooperative’s shared technical solution should reflect both the governance structure of the organization and the needs of its members. Are you producing ready-to-use software that every member can install on their own systems? Are you producing “roughed-in” software that every member will need to complete to integrate into their existing systems? Are you producing software as a service (SaaS) that the organization will house for its members’ collective use? Each of these three architectures has benefits and drawbacks, but one of them is likely to best serve the intersection of the need to be addressed and the capabilities of the members.
+The architecture of a collaborative’s shared technical solution should reflect both the governance structure of the organization and the needs of its members. Are you producing ready-to-use software that every member can install on their own systems? Are you producing “roughed-in” software that every member will need to complete to integrate into their existing systems? Are you producing software as a service (SaaS) that the organization will house for its members’ collective use? Each of these three architectures has benefits and drawbacks, but one of them is likely to best serve the intersection of the need to be addressed and the capabilities of the members.
 
-The question of the completeness of the software is important. Sometimes the needs of the members vary in important ways that make it impossible for them to use identical software. For example, every type of public benefits system is implemented in basically the same way, but they have significantly variant eligibility requirements and benefits, can require very different integrations with other states systems, and often use different terminology to describe the same things. When this is the case, SaaS isn’t likely to be viable, and instead the co-op will need to create software that isn’t quite complete, leaving each member to perform the finish work that will allow the software to meet their needs. This requires careful decision making when building that software. At every step of the way, the development team needs to work with that outcome in mind, constructing a modular system that will allow members to plug in the additional functionality that they require, instead of having to modify core functionality that will conflict with future updates.
+The question of the completeness of the software is important. Sometimes the needs of the members vary in important ways that make it impossible for them to use identical software. For example, every type of public benefits system is implemented in basically the same way, but they have significantly variant eligibility requirements and benefits, can require very different integrations with other states systems, and often use different terminology to describe the same things. When this is the case, SaaS isn’t likely to be viable, and instead the collaborative will need to create software that isn’t quite complete, leaving each member to perform the finish work that will allow the software to meet their needs. This requires careful decision making when building that software. At every step of the way, the development team needs to work with that outcome in mind, constructing a modular system that will allow members to plug in the additional functionality that they require, instead of having to modify core functionality that will conflict with future updates.
 
 
 ### Insource or Outsource
 
-The co-op can either build custom software itself or can pay a software development vendor to build it. If the cooperative has funding, whether from members or a grant, the stability and duration of that funding might help to dictate the approach—a one-off grant might point toward outsourcing initial development work, while a sustainable, predictable funding stream might point toward hiring a persistent team of developers. If the cooperative’s members have experienced software developers in their ranks, that might point toward building.
+The collaborative can either build custom software itself or can pay a software development vendor to build it. If the collaborative has funding, whether from members or a grant, the stability and duration of that funding might help to dictate the approach—a one-off grant might point toward outsourcing initial development work, while a sustainable, predictable funding stream might point toward hiring a persistent team of developers. If the collaborative’s members have experienced software developers in their ranks, that might point toward building.
 
 For a software development project that will span many years, it will likely be cheaper to employ a development team directly rather than contracting with a third-party vendor.
 
@@ -282,7 +282,7 @@ In short, rely on Agile software development and the associated practices of use
 
 ### Work in the Open
 
-Successful cooperatives are more likely to work in the open than other government software projects. Their governance structure is public, meeting minutes are public, meeting agendas are public, their software is open source, their bug tracker is public, and their roadmap is public. [GSA has documented the many benefits of working in the open](https://derisking-guide.18f.gov/federal-field-guide/planning/#default-to-open), and all of that advice applies here. But an additional benefit is that working in the open makes it easier to attract new members to a cooperative. It is likely that a cooperative’s competition is in the form of commercial software vendors, who keep busy responding to agencies’ RFIs and RFPs, making sales calls, and setting up booths at conferences. It is unlikely that your cooperative will do any of these things, which might make it difficult to attract new members. Working in the open can compensate for this, providing your organization with a large footprint and making it easy for potential new members to learn about you and evaluate your offerings.
+Successful collaboratives are more likely to work in the open than other government software projects. Their governance structure is public, meeting minutes are public, meeting agendas are public, their software is open source, their bug tracker is public, and their roadmap is public. [GSA has documented the many benefits of working in the open](https://derisking-guide.18f.gov/federal-field-guide/planning/#default-to-open), and all of that advice applies here. But an additional benefit is that working in the open makes it easier to attract new members to a cooperative. It is likely that a collaborative’s competition is in the form of commercial software vendors, who keep busy responding to agencies’ RFIs and RFPs, making sales calls, and setting up booths at conferences. It is unlikely that your collaborative will do any of these things, which might make it difficult to attract new members. Working in the open can compensate for this, providing your organization with a large footprint and making it easy for potential new members to learn about you and evaluate your offerings.
 
 
 ## 
@@ -290,18 +290,18 @@ Successful cooperatives are more likely to work in the open than other governmen
 
 ## Conclusion
 
-Software cooperatives have a long track record of reliably building and maintaining essential technical infrastructure for government. These non-conflicted organizations produce low-cost, high-quality software that solve pressing, specialized needs of agencies at all levels of government.
+Software collaboratives have a long track record of reliably building and maintaining essential technical infrastructure for government. These non-conflicted organizations produce low-cost, high-quality software that solve pressing, specialized needs of agencies at all levels of government.
 
-When agencies need new technical functionality, they should investigate cooperatively developed software prior to beginning any budgeting or acquisition activities. If no suitable software exists, agencies should seek to form new cooperatives with partners from similar agencies, to lower the individual cost of procurement and share the future burden of support and maintenance.
+When agencies need new technical functionality, they should investigate collaboratively developed software prior to beginning any budgeting or acquisition activities. If no suitable software exists, agencies should seek to form new collaboratives with partners from similar agencies, to lower the individual cost of procurement and share the future burden of support and maintenance.
 
-Government grant makers and appropriators should consider incentivizing funded agencies to form or participate in cooperatives, instead of awarding funding to states, for example, to build or procure the same thing 50 times over. A major custom software procurement has a low chance of success, while a reimplementation of something successfully implemented in a dozen states has a much higher chance of success, and a much lower cost.
+Government grant makers and appropriators should consider incentivizing funded agencies to form or participate in collaboratives, instead of awarding funding to states, for example, to build or procure the same thing 50 times over. A major custom software procurement has a low chance of success, while a reimplementation of something successfully implemented in a dozen states has a much higher chance of success, and a much lower cost.
 
-Private-sector grant makers should consider funding non-profit software cooperatives to improve government service delivery. These organizations generally think of themselves as creatures of government, and are unlikely to consider applying for grants, so funders would do well to survey this landscape and reach out to co-ops that they are interested in supporting, to promote wider adoption of this lower-cost, lower-risk model of delivering public services.
+Private-sector grant makers should consider funding non-profit software collaboratives to improve government service delivery. These organizations generally think of themselves as creatures of government, and are unlikely to consider applying for grants, so funders would do well to survey this landscape and reach out to collaboratives that they are interested in supporting, to promote wider adoption of this lower-cost, lower-risk model of delivering public services.
 
-Intergovernmental software cooperatives have quietly thrived for over half a century. Their impact has been substantial, but their work is poised to have quite a bit more impact over the next few years. To improve government service delivery, agencies and funders need to participate in and facilitate their rapid growth. The U.S. government has outgrown its legacy approach to technology, and we would do well to rapidly shift to this cooperative model.
+Intergovernmental software collaboratives have quietly thrived for over half a century. Their impact has been substantial, but their work is poised to have quite a bit more impact over the next few years. To improve government service delivery, agencies and funders need to participate in and facilitate their rapid growth. The U.S. government has outgrown its legacy approach to technology, and we would do well to rapidly shift to this collaborative model.
 
 
-## Appendix A: Cooperative Sharing Models
+## Appendix A: Collaborative Sharing Models
 
 
 #### **Collaborative Agency Development**
@@ -355,14 +355,14 @@ Examples:[ SQLite](https://softwarecollaborative.org/collaboratives/sqlite.html)
 
 #### **Built Commercialized**
 
-An agency hires a vendor to build custom software for them, and the vendor retains ownership. The vendor then resells the software to other agencies, who may not be aware that the software was originally built for another agency. This isn’t strictly “cooperative” or “sharing,” but it does provide some of the same benefits as the other models, and is included here for completeness.
+An agency hires a vendor to build custom software for them, and the vendor retains ownership. The vendor then resells the software to other agencies, who may not be aware that the software was originally built for another agency. This isn’t strictly “collaborative” or “sharing,” but it does provide some of the same benefits as the other models, and is included here for completeness.
 
 Examples: Deloitte’s [HealthInteractive](https://www2.deloitte.com/us/en/pages/public-sector/solutions/medicaid-management-information-system-modernization.html)
 
 
-## Appendix B: Inventory of cooperatively developed software projects
+## Appendix B: Inventory of collaboratively developed software projects
 
-This list includes every cooperative software project that we are aware of. If you are aware of other projects we should include, please contact us.
+This list includes every collaborative software project that we are aware of. If you are aware of other projects we should include, please contact us.
 
 
 
@@ -389,7 +389,7 @@ This list includes every cooperative software project that we are aware of. If y
 * [Library Simplified](https://softwarecollaborative.org/cooperatives/library-simplified.html): This collection of middleware, server software, collections management tools, and mobile client applications is used by libraries to deliver e-books and audiobooks to their patrons. Created by the New York Public Library with a federal grant, it’s now in use by libraries across the U.S.
 * [LocalGov Drupal Club](https://softwarecollaborative.org/cooperatives/local-gov-drupal.html): Several towns in England teamed up to collaboratively build a collection of open source modifications to Drupal 8 to address needs common among town councils.
 * [Malware Information Sharing Platform](https://softwarecollaborative.org/cooperatives/misp.html): This Luxembourg-based project is an open source platform for collecting and sharing cybersecurity indicators and threats. Several EU member states participate.
-* [Minnesota Educational Computing Consortium](https://softwarecollaborative.org/cooperatives/mecc.html): An early cooperative, this was created by Minnesota school districts in the 1960s, which pooled their resources to purchase time on mainframes. They went on to produce games that were so popular that they were sold nationally, including Oregon Trail, Number Munchers, and Word Munchers.
+* [Minnesota Educational Computing Consortium](https://softwarecollaborative.org/cooperatives/mecc.html): An early collaborative, this was created by Minnesota school districts in the 1960s, which pooled their resources to purchase time on mainframes. They went on to produce games that were so popular that they were sold nationally, including Oregon Trail, Number Munchers, and Word Munchers.
 * [Multiphysics Object Oriented Simulation Environment](https://softwarecollaborative.org/cooperatives/moose.html): This open source finite-element, multiphysics framework software package was created by the Idaho National Laboratory, but is used and contributed to by other government agencies and by vendors.
 * [NAIC](https://softwarecollaborative.org/cooperatives/naic.html): The National Association of Insurance Commissioners provides a suite of software tools for state insurance regulators in every U.S. state, such as a life insurance policy locator and a series of API endpoints to support regulators’ needs.
 * [NASWA](https://softwarecollaborative.org/cooperatives/naswa.html): Three different shared services are provided to states by the National Association of State Workforce Agencies, including transmitting unemployment insurance claims between agencies and employers, coordinating wage data between states, and preventing unemployment insurance fraud.
