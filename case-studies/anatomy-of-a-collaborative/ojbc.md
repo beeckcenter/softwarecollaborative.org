@@ -8,7 +8,7 @@ grand_parent: Case Studies
 
 *Date Updated: 11/18/2022*
 
-*This case study is part of our Anatomy of a Collaborative series.*
+*This case study is part of our [Anatomy of a Collaborative](/case-studies/anatomy-of-a-collaborative/) series.*
 
 The [Open Justice Broker Consortium](https://www.ojbc.org/) is a non-profit membership organization of government agencies and jurisdictions, dedicated to improving justice information sharing through the reuse of low-cost, standards-based integration software.
 
