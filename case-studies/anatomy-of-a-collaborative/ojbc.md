@@ -1,6 +1,7 @@
 ---
 title: Open Justice Broker Consortium
-parent: Case Studies
+parent: Anatomy of a Collaborative
+grand_parent: Case Studies
 ---
 
 # Anatomy of a Collaborative: Open Justice Broker Consortium
