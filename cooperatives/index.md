@@ -1,7 +1,7 @@
 ---
 title: Cooperatives
 has_children: true
-nav_order: 4
+nav_order: 5
 ---
 
 # Intergovernmental Software Cooperatives
