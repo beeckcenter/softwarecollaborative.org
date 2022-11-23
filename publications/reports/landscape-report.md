@@ -1,10 +1,13 @@
 ---
 title: "Sharing Government Software"
-nav_order: 9
+parent: Reports
+grand_parent: Publications
 ---
 
 # Sharing Government Software
 *Note: Earlier this year, we [changed our name](https://softwarecollaborative.org/2022/01/24/hypothesis.html) from the State Software Collaborative to the Intergovernmental Software Collaborative. Now, we're changing what we call the groups of governments working in this way from [cooperatives to collaboratives](https://softwarecollaborative.org/2022/10/03/language-update.html). These changes are reflected here.*
+
+*Note 2: This report is also published as a PDF and can be found [here](https://beeckcenter.georgetown.edu/report/sharing-government-software-how-agencies-are-cooperatively-building-mission-critical-software/).*
 
 ### How Agencies Are Collaboratively Building Mission-Critical Software
 
