@@ -16,7 +16,7 @@ parent: Cooperatives
 | website           | [ojbc.org](https://www.ojbc.org/)
 | GitHub repository | [github.com/ojbc](https://github.com/ojbc/)
 
-**Note: We have profiled this collaborative in depth in our Anatomy of a Collaborative series: [OJBC](/case-studies/anatomy-of-a-collaborative/ojbc.html).**
+**Note: We have profiled this collaborative in depth in our Anatomy of a Collaborative series: [OJBC](https://softwarecollaborative.org/publications/anatomy-of-a-collaborative/ojbc.html).**
 
 ## Description
 The Open Justice Broker Consortium is a non-profit membership organization of government agencies and jurisdictions, dedicated to improving justice information sharing through the reuse of low-cost, standards-based integration software. It includes a set of integrated justice information sharing components built on the Apache integration stack (Karaf, CXF, Camel). The software is used to integrate records from police, prisons, and courts, making it possible to query records across disparate law enforcement records management systems. Additionally, the Consortium has the goal of both reducing costs and increasing the speed of implementing an integrated justice system across the United States. 
