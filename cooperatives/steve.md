@@ -16,6 +16,7 @@ parent: Cooperatives
 | website           | [https://www.steve2.org/](https://www.steve2.org/)
 | another website   | [https://www.naphsis.org/steve](https://www.naphsis.org/steve)
 
+**Note: We have profiled this collaborative in depth in our Anatomy of a Collaborative series: [NAPHSIS](https://softwarecollaborative.org/publications/anatomy-of-a-collaborative/NAPHSIS.html).**
 
 ## Description
 State and Territorial Exchange of Vital Events (STEVE) is a data-exchange system to allow states to exchange vital records (births and deaths). The current version of the software, which launched in 2016, sends this statistical data to the [National Center for Health Statistics](https://www.cdc.gov/nchs/). It’s a product of the [National Association of Public Health Statistics and Information Systems](https://www.naphsis.org) (NAPHSIS), which was formed in 1933. Fifty states, New York City, Washington D.C., and two territories participate in STEVE (Guam and American Samoa lack electronic birth and death registration). STEVE is funded by member fees, which are set at a cost-recoverable level.
