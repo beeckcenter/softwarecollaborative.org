@@ -15,9 +15,11 @@ parent: Cooperatives
 | license           | unknown
 | website           | [https://www.naphsis.org/evve](https://www.naphsis.org/evve)
 
+**Note: We have profiled this collaborative in depth in our Anatomy of a Collaborative series: [NAPHSIS](https://softwarecollaborative.org/publications/anatomy-of-a-collaborative/NAPHSIS.html).**
+
 ## Description
 
-EVVE is a product of the [National Association of Public Health Statistics and Information Systems](https://www.naphsis.org), which was formed in 1933, Fifty states, New York City, Washington D.C., and two territories participate (Guam and American Samoa lack electronic birth and death registration). Built atop [State and Territorial Exchange of Vital Events (STEVE)](steve.html), EVVE is funded by user fees. It is a query-based tool, launched in 2011, that allows organizations to verify or certify a known vital event by matching identity against U.S. birth certificate databases.
+EVVE is a product of the [National Association of Public Health Statistics and Information Systems](https://www.naphsis.org), which was formed in 1933, Fifty states, New York City, Washington D.C., and two territories participate (Guam and American Samoa lack electronic birth and death registration). Built atop [State and Territorial Exchange of Vital Events (STEVE)](https://www.naphsis.org/steve), EVVE is funded by user fees. It is a query-based tool, launched in 2011, that allows organizations to verify or certify a known vital event by matching identity against U.S. birth certificate databases.
 
 They say:
 
@@ -27,4 +29,4 @@ EVVE has two components. The first is a system that’s only for government empl
 
 Each organization brought on is allowed or denied access directly by jurisdictions. So, the jurisdiction always has control over who is allowed to query their data. EVVE Fact-of-Death (FOD) is another query-based tool within EVVE. The jurisdictions opt in to participate based on categories of use, and a panel of jurisdiction representatives review all applications from organizations to use EVVE FOD. The review process ensures the organizations are assigned the appropriate category of use, and fall within the jurisdictions’ parameters for access.
 
-See also: [STEVE](steve.html).
+See also: [STEVE](https://softwarecollaborative.org/cooperatives/steve.html).
