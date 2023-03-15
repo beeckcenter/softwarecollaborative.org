@@ -1,9 +1,9 @@
 ---
-title: DASH
+title: Disaster Available Supplies in Hospitals (DASH)
 parent: Cooperatives
 ---
 
-# DASH
+# Disaster Available Supplies in Hospitals (DASH)
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
