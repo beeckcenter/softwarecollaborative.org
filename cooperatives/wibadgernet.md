@@ -1,9 +1,9 @@
 ---
-title: AASHTOWare
+title: Wisconsin BadgerNet
 parent: Cooperatives
 ---
 
-# AASHTOWare
+# Wisconsin BadgerNet
 
 |                   |                                          |
 |:------------------|:-----------------------------------------|
