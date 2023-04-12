@@ -15,7 +15,7 @@ parent: Cooperatives
 | license           | unknown
 | website           | [https://dait.wi.gov/Pages/about-us.aspx](https://dait.wi.gov/Pages/about-us.aspx)
 
-![WI DA IT Program Screenshot](widaitp.png)
+![WI DA IT Program Screenshot](images/widaitp.png)
 
 ## Description
 They say:
